@@ -504,7 +504,7 @@
 6	сидонѣ	сидонъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	conj	_	_
 7	бѫ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	силꙑ	сила	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
-9	бꙑлꙑ	бꙑти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	19	advcl	_	_
+9	бꙑлꙑ	бꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	19	advcl	_	_
 10	бꙑвъшѧѩ	бꙑти	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	_
 11	въ	въ	ADP	R-	_	12	case	_	_
 12	васъ	вꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=2|PronType=Prs	10	nmod	_	_
@@ -514,7 +514,7 @@
 16	врѣтищи	врѣтище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	_
 17	и	и	CONJ	C-	_	16	cc	_	_
 18	попелѣ	попелъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	16	conj	_	_
-19	покаали	покаꙗти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+19	покаали	покаꙗти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 20	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	mark	_	_
 21	бѫ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux	_	_
 
@@ -1094,7 +1094,7 @@
 
 1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	_
-3	чьли	чисти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+3	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 4	ѣко	ꙗко	SCONJ	G-	_	11	mark	_	_
 5	сътвори.и	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	11	nsubj	_	_
 6	ꙇскони	искони	ADV	Df	_	11	advmod	_	_
@@ -1102,7 +1102,7 @@
 8	полъ	полъ#2	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	dobj	_	_
 9	и	и	CONJ	C-	_	7	cc	_	_
 10	женескъ	женьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	conj	_	_
-11	сътворилъ	сътворити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	_
+11	сътворилъ	сътворити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	_
 12	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 
 1	моси	моси	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -1138,7 +1138,7 @@
 2	есмъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 3	еште	ѥще	ADV	Df	_	5	advmod	_	_
 4	не	не	ADV	Df	_	5	neg	_	_
-5	доконьчалъ	доконьчати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+5	доконьчалъ	доконьчати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 
 1	кто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 2	оубо	оубо	ADV	Df	_	3	discourse	_	_
@@ -1409,7 +1409,7 @@
 4	мрътвꙑхъ	мрьтвъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	_
 5	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 6	ли	ли	ADV	Du	PronType=Int	7	advmod	_	_
-7	чьли	чисти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+7	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 8	реченааго	рещи	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	7	dobj	_	_
 9	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	8	iobj	_	_
 10	б҃гмъ	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -2196,7 +2196,7 @@
 11	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
 12	съ	съ	ADP	R-	_	13	case	_	_
 13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	xcomp	_	_
-14	бꙑлъ	бꙑти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	ccomp	_	_
+14	бꙑлъ	бꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	ccomp	_	_
 
 1	ꙇ	и	CONJ	C-	_	2	cc	_	_
 2	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -2712,7 +2712,7 @@
 21	никтоже	никътоже	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	24	nsubj	_	_
 22	отъ	отъ	ADP	R-	_	23	case	_	_
 23	ч҃къ	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
-24	вьсѣлъ	въсѣсти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	14	acl	_	_
+24	вьсѣлъ	въсѣсти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	14	acl	_	_
 
 1	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	5	nsubj	_	_
 2	же	же	ADV	Df	_	5	discourse	_	_
@@ -2748,7 +2748,7 @@
 8	како	како	ADV	Du	PronType=Int	11	advmod	_	_
 9	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	dobj	_	_
 10	бѫ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
-11	погоубили	погоубити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	ccomp	_	_
+11	погоубили	погоубити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	ccomp	_	_
 
 1	аминь	аминъ	INTJ	I-	_	2	vocative	_	_
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -3374,7 +3374,7 @@
 4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	како	како	ADV	Du	PronType=Int	8	advmod	_	_
 6	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	хотѣлъ	хотѣти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	ccomp	_	_
+7	хотѣлъ	хотѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	ccomp	_	_
 8	нарешти	нарещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
 9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	dobj	_	_
 
@@ -3718,7 +3718,7 @@
 16	законооучителе	законооучитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	14	conj	_	_
 17	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	19	nsubj	_	_
 18	бѣахѫ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	_
-19	пришъли	прити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	14	acl	_	_
+19	пришъли	прити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	14	acl	_	_
 20	отъ	отъ	ADP	R-	_	22	case	_	_
 21	вьсѣкоѩ	вьсꙗкъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	22	amod	_	_
 22	вьси	вьсь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	iobj	_	_
@@ -3805,7 +3805,7 @@
 10	дроугоу	дроугъ	PRON	Pc	Case=Dat|Number=Sing|PronType=Rcp	7	iobj	_	_
 11	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	13	dobj	_	_
 12	бишѧ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
-13	сътворили	сътворити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	ccomp	_	_
+13	сътворили	сътворити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	ccomp	_	_
 14	и҃сви	исоусъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	_
 
 1	блажени	блаженъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	2	xcomp	_	_
@@ -3967,7 +3967,7 @@
 4	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 1	правѣ	правѣ	ADV	Df	Degree=Pos	2	advmod	_	_
-2	сѫдилъ	сѫдити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+2	сѫдилъ	сѫдити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 3	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
 
 1	си	сь	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -4817,14 +4817,14 @@
 13	мьнѣ	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
 14	николиже	николиже	ADV	Df	_	16	advmod	_	_
 15	не	не	ADV	Df	_	16	neg	_	_
-16	далъ	дати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	_
+16	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	_
 17	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
 18	козьлѧте	козьлѧ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	dobj	_	_
 19	да	да	SCONJ	G-	_	23	mark	_	_
 20	съ	съ	ADP	R-	_	21	case	_	_
 21	дроугꙑ	дроугъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	23	nmod	_	_
 22	моими	мои	PRON	Ps	Case=Ins|Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	nmod	_	_
-23	възвеселилъ	възвеселити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	16	advcl	_	_
+23	възвеселилъ	възвеселити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	16	advcl	_	_
 24	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	23	mark	_	_
 25	бимь	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
 
@@ -4869,7 +4869,7 @@
 1	оунѣе	оунии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	4	xcomp	_	_
 2	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 3	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	бꙑло	бꙑти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+4	бꙑло	бꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 5	аште	аще	SCONJ	G-	_	6	mark	_	_
 6	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
 7	камень	камꙑ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -4890,7 +4890,7 @@
 22	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	19	dobj	_	_
 
 1	и	и	CONJ	C-	_	2	cc	_	_
-2	послоушала	послоушати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+2	послоушала	послоушати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 3	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
 4	васъ	вꙑ	PRON	Pp	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
 
@@ -5138,7 +5138,7 @@
 
 1	оучителю	оучитель	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	_
 2	мосии	моси	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	написалъ	напьсати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+3	написалъ	напьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 4	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 5	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
 6	аште	аще	SCONJ	G-	_	9	mark	_	_
@@ -5465,7 +5465,7 @@
 1	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	не	не	ADV	Df	_	4	neg	_	_
 3	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	присталъ	пристати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+4	присталъ	пристати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 5	съвѣтѣ	съвѣтъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	iobj	_	_
 6	и	и	CONJ	C-	_	5	cc	_	_
 7	дѣлѣ	дѣло	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	conj	_	_
@@ -6056,7 +6056,7 @@
 1	не	не	ADV	Df	_	4	neg	_	_
 2	ѣко	ꙗко#2	ADV	Df	_	4	discourse	_	_
 3	отьца	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	dep	_	_
-4	видѣлъ	видѣти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+4	видѣлъ	видѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 5	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 6	тъкъмо	тъкъмо#1	ADV	Df	_	4	advmod	_	_
 
@@ -6955,14 +6955,14 @@
 1	а҅ще	аще	SCONJ	G-	_	4	mark	_	_
 2	не	не	ADV	Df	_	4	neg	_	_
 3	бимь	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	пришелъ	прити	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	11	advcl	_	_
+4	пришелъ	прити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	11	advcl	_	_
 5	и	и	CONJ	C-	_	4	cc	_	_
-6	г҃лалъ	глаголати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	_
+6	г҃лалъ	глаголати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	_
 7	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	_
 8	грѣха	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	dobj	_	_
 9	не	не	ADV	Df	_	11	neg	_	_
 10	бѫ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
-11	имѣли	имѣти	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+11	имѣли	имѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
 
 1	си	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	2	dobj	_	_
 2	г҃лахъ	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -7037,7 +7037,7 @@
 8	прославитъ	прославити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 9	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	dobj	_	_
 10	ѣкоже	ꙗкоже	ADV	Dq	PronType=Rel	11	advmod	_	_
-11	далъ	дати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	advcl	_	_
+11	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	advcl	_	_
 12	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
 13	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 14	власть	власть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	dobj	_	_
@@ -7048,7 +7048,7 @@
 19	еже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	22	dobj	_	_
 20	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
 21	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	iobj	_	_
-22	далъ	дати	VERB	V-	Aspect=Resultative|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	18	acl	_	_
+22	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	18	acl	_	_
 23	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
 24	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	iobj	_	_
 25	живота	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	dobj	_	_
