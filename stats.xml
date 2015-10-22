@@ -7,6 +7,9 @@
   <size>
     <total><sentences>6308</sentences><tokens>57184</tokens><words>57184</words><fused>0</fused></total>
   </size>
+  <lemmas unique="2937" /><!-- и, бꙑти, въ, же, себе, не, глаголати, рещи, азъ, иже, ꙗко, на, отъ, сь, вꙑ -->
+  <forms unique="9819" /><!-- ꙇ, и, же, сѧ, не, въ, ѣко, на, отъ, рече, емоу, естъ, его, да, къ -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="13">
     <tag name="ADJ">4010</tag><!-- сь, тъ, онъ, мъногъ, божии, чловѣчьскъ, вьсꙗкъ, дроугъ, самъ, добръ -->
@@ -27,7 +30,7 @@
   <feats unique="45">
     <feat name="Aspect" value="Imp" upos="VERB">1121</feat><!-- бѣ, бѣахѫ, г҃лаахѫ, г҃лааше, г҃лаше, хотѣаше, искаахѫ, идѣаше, молѣаше, бѣшѧ -->
     <feat name="Aspect" value="Perf" upos="VERB">3769</feat><!-- рече, г҃ла, бꙑстъ, приде, рѣшѧ, сътвори, отъвѣшта, дастъ, посъла, придѫ -->
-    <feat name="Aspect" value="Resultative" upos="VERB">198</feat><!-- далъ, бꙑлъ, пришелъ, сътворилъ, чьли, бꙑли, имѣли, бꙑло, възлюбилъ, чъли -->
+    <feat name="Aspect" value="Res" upos="VERB">198</feat><!-- далъ, бꙑлъ, пришелъ, сътворилъ, чьли, бꙑли, имѣли, бꙑло, възлюбилъ, чъли -->
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">7609</feat><!-- сѧ, и, мѧ, ѩ, что, вꙑ, тѧ, і, еже, се -->
     <feat name="Case" value="Dat" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">3652</feat><!-- емоу, имъ, вамъ, немоу, тебѣ, мьнѣ, намъ, ми, ти, еи -->
     <feat name="Case" value="Dat,Gen" upos="NOUN,NUM">5</feat><!-- домоу, благодати, пѧти, съмръти -->
