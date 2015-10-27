@@ -1,6 +1,6 @@
 # UD Old Church Slavonic
 
-The Old Church Slavonic (OCS) UD treebank is based on the Old Church Slavonic data from the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The data have been automatically converted to the UD scheme by Dag Haug. The conversion is based on the 20151101 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in that release. The conversion code is available in the proiel-cli rubygem.
+The Old Church Slavonic (OCS) UD treebank is based on the Old Church Slavonic data from the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The data have been automatically converted to the UD scheme by Dag Haug. The conversion is based on the 20151101 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the proiel-cli rubygem.
 
 The treebank contains the text of the Codex Marianus New Testament translation. The original annotation guidelines are available at http://folk.uio.no/daghaug/syntactic_guidelines.pdf.
 
