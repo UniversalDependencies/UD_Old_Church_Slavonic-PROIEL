@@ -148,7 +148,7 @@
 2	и	и	CONJ	C-	_	1	cc	_	_
 3	обрѧщете	обрѣсти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 
-1	ѣко	ꙗко#1	ADV	Df	_	2	advmod	_	_
+1	ѣко	ꙗко#2	ADV	Df	_	2	discourse	_	_
 2	пространа	пространъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	5	conj	_	_
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 4	и	и	CONJ	C-	_	5	cc	_	_
