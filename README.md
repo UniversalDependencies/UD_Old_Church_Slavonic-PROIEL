@@ -10,6 +10,10 @@ The development data consists of the 9th, 19th, 29th etc. sentences of the conve
 ## References
  Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.).  *Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)* (2008), pp. 27-34.
 
+## Changelog
+
+No change since UD v1.2.
+
 
 Documentation status: stub
 Data source: automatic
