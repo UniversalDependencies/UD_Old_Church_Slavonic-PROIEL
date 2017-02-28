@@ -1,3 +1,4 @@
+# newdoc id = Codex_Marianus,_Matthew_9
 # source = Codex Marianus, Matthew 9
 # text = ꙇ вьлѣзъ въ корабь и҃съ прѣѣде ꙇ приде въ свои градъ
 # sent_id = 38541
@@ -888,6 +889,7 @@
 10	жѧтвѫ	жѧтва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=MATT_9.38
 11	своѭ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=MATT_9.38
 
+# newdoc id = Codex_Marianus,_Matthew_10
 # source = Codex Marianus, Matthew 10
 # text = Ꙇ҅ призъва оба на десѧте оученика своѣ
 # sent_id = 50772
@@ -1777,6 +1779,7 @@
 21	мьздꙑ	мьзда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	obj:dir	_	ref=MATT_10.42
 22	своеѩ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	21	nmod	_	ref=MATT_10.42
 
+# newdoc id = Codex_Marianus,_Matthew_11
 # source = Codex Marianus, Matthew 11
 # text = Ꙇ бꙑстъ егда съвръши и҃съ заповѣдаѩ обѣма на десѧте оученикома своима
 # sent_id = 50788
@@ -2431,6 +2434,7 @@
 8	легъко	легъкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	9	xcomp	_	ref=MATT_11.30
 9	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_11.30
 
+# newdoc id = Codex_Marianus,_Matthew_12
 # source = Codex Marianus, Matthew 12
 # text = Въ то врѣмѧ приде и҃съ сквозѣ сѣаниѣ
 # sent_id = 38696
@@ -3504,6 +3508,7 @@
 18	мати	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	ref=MATT_12.50
 19	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_12.50
 
+# newdoc id = Codex_Marianus,_Matthew_13
 # source = Codex Marianus, Matthew 13
 # text = Въ тъ же день ишедъ и҃съ из домоу сѣдѣше при мори
 # sent_id = 38772
@@ -4840,6 +4845,7 @@
 8	невѣрьство	невѣрьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	ref=MATT_13.58
 9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=MATT_13.58
 
+# newdoc id = Codex_Marianus,_Matthew_14
 # source = Codex Marianus, Matthew 14
 # text = въ врмѧ оно оуслꙑшавъ иродъ тетрархъ слоухъ и҃свъ ꙇ рече отрокомъ своимъ
 # sent_id = 38862
@@ -5581,6 +5587,7 @@
 6	с҃псни	съпасти#1	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	ref=MATT_14.36
 7	бꙑшѧ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_14.36
 
+# newdoc id = Codex_Marianus,_Matthew_15
 # source = Codex Marianus, Matthew 15
 # text = Тъгда пристѫпишѧ къ и҃сви иже бѣахѫ въ и҃мѣ кънижъници и фарисѣи г҃лѭште
 # sent_id = 38915
@@ -6418,6 +6425,7 @@
 10	прѣдѣлꙑ	прѣдѣлъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	ref=MATT_15.39
 11	магдаланьскꙑ	магдаланьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur|Strength=Strong	10	amod	_	ref=MATT_15.39
 
+# newdoc id = Codex_Marianus,_Matthew_16
 # source = Codex Marianus, Matthew 16
 # text = ꙇ пристѫпьше фарисѣи и садѵкеи искоушаѭште и просишѧ знамениѣ с н҃бсе показати имъ
 # sent_id = 38984
@@ -7119,6 +7127,7 @@
 17	ц҃срствии	цѣсарьствиѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	15	obl	_	ref=MATT_16.28
 18	своемь	свои	ADJ	Pt	Case=Loc|Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	17	nmod	_	ref=MATT_16.28
 
+# newdoc id = Codex_Marianus,_Matthew_17
 # source = Codex Marianus, Matthew 17
 # text = ꙇ бꙑстъ по шести денъ Поѩтъ и҃с петра и иѣкова и иоана братра его ꙇ вьзведе ѩ на горѫ вꙑсокѫ единꙑ
 # sent_id = 39032
@@ -7824,6 +7833,7 @@
 8	за	за	ADP	R-	_	9	case	_	ref=MATT_17.27
 9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	conj	_	ref=MATT_17.27
 
+# newdoc id = Codex_Marianus,_Matthew_18
 # source = Codex Marianus, Matthew 18
 # text = Въ тъ часъ пристѫпишѧ оученици къ и҃сѵ г҃лште
 # sent_id = 39082
@@ -8682,6 +8692,7 @@
 15	с҃рдцъ	срьдьце	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	10	obl	_	ref=MATT_18.35
 16	вашихъ	вашь	ADJ	Ps	Case=Gen|Number=Plur|Person=2|Poss=Yes	15	nmod	_	ref=MATT_18.35
 
+# newdoc id = Codex_Marianus,_Matthew_19
 # source = Codex Marianus, Matthew 19
 # text = ꙇ бꙑстъ егда съконьча и҃съ словеса си прѣіде отъ галилеѩ ꙇ приде въ прѣдѣлꙑ июдеискꙑ об онъ полъ иоръдана
 # sent_id = 39130
@@ -9448,6 +9459,7 @@
 7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	conj	_	ref=MATT_19.30
 8	пръвии	прьвъ	ADJ	Mo	Case=Nom|Gender=Masc|Number=Plur	7	orphan	_	ref=MATT_19.30
 
+# newdoc id = Codex_Marianus,_Matthew_20
 # source = Codex Marianus, Matthew 20
 # text = Подобъно естъ ц҃срствие небеское ч҃лвкоу домовитоу ꙇже изиде коупъно ѵтро наѩтъ дѣлателъ виноградоу своемоу
 # sent_id = 39187
@@ -10261,6 +10273,7 @@
 15	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	ref=MATT_20.34
 16	идете	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=MATT_20.34
 
+# newdoc id = Codex_Marianus,_Matthew_26
 # source = Codex Marianus, Matthew 26
 # text = Ꙇ бꙑстъ егда съконьча и҃съ вьсѣ словеса си рече оученикомъ своимъ
 # sent_id = 39578
@@ -12042,6 +12055,7 @@
 5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=MATT_26.75
 6	горько	горько	ADV	Df	Degree=Pos	4	advmod	_	ref=MATT_26.75
 
+# newdoc id = Codex_Marianus,_Matthew_27
 # source = Codex Marianus, Matthew 27
 # text = Ютроу же бꙑвъшоу Съвѣтъ сътворишѧ вьси архиереи и старьци людьсции на и҃са ѣко оубити и
 # sent_id = 39714
@@ -13418,6 +13432,7 @@
 8	съ	съ	ADP	R-	_	9	case	_	ref=MATT_27.66
 9	коустодиеѭ҄	коустодиꙗ	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=MATT_27.66
 
+# newdoc id = Codex_Marianus,_Matthew_28
 # source = Codex Marianus, Matthew 28
 # text = Въ вечеръ же соботънꙑ свитаѭ҄щи въ пръвѫѭ҄ соботѫ приде мариѣ магдалꙑни҄ ꙇ дроугаѣ мариѣ видѣтъ гроба
 # sent_id = 39810
@@ -13877,6 +13892,7 @@
 11	вѣка	вѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=MATT_28.20
 12	аминь	аминъ	INTJ	I-	_	6	vocative	_	ref=MATT_28.20
 
+# newdoc id = Codex_Marianus,_Mark_1
 # source = Codex Marianus, Mark 1
 # text = Зачѧло е҃ваньꙉлиѣ и҃схва с҃на б҃жиѣ ѣкоже естъ писано въ пророцѣхъ
 # sent_id = 36359
@@ -14795,6 +14811,7 @@
 29	отъ	отъвьсѫдѣ	ADV	Df	_	26	advmod	_	ref=MARK_1.45
 30	въсѫдѣ	въсѫдѣ	ADV	Df	_	29	flat	_	ref=MARK_1.45
 
+# newdoc id = Codex_Marianus,_Mark_2
 # source = Codex Marianus, Mark 2
 # text = Ꙇ вьниде пакꙑ и҃съ въ каперънаоумъ по дьнехъ ꙇ слоухъ бꙑстъ ѣко въ домоу естъ
 # sent_id = 36419
@@ -15504,6 +15521,7 @@
 6	ч҃лчскꙑ	чловѣчьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=MARK_2.27
 7	соботѣ	сѫбота	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	ref=MARK_2.27
 
+# newdoc id = Codex_Marianus,_Mark_3
 # source = Codex Marianus, Mark 3
 # text = ꙇ вьніде пакꙑ вь съньмиште ꙇ бѣ тоу ч҃лвкъ соухѫ рѫкѫ имꙑ
 # sent_id = 36466
@@ -16189,6 +16207,7 @@
 14	мати	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	ref=MARK_3.35
 15	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.35
 
+# newdoc id = Codex_Marianus,_Mark_4
 # source = Codex Marianus, Mark 4
 # text = ꙇ пакꙑ начѧтъ при мори оучити
 # sent_id = 36506
@@ -17081,6 +17100,7 @@
 10	послоушаѭтъ	послоушати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=MARK_4.41
 11	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	ref=MARK_4.41
 
+# newdoc id = Codex_Marianus,_Mark_9
 # source = Codex Marianus, Mark 9
 # text = аминь г҃лѭ вамъ ѣко сѫтъ едини отъ съде стоѩштиихъ ꙇже не имѫтъ въкоусити съмръти дондеже видѧтъ ц҃сртвие б҃жие пришедъшее вь силѣ
 # sent_id = 36807
@@ -18267,6 +18287,7 @@
 8	междю	междоу	ADP	R-	_	9	case	_	ref=MARK_9.50
 9	собоѭ҄	себе	PRON	Pk	Case=Ins|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	ref=MARK_9.50
 
+# newdoc id = Codex_Marianus,_Mark_10
 # source = Codex Marianus, Mark 10
 # text = ꙇ отъ тѫдоу въставъ приде въ прѣдѣлꙑ июдеискꙑ по ономоу полоу иоръдана и придѫ пакꙑ народи къ немоу ꙇ ѣко имѣ обꙑчаи пакꙑ оучааше ѩ
 # sent_id = 36885
@@ -19537,6 +19558,7 @@
 8	въ	въ	ADP	R-	_	9	case	_	ref=MARK_10.52
 9	пѫтъ	пѫть	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	ref=MARK_10.52
 
+# newdoc id = Codex_Marianus,_Mark_11
 # source = Codex Marianus, Mark 11
 # text = Ꙇ егда приближи сѧ въ и҃мъ въ витъфаꙉиѭ ꙇ витаниѭ къ горѣ елеоньсцѣ посъла дъва отъ оученикъ своихъ ꙇ҅ г҃ла има
 # sent_id = 50476
@@ -20315,6 +20337,7 @@
 7	си	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	8	obj:dir	_	ref=MARK_11.33
 8	творѭ	творити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=MARK_11.33
 
+# newdoc id = Codex_Marianus,_Mark_12
 # source = Codex Marianus, Mark 12
 # text = ꙇ начѧтъ имъ притъчами г҃лти
 # sent_id = 37022
@@ -21427,6 +21450,7 @@
 17	житие	житиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	appos	_	ref=MARK_12.44
 18	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	17	nmod	_	ref=MARK_12.44
 
+# newdoc id = Codex_Marianus,_Mark_13
 # source = Codex Marianus, Mark 13
 # text = Ꙇ исходѧштю емоу отъ ц҃ркве г҃ла емоу единъ отъ оученикъ своихъ
 # sent_id = 37104
@@ -22210,6 +22234,7 @@
 # sent_id = 50518
 1	бьдите	бъдѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_13.37
 
+# newdoc id = Codex_Marianus,_Mark_14
 # source = Codex Marianus, Mark 14
 # text = Бѣ же пасха и опрѣснъци по дъвою дъноу
 # sent_id = 50519
@@ -23984,6 +24009,7 @@
 3	плакати	плакати#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=MARK_14.72
 4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=MARK_14.72
 
+# newdoc id = Codex_Marianus,_Mark_16
 # source = Codex Marianus, Mark 16
 # text = Ꙇ минѫвъши соботѣ мариѣ магдалини ꙇ҅ мариѣ иѣковлѣ и саломи коупишѧ ароматъи да пришедъшѧ помажѫтъ і
 # sent_id = 37340
@@ -24418,6 +24444,7 @@
 # sent_id = 50597
 1	аминь	аминъ	INTJ	I-	_	0	root	_	ref=MARK_16.20
 
+# newdoc id = Codex_Marianus,_Luke_1
 # source = Codex Marianus, Luke 1
 # text = Понеже оубо мъноѕи начѧсѧ чинити повѣсть о ꙇзвѣстованꙑхъ въ насъ вештехъ ѣкоже прѣдашѧ намъ бꙑвъшеи искони самовидьци ꙇ слоугꙑ словесе ꙇзволи сѧ и мьнѣ хождъшю ис пръва по вьсѣхъ въ істинѫ по рѧдѫ писати тебѣ славънꙑ теофиле да разоумѣеши о нихъже наоучилъ сѧ еси словесехъ оутвръждение
 # sent_id = 39923
@@ -25853,6 +25880,7 @@
 16	къ	къ	ADP	R-	_	17	case	_	ref=LUKE_1.80
 17	издраилю	издраиль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	nmod	_	ref=LUKE_1.80
 
+# newdoc id = Codex_Marianus,_Luke_2
 # source = Codex Marianus, Luke 2
 # text = Бꙑстъ же вь дьни тъ ꙇзиде повелѣние отъ кесарѣ авъгоуста написати вьсѫ оуселенѫѭ
 # sent_id = 51239
@@ -26848,6 +26876,7 @@
 11	и	и	CCONJ	C-	_	10	cc	_	ref=LUKE_2.52
 12	ч҃лкъ	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	conj	_	ref=LUKE_2.52
 
+# newdoc id = Codex_Marianus,_Luke_3
 # source = Codex Marianus, Luke 3
 # text = Въ пѧтое на десѧте лѣто владꙑчъства тивериѣ ке҄сарѣ обладаѭштоу понтьскоумоу пилатоу июдѣеѭ ꙇ четврътовластъствоуѭштоу галилѣеѭ иродоу филипоу же братроу его четврътовластъствоуѭштоу итоуриеѭ и трахонитъскоѭ страноѭ ꙇ лѵсанию четврътовластъствоуѭштоу авилиниеѭ при архиереи аннѣ и каиѣфѣ Бꙑстъ г҃лъ б҃жіи къ иоаноу захарииноу с҃ноу въ поустꙑни
 # sent_id = 40060
@@ -27469,6 +27498,7 @@
 91	адамовъ	адамовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	90	amod	_	ref=LUKE_3.38
 92	божеꙇ҅	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	91	amod	_	ref=LUKE_3.38
 
+# newdoc id = Codex_Marianus,_Luke_6
 # source = Codex Marianus, Luke 6
 # text = Бꙑстъ же въ соботѫ въторопръвѫѭ ꙇти емоу сквозѣ сѣаниѣ ꙇ въстръзаахѫ оученици его класꙑ ꙇ ѣдѣахѫ истираѭште рѫкама
 # sent_id = 40221
@@ -28657,6 +28687,7 @@
 5	тоѩ	тъ	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	4	det	_	ref=LUKE_6.49
 6	велие	велии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	xcomp	_	ref=LUKE_6.49
 
+# newdoc id = Codex_Marianus,_Luke_11
 # source = Codex Marianus, Luke 11
 # text = Ꙇ҅ бꙑстъ сѫштоу емоу на мѣстѣ единомь молѧштю сѧ ѣко прѣста рече едінъ оученикъ его къ немоу
 # sent_id = 40638
@@ -29944,6 +29975,7 @@
 29	нь	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obl	_	ref=LUKE_11.54
 30	в҃ьзглаголѭтъ	възглаголати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	ref=LUKE_11.54
 
+# newdoc id = Codex_Marianus,_Luke_12
 # source = Codex Marianus, Luke 12
 # text = о нихъже сънемъшемъ сѧ тъмамъ народа ѣко попираахѫ дроугъ дроуга начѧтъ г҃лати къ оученикомъ своимъ пръвѣе
 # sent_id = 40723
@@ -31330,6 +31362,7 @@
 9	трьхьть	тръхъть	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj:dir	_	ref=LUKE_12.59
 10	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=LUKE_12.59
 
+# newdoc id = Codex_Marianus,_Luke_13
 # source = Codex Marianus, Luke 13
 # text = приключишѧ же сѧ едини въ то врѣмѧ повѣдаѫште емоу о галилеихъ ꙇ҅. хъже кръвъ пилатъ съмѣси съ жрътвами ихъ
 # sent_id = 40807
@@ -32235,6 +32268,7 @@
 4	імѧ	имѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=LUKE_13.35
 5	г҃не	господьнь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	amod	_	ref=LUKE_13.35
 
+# newdoc id = Codex_Marianus,_Luke_14
 # source = Codex Marianus, Luke 14
 # text = Ꙇ бꙑстъ егда вьниде и҃съ въ домъ единого кънѧѕа фарисѣиска въ соботѫ хлѣба ѣстъ и ти бѣахѫ назираѭште и
 # sent_id = 40864
@@ -33070,6 +33104,7 @@
 4	да	да	ADV	Df	_	5	advmod	_	ref=LUKE_14.35
 5	слꙑшитъ	слꙑшати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_14.35
 
+# newdoc id = Codex_Marianus,_Luke_15
 # source = Codex Marianus, Luke 15
 # text = Бѣахѫ же къ немоу приближаѭште сѧ вьси мꙑтаре и грѣшъници послоушатъ его
 # sent_id = 40916
@@ -33806,6 +33841,7 @@
 18	обрѣте	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	ref=LUKE_15.32
 19	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	18	aux	_	ref=LUKE_15.32
 
+# newdoc id = Codex_Marianus,_Luke_16
 # source = Codex Marianus, Luke 16
 # text = Г҃лааше же и къ оученикомъ своимъ
 # sent_id = 40962
@@ -34636,6 +34672,7 @@
 14	имѫтъ	ѩти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_16.31
 15	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	obj:dir	_	ref=LUKE_16.31
 
+# newdoc id = Codex_Marianus,_Luke_17
 # source = Codex Marianus, Luke 17
 # text = Рече же къ оученикомъ
 # sent_id = 51560
@@ -35462,6 +35499,7 @@
 5	сънемлѭтъ	сънимати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_17.36
 6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=LUKE_17.36
 
+# newdoc id = Codex_Marianus,_Luke_20
 # source = Codex Marianus, Luke 20
 # text = Ꙇ бꙑстъ вь единь отъ дьнеи тѣхъ оучѧштю емоу люди въ ц҃ркви и благовѣстъствоуѭштю състашѧ сѧ архиереи и кънижъници съ старьци ꙇ рѣшѧ г҃лѭште къ немоу
 # sent_id = 41212
@@ -36460,6 +36498,7 @@
 3	осѫжденье	осѫждениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=LUKE_20.47
 4	больше	болии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	amod	_	ref=LUKE_20.47
 
+# newdoc id = Codex_Marianus,_Luke_21
 # source = Codex Marianus, Luke 21
 # text = възьрѣвъ же видѣ въмѣтаѭштѧѩ въ газофилакиѭ дарꙑ своѩ богатꙑѩ
 # sent_id = 41289
@@ -37213,6 +37252,7 @@
 11	послоушатъ	послоушати	VERB	V-	Case=Acc|VerbForm=Sup	6	advcl	_	ref=LUKE_21.38
 12	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	ref=LUKE_21.38
 
+# newdoc id = Codex_Marianus,_Luke_22
 # source = Codex Marianus, Luke 22
 # text = Приближааше же сѧ праздьникъ опрѣснокъ нарицаемꙑ пасха ꙇ искаахѫ архиереи и кънижьници како и бѫ оубили
 # sent_id = 41332
@@ -38802,6 +38842,7 @@
 5	оустъ	оуста	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	obl	_	ref=LUKE_22.71
 6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=LUKE_22.71
 
+# newdoc id = Codex_Marianus,_Luke_23
 # source = Codex Marianus, Luke 23
 # text = ꙇ въставъше въсе мъножьство ихъ вѣсѧ и къ пилатоу
 # sent_id = 41447
@@ -39989,6 +40030,7 @@
 6	по	по	ADP	R-	_	7	case	_	ref=LUKE_23.56
 7	заповѣди	заповѣдь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	ref=LUKE_23.56
 
+# newdoc id = Codex_Marianus,_Luke_24
 # source = Codex Marianus, Luke 24
 # text = Вь единѫ же соботѫ ѕѣло рано придѫ на гробъ несѫштѧ ѩже оуготовашѧ ароматꙑ и дроугꙑѩ съ ними
 # sent_id = 41530
@@ -41088,6 +41130,7 @@
 # sent_id = 59983
 1	аминь	аминъ	INTJ	I-	_	0	root	_	ref=LUKE_24.53
 
+# newdoc id = Codex_Marianus,_John_1
 # source = Codex Marianus, John 1
 # text = ꙇсправите пѫть гнь ѣкоже рече исаиѣ п҃ркъ
 # sent_id = 41610
@@ -41827,6 +41870,7 @@
 13	с҃на	сꙑнъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	ref=JOHN_1.52
 14	ч҃лвскааго	чловѣчьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	13	amod	_	ref=JOHN_1.52
 
+# newdoc id = Codex_Marianus,_John_2
 # source = Codex Marianus, John 2
 # text = Ꙇ въ третии день бракъ бꙑстъ въ кана галилеисцѣи ꙇ бѣ мати и҃сва тоу
 # sent_id = 41666
@@ -42347,6 +42391,7 @@
 6	въ	въ	ADP	R-	_	7	case	_	ref=JOHN_2.25
 7	ч҃лвцѣ	чловѣкъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=JOHN_2.25
 
+# newdoc id = Codex_Marianus,_John_3
 # source = Codex Marianus, John 3
 # text = Бѣ же ч҃лвкъ отъ фарисѣи никодимъ имѧ емоу кънѧѕъ июдеискъ
 # sent_id = 41703
@@ -43169,6 +43214,7 @@
 14	на	на	ADP	R-	_	15	case	_	ref=JOHN_3.36
 15	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	xcomp	_	ref=JOHN_3.36
 
+# newdoc id = Codex_Marianus,_John_4
 # source = Codex Marianus, John 4
 # text = Егда же оувѣдѣ г҃ъ ѣко оуслꙑшашѧ фарисѣи ѣко и҃съ мъножаишѧ оученикꙑ творитъ ꙇ кръштаатъ неже иоанъ а и҃съ самъ не кръштааше нъ оученици его остави июдеѭ и иде пакꙑ въ галилеѭ
 # sent_id = 41758
@@ -44462,6 +44508,7 @@
 10	въ	въ	ADP	R-	_	11	case	_	ref=JOHN_4.54
 11	галилѣѭ҄	галилеꙗ	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=JOHN_4.54
 
+# newdoc id = Codex_Marianus,_John_5
 # source = Codex Marianus, John 5
 # text = По сихъ же бѣ праздьникъ июдеискъ Ꙇ вьзиде и҃с въ ероусалимъ
 # sent_id = 41850
@@ -45503,6 +45550,7 @@
 11	вѣрѫ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	ref=JOHN_5.47
 12	еимете	имати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_5.47
 
+# newdoc id = Codex_Marianus,_John_6
 # source = Codex Marianus, John 6
 # text = по сихъ иде и҃съ на онъ полъ морѣ галилѣѩ таверьѣдъскꙑ
 # sent_id = 41914
@@ -47110,6 +47158,7 @@
 10	на	на	ADP	R-	_	11	case	_	ref=JOHN_6.71
 11	десеⷮ҇	десѧть	NUM	Ma	Case=Loc|Gender=Fem,Masc|Number=Sing	9	nummod	_	ref=JOHN_6.71
 
+# newdoc id = Codex_Marianus,_John_7
 # source = Codex Marianus, John 7
 # text = Ꙇ хождааше по сихъ и҃съ въ галилеи
 # sent_id = 42021
@@ -48249,6 +48298,7 @@
 8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_7.52
 9	приходитъ	приходити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=JOHN_7.52
 
+# newdoc id = Codex_Marianus,_John_8
 # source = Codex Marianus, John 8
 # text = ꙇ҃҅с же иде въ горѫ елеонъскѫ
 # sent_id = 42109
@@ -49829,6 +49879,7 @@
 15	и	и	CCONJ	C-	_	3	cc	_	ref=JOHN_8.59
 16	хождааше	ходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_8.59
 
+# newdoc id = Codex_Marianus,_John_9
 # source = Codex Marianus, John 9
 # text = Ꙇ мимо идꙑ и҃с видѣ ч҃лва слѣпа отъ рождъства
 # sent_id = 42238
@@ -50876,6 +50927,7 @@
 3	вашъ	вашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=JOHN_9.41
 4	прѣбꙑваатъ	прѣбꙑвати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_9.41
 
+# newdoc id = Codex_Marianus,_John_14
 # source = Codex Marianus, John 14
 # text = Да не съмѫштаатъ сѧ ваше с҃рдце
 # sent_id = 42611
@@ -51673,6 +51725,7 @@
 2	отъ	отъсѫдоу	ADV	Df	_	1	advmod	_	ref=JOHN_14.31
 3	сѫдоу	сѫдоу	ADV	Df	_	2	flat	_	ref=JOHN_14.31
 
+# newdoc id = Codex_Marianus,_John_15
 # source = Codex Marianus, John 15
 # text = азъ есмъ лоза истинънаѣ ꙇ о҃тцъ мои дѣлатель естъ
 # sent_id = 42667
@@ -52284,6 +52337,7 @@
 8	мъноѭ	азъ	PRON	Pp	Case=Ins|Number=Sing|Person=1|PronType=Prs	9	xcomp	_	ref=JOHN_15.27
 9	есте	бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=JOHN_15.27
 
+# newdoc id = Codex_Marianus,_John_16
 # source = Codex Marianus, John 16
 # text = си г҃лахъ вамъ да не съблазните сѧ
 # sent_id = 42704
@@ -53108,6 +53162,7 @@
 2	побѣдихъ	побѣдити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_16.33
 3	мира	миръ#2	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=JOHN_16.33
 
+# newdoc id = Codex_Marianus,_John_20
 # source = Codex Marianus, John 20
 # text = Въ единѫ же соботъ мариѣ магдалини приде за оутра еште сѫшти тъмѣ на гробъ ꙇ видѣ камень вьзѧтъ отъ гроба
 # sent_id = 42928
