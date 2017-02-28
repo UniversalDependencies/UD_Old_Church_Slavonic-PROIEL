@@ -12,7 +12,7 @@ The development set consists of Matthew 5, 6, 21, and 24, Mark 5 and 6, Luke 4, 
 
 ## Changelog
 
-No change since UD v1.2.
+V2.0 The treebank was converted to UDv2 and the data splits were changed.
 
 
 Documentation status: stub
