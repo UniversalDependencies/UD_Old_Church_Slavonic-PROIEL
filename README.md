@@ -32,7 +32,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Dag Haug
+Contributors: Haug, Dag
 Contributing: elsewhere
 Contact: daghaug@ifikk.uio.no
 ===============================================================================
