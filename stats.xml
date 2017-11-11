@@ -5,109 +5,109 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>5196</sentences><tokens>47532</tokens><words>47532</words><fused>0</fused></total>
+    <total><sentences>6337</sentences><tokens>57563</tokens><words>57563</words><fused>0</fused></total>
   </size>
-  <lemmas unique="2803" /><!-- и, бꙑти, въ, же, себе, не, глаголати, рещи, азъ, ꙗко, иже, на, сь, вꙑ, отъ -->
-  <forms unique="8722" /><!-- ꙇ, и, же, сѧ, въ, не, ѣко, отъ, на, рече, емоу, естъ, его, къ, да -->
+  <lemmas unique="3034" /><!-- и, бꙑти, въ, же, себе, не, глаголати, рещи, азъ, ꙗко, иже, на, отъ, вꙑ, сь -->
+  <forms unique="9842" /><!-- ꙇ, и, же, сѧ, не, въ, ѣко, отъ, на, рече, емоу, естъ, его, да, къ -->
   <fusions unique="0" /><!--  -->
-  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
-    <tag name="ADJ">4351</tag><!-- сь, свои, мои, онъ, твои, тъ, мъногъ, вьсь, божии, вашь -->
-    <tag name="ADP">3905</tag><!-- въ, на, отъ, къ, съ, о, по, прѣдъ, ради, за -->
-    <tag name="ADV">4958</tag><!-- же, не, бо, и, ли, ѥгда, оубо, тъгда, ꙗкоже, абиѥ -->
-    <tag name="AUX">1013</tag><!-- себе -->
-    <tag name="CCONJ">4055</tag><!-- и, нъ, а, ли, ни, или, любо, да -->
-    <tag name="DET">662</tag><!-- вьсь, сь, тъ, ѥдинъ, самъ, инъ, онъ, етеръ, иже, ничьтоже -->
-    <tag name="INTJ">261</tag><!-- се, аминъ, горѥ, еи, ни, осана, ѡ, оува -->
-    <tag name="NOUN">7964</tag><!-- отьць, сꙑнъ#1, чловѣкъ, оученикъ, дьнь, господь, богъ, народъ, жена, слово -->
-    <tag name="NUM">550</tag><!-- ѥдинъ, дъва, десѧть, оба, триѥ, пѧть, седмь, съто, четꙑрe, девѧть -->
-    <tag name="PRON">5153</tag><!-- и, азъ, иже, вꙑ, тꙑ, чьто, себе, мꙑ, къто, ѥлико -->
-    <tag name="PROPN">1277</tag><!-- исоусъ, иоанъ, петръ, иѥроусалимъ, христ(ос)ъ, мариꙗ, галилеꙗ, пилатъ, симонъ, моси -->
-    <tag name="SCONJ">1205</tag><!-- ꙗко, да, аще, доньде, занѥ, даже, еда, понѥже, доидеже, зане -->
-    <tag name="VERB">12173</tag><!-- бꙑти, глаголати, рещи, прити, имѣти, видѣти, ити, дати, отъвѣщати, сътворити -->
-    <tag name="X">5</tag><!-- ели, лема, савахтани, талиѳакоумъ -->
+    <tag name="ADJ">5286</tag><!-- сь, свои, мои, твои, онъ, тъ, мъногъ, вьсь, божии, вашь -->
+    <tag name="ADP">4675</tag><!-- въ, на, отъ, къ, съ, о, по, прѣдъ, ради, из -->
+    <tag name="ADV">5996</tag><!-- же, не, бо, и, ли, ѥгда, оубо, тъгда, ꙗкоже, абиѥ -->
+    <tag name="AUX">1218</tag><!-- себе -->
+    <tag name="CCONJ">4919</tag><!-- и, нъ, а, ли, ни, или, да, любо, али -->
+    <tag name="DET">796</tag><!-- вьсь, сь, тъ, ѥдинъ, инъ, онъ, самъ, етеръ, иже, чьто -->
+    <tag name="INTJ">320</tag><!-- се, аминъ, горѥ, еи, ни, осана, ѡ, оува, сь -->
+    <tag name="NOUN">9630</tag><!-- отьць, сꙑнъ#1, оученикъ, чловѣкъ, господь, дьнь, народъ, богъ, слово, домъ -->
+    <tag name="NUM">671</tag><!-- ѥдинъ, дъва, десѧть, оба, пѧть, триѥ, седмь, съто, тꙑсѧщи, четꙑрe -->
+    <tag name="PRON">6260</tag><!-- и, азъ, иже, вꙑ, тꙑ, чьто, себе, мꙑ, къто, ѥлико -->
+    <tag name="PROPN">1569</tag><!-- исоусъ, петръ, иоанъ, иѥроусалимъ, христ(ос)ъ, пилатъ, симонъ, мариꙗ, галилеꙗ, моси -->
+    <tag name="SCONJ">1435</tag><!-- ꙗко, да, аще, доньде, занѥ, даже, понѥже, еда, доидеже, зане -->
+    <tag name="VERB">14778</tag><!-- бꙑти, глаголати, рещи, прити, имѣти, ити, видѣти, отъвѣщати, сътворити, дати -->
+    <tag name="X">10</tag><!-- ели, лема, савахтани, еффата, талиѳакоумъ -->
   </tags>
-  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="46">
-    <feat name="Aspect" value="Imp" upos="VERB">915</feat><!-- бѣ, г҃лаахѫ, бѣахѫ, г҃лааше, г҃лаше, идѣаше, искаахѫ, имѣаше, молѣаше, сѣдѣаше -->
-    <feat name="Aspect" value="Perf" upos="VERB">3044</feat><!-- рече, г҃ла, бꙑстъ, приде, рѣшѧ, сътвори, отъвѣшта, посъла, придѫ, дастъ -->
-    <feat name="Aspect" value="Res" upos="VERB">170</feat><!-- далъ, пришелъ, бꙑлъ, сътворилъ, имѣли, чьли, възлюбилъ, чъли, бꙑли, бꙑло -->
-    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6223</feat><!-- сѧ, и, мѧ, что, ѩ, вꙑ, тѧ, і, еже, се -->
-    <feat name="Case" value="Dat" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3044</feat><!-- емоу, имъ, вамъ, немоу, тебѣ, мьнѣ, намъ, ти, еи, ми -->
+    <feat name="Aspect" value="Imp" upos="VERB">1120</feat><!-- бѣ, бѣахѫ, г҃лаахѫ, г҃лааше, г҃лаше, хотѣаше, искаахѫ, идѣаше, молѣаше, бѣшѧ -->
+    <feat name="Aspect" value="Perf" upos="VERB">3771</feat><!-- рече, г҃ла, бꙑстъ, приде, рѣшѧ, сътвори, отъвѣшта, дастъ, посъла, придѫ -->
+    <feat name="Aspect" value="Res" upos="VERB">200</feat><!-- далъ, бꙑлъ, пришелъ, сътворилъ, чьли, бꙑли, имѣли, бꙑло, възлюбилъ, чъли -->
+    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7637</feat><!-- сѧ, и, мѧ, ѩ, что, вꙑ, тѧ, і, еже, се -->
+    <feat name="Case" value="Dat" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3691</feat><!-- емоу, имъ, вамъ, немоу, тебѣ, мьнѣ, намъ, ми, ти, еи -->
     <feat name="Case" value="Dat,Gen" upos="NOUN,NUM">5</feat><!-- домоу, благодати, пѧти, съмръти -->
-    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">3671</feat><!-- его, мене, ихъ, сего, о҃тца, б҃а, васъ, егоже, него, своего -->
-    <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">848</feat><!-- нимь, нимъ, мъноѭ, ними, велиемь, своими, вами, тобоѭ, вьсѣми, собоѭ -->
-    <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1431</feat><!-- немь, себѣ, десѧте, мьнѣ, земи, васъ, своемь, пѫти, семь, ц҃ркве -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">8161</feat><!-- азъ, и҃съ, и҃с, иже, онъ, вꙑ, с҃нъ, г҃лѧ, сь, тꙑ -->
-    <feat name="Case" value="Voc" upos="ADJ,DET,NOUN,PROPN,VERB">261</feat><!-- г҃и, оучителю, о҃тче, жено, симоне, с҃не, чѧдо, б҃же, дроуже, и҃се -->
-    <feat name="Degree" value="Cmp" upos="ADJ,ADV">161</feat><!-- паче, болеи, болии, боле, оудобѣе, оунѣе, вꙑшънѣаго, добрѣа, вѧште, лише -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">2096</feat><!-- мъноѕи, вьсѣкъ, б҃жие, мъного, мъногꙑ, б҃жии, мъногъ, б҃жиѣ, добро, б҃жіи -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3548</feat><!-- еи, ѭ, земи, жена, вѣрѫ, твоѣ, мати, моѣ, си, срѣдѣ -->
-    <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">304</feat><!-- десѧте, своѩ, вьсѧ, десѧтъ, вꙑ, тꙑ, вамъ, вашѧ, моѩ, мъногꙑ -->
-    <feat name="Gender" value="Fem,Neut" upos="ADJ,NUM,VERB">44</feat><!-- дьвѣ, дъвѣ, мои, свои, ваши, обѣ, твои, блаженѣи, зърѧшти, мелѭшти -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">12467</feat><!-- емоу, его, имъ, и, и҃съ, онъ, и҃с, иже, с҃нъ, сь -->
-    <feat name="Gender" value="Masc,Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">694</feat><!-- моего, своего, сего, своемь, твоего, единого, б҃жиѣ, того, своемоу, томоу -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">3295</feat><!-- что, еже, се, си, вьсѣ, слово, чъто, ѣже, мое, ц҃срствие -->
-    <feat name="Mood" value="Imp" upos="VERB">706</feat><!-- иди, блюдѣте, бѫди, даждъ, молите, помилоуи, ꙇди, боите, бьдите, въстани -->
-    <feat name="Mood" value="Ind" upos="VERB">7945</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
-    <feat name="Mood" value="Sub" upos="VERB">80</feat><!-- би, бисте, бѫ, бимь, бишѧ, бимъ -->
-    <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,NUM,PRON,VERB">780</feat><!-- има, дъва, очи, рѫцѣ, оба, дьвѣ, оуши, рѣсте, вама, ноѕѣ -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">8364</feat><!-- имъ, вамъ, вꙑ, ихъ, сѫтъ, оученици, си, ѩ, васъ, рѣшѧ -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">23176</feat><!-- сѧ, рече, емоу, естъ, его, и, азъ, бѣ, и҃съ, г҃ла -->
-    <feat name="Person" value="1" upos="ADJ,PRON,VERB">1993</feat><!-- азъ, г҃лѭ, мѧ, мьнѣ, мене, мои, есмъ, намъ, моего, ми -->
-    <feat name="Person" value="2" upos="ADJ,PRON,VERB">2749</feat><!-- вамъ, вꙑ, еси, тꙑ, тебѣ, васъ, тѧ, твои, ти, твоѣ -->
-    <feat name="Person" value="3" upos="ADJ,AUX,PRON,VERB">10184</feat><!-- сѧ, рече, емоу, естъ, его, имъ, и, бѣ, г҃ла, бѫдетъ -->
-    <feat name="Polarity" value="Neg" upos="ADV">1043</feat><!-- не, ни -->
-    <feat name="Poss" value="Yes" upos="ADJ">951</feat><!-- мои, своего, твои, моего, моѣ, твоѣ, мое, свои, твое, своѩ -->
-    <feat name="PronType" value="Int" upos="ADV,PRON">640</feat><!-- ли, что, како, чъто, еда, кто, отъ, къде, къто, кѫдоу -->
-    <feat name="PronType" value="Prs" upos="PRON">4231</feat><!-- емоу, его, имъ, и, вамъ, азъ, вꙑ, мѧ, мьнѣ, немоу -->
-    <feat name="PronType" value="Rcp" upos="PRON">27</feat><!-- дроугъ, дроуга, дроугоу -->
-    <feat name="PronType" value="Rel" upos="ADV,PRON">903</feat><!-- егда, иже, еже, ꙇже, ѣкоже, егоже, ѣже, елико, ѩже, идеже -->
-    <feat name="Reflex" value="Yes" upos="ADJ,PRON">457</feat><!-- себѣ, своего, свои, своѩ, своимъ, своихъ, своемь, своѭ, сѧ, своими -->
-    <feat name="Strength" value="Strong" upos="ADJ,VERB">3525</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, мъноѕи, вьсѣкъ, видѣвъ, пришедъ, б҃жие, видѣвъше, мъногꙑ -->
-    <feat name="Strength" value="Weak" upos="ADJ,VERB">1219</feat><!-- мрътвꙑхъ, дроугꙑ, ч҃лвчскꙑ, вѣроуѩи, вѣчънꙑ, деснѫѭ, посълавъшааго, с҃тꙑ, вѣчънааго, ч҃лвскꙑ -->
-    <feat name="Tense" value="Fut" upos="VERB">243</feat><!-- бѫдетъ, бѫдѫтъ, бѫдете, бѫдеши, бѫдѫ, бодетъ, бодѫтъ, бѫде, бѫдѣте, бѫдѫщии -->
-    <feat name="Tense" value="Past" upos="VERB">5274</feat><!-- рече, бѣ, г҃ла, бꙑстъ, приде, рѣшѧ, отъвѣштавъ, сътвори, отъвѣшта, посъла -->
-    <feat name="Tense" value="Pres" upos="VERB">6431</feat><!-- естъ, г҃лѭ, еси, г҃лѧ, сѫтъ, иматъ, есмъ, бꙑти, придетъ, г҃лѭште -->
-    <feat name="VerbForm" value="Fin" upos="VERB">8731</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
-    <feat name="VerbForm" value="Inf" upos="VERB">690</feat><!-- бꙑти, дати, г҃лати, ѣсти, прити, творити, пити, видѣти, вьнити, слꙑшати -->
-    <feat name="VerbForm" value="Part" upos="VERB">2697</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, отъвѣщавъ, въставъ, г҃лѭще, писано -->
-    <feat name="VerbForm" value="Sup" upos="VERB">55</feat><!-- видѣтъ, вьзѧтъ, кръститъ, помолитъ, послоушатъ, погоубитъ, послоужитъ, призъватъ, сѣатъ, с҃пстъ -->
-    <feat name="Voice" value="Act" upos="VERB">11726</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, г҃лѧ, приде -->
-    <feat name="Voice" value="Pass" upos="VERB">392</feat><!-- писано, дано, нарицаемꙑ, посъланъ, написано, нарицаемааго, прѣданъ, речено, избъранꙑѩ, с҃псна -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4447</feat><!-- его, мене, ихъ, сего, о҃тца, васъ, егоже, него, б҃а, моего -->
+    <feat name="Case" value="Ins" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1045</feat><!-- нимь, ними, нимъ, мъноѭ, своими, собоѭ, велиемь, тобоѭ, вами, оученикꙑ -->
+    <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1664</feat><!-- немь, себѣ, мьнѣ, десѧте, земи, васъ, пѫти, своемь, семь, домоу -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">9819</feat><!-- азъ, и҃съ, и҃с, иже, онъ, вꙑ, г҃лѧ, с҃нъ, тꙑ, сь -->
+    <feat name="Case" value="Voc" upos="ADJ,DET,NOUN,PROPN,VERB">400</feat><!-- г҃и, оучителю, о҃тче, жено, симоне, фарисѣи, с҃не, ѵ҅покрити, благꙑ, б҃же -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">196</feat><!-- паче, болеи, боле, болии, лише, отърадьнѣе, оудобѣе, оунѣе, вѧште, вꙑшънѣаго -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">2559</feat><!-- мъноѕи, вьсѣкъ, б҃жие, мъногꙑ, мъного, б҃жии, мъногъ, добро, б҃жиѣ, мрътвꙑхъ -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">4207</feat><!-- еи, земи, ѭ, жена, вѣрѫ, твоѣ, мариѣ, моѣ, мати, рѫцѣ -->
+    <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">388</feat><!-- десѧте, своѩ, вьсѧ, десѧтъ, тꙑ, моѩ, вꙑ, вашѧ, кто, мъногꙑ -->
+    <feat name="Gender" value="Fem,Neut" upos="ADJ,NUM,VERB">52</feat><!-- дьвѣ, дъвѣ, мои, свои, ваши, обѣ, твои, четꙑри, блаженѣ, блаженѣи -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">15296</feat><!-- емоу, его, и, имъ, и҃съ, и҃с, онъ, иже, с҃нъ, г҃лѧ -->
+    <feat name="Gender" value="Masc,Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">836</feat><!-- моего, своего, сего, твоего, своемь, единого, б҃жиѣ, своемоу, того, моемоу -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">3949</feat><!-- что, еже, се, си, вьсѣ, слово, чъто, ѣже, ц҃срствие, мое -->
+    <feat name="Mood" value="Imp" upos="VERB">867</feat><!-- иди, бѫди, блюдѣте, даждъ, молите, въстани, дадите, помилоуи, рьци, творите -->
+    <feat name="Mood" value="Ind" upos="VERB">9604</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
+    <feat name="Mood" value="Sub" upos="VERB">96</feat><!-- би, бисте, бѫ, бимь, бишѧ, бимъ -->
+    <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,NUM,PRON,VERB">937</feat><!-- дъва, има, очи, рѫцѣ, оба, ноѕѣ, оуши, рѣсте, дьвѣ, вама -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">10291</feat><!-- имъ, вамъ, вꙑ, ихъ, сѫтъ, ѩ, оученици, си, васъ, вьси -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">27982</feat><!-- сѧ, рече, емоу, естъ, его, и, азъ, бѣ, г҃ла, и҃съ -->
+    <feat name="Person" value="1" upos="ADJ,PRON,VERB">2389</feat><!-- азъ, мѧ, г҃лѭ, мьнѣ, мене, мои, есмъ, намъ, ми, моего -->
+    <feat name="Person" value="2" upos="ADJ,PRON,VERB">3370</feat><!-- вамъ, вꙑ, еси, тꙑ, тебѣ, васъ, тѧ, твои, ти, твоѣ -->
+    <feat name="Person" value="3" upos="ADJ,AUX,PRON,VERB">12322</feat><!-- сѧ, рече, емоу, естъ, его, и, имъ, бѣ, г҃ла, бѫдетъ -->
+    <feat name="Polarity" value="Neg" upos="ADV">1238</feat><!-- не, ни -->
+    <feat name="Poss" value="Yes" upos="ADJ">1167</feat><!-- мои, твои, моего, своего, своѩ, моѣ, твоѣ, мое, свои, своимъ -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">765</feat><!-- ли, что, како, чъто, кто, еда, отъ, къто, къде, кѫдоу -->
+    <feat name="PronType" value="Prs" upos="PRON">5129</feat><!-- емоу, его, и, имъ, вамъ, азъ, вꙑ, мѧ, мьнѣ, мене -->
+    <feat name="PronType" value="Rcp" upos="PRON">39</feat><!-- дроугъ, дроуга, дроугоу -->
+    <feat name="PronType" value="Rel" upos="ADV,PRON">1090</feat><!-- егда, иже, еже, ꙇже, ѣкоже, егоже, ѣже, елико, ѩже, идеже -->
+    <feat name="Reflex" value="Yes" upos="ADJ,PRON">569</feat><!-- себѣ, своего, своѩ, свои, своимъ, своѭ, своихъ, своемь, своими, себе -->
+    <feat name="Strength" value="Strong" upos="ADJ,VERB">4306</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, мъноѕи, вьсѣкъ, видѣвъ, б҃жие, пришедъ, мъногꙑ, б҃жии -->
+    <feat name="Strength" value="Weak" upos="ADJ,VERB">1491</feat><!-- мрътвꙑхъ, ч҃лвчскꙑ, дроугꙑ, посълавъшааго, деснѫѭ, вѣроуѩи, вѣчънꙑ, с҃тꙑ, вѣчънааго, ч҃лвскꙑ -->
+    <feat name="Tense" value="Fut" upos="VERB">269</feat><!-- бѫдетъ, бѫдѫтъ, бѫдете, бѫдеши, бѫдѫ, бодетъ, бодѫтъ, бѫде, бѫдѣте, бѫдѫщии -->
+    <feat name="Tense" value="Past" upos="VERB">6521</feat><!-- рече, бѣ, г҃ла, бꙑстъ, приде, рѣшѧ, отъвѣштавъ, сътвори, отъвѣшта, дастъ -->
+    <feat name="Tense" value="Pres" upos="VERB">7723</feat><!-- естъ, г҃лѭ, г҃лѧ, еси, сѫтъ, иматъ, есмъ, бꙑти, г҃лѭште, придетъ -->
+    <feat name="VerbForm" value="Fin" upos="VERB">10567</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
+    <feat name="VerbForm" value="Inf" upos="VERB">832</feat><!-- бꙑти, ѣсти, г҃лати, дати, прити, творити, ити, видѣти, пити, слꙑшати -->
+    <feat name="VerbForm" value="Part" upos="VERB">3314</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше -->
+    <feat name="VerbForm" value="Sup" upos="VERB">65</feat><!-- видѣтъ, вьзѧтъ, помолитъ, кръститъ, послоушатъ, призъватъ, с҃пстъ, възискатъ, погоубитъ, послоужитъ -->
+    <feat name="Voice" value="Act" upos="VERB">14245</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, г҃лѧ, еси, приде -->
+    <feat name="Voice" value="Pass" upos="VERB">468</feat><!-- писано, дано, нарицаемꙑ, написано, нарицаемааго, посъланъ, прѣданъ, речено, избъранꙑѩ, реченое -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="31">
-    <dep name="acl">717</dep>
-    <dep name="advcl">2479</dep>
-    <dep name="advmod">3107</dep>
-    <dep name="amod">1203</dep>
-    <dep name="appos">382</dep>
-    <dep name="aux">1182</dep>
-    <dep name="case">3886</dep>
-    <dep name="cc">4013</dep>
-    <dep name="ccomp">623</dep>
-    <dep name="conj">2780</dep>
+    <dep name="acl">860</dep>
+    <dep name="advcl">3041</dep>
+    <dep name="advmod">3731</dep>
+    <dep name="amod">1447</dep>
+    <dep name="appos">449</dep>
+    <dep name="aux">1417</dep>
+    <dep name="case">4654</dep>
+    <dep name="cc">4867</dep>
+    <dep name="ccomp">737</dep>
+    <dep name="conj">3382</dep>
     <dep name="csubj:pass">9</dep>
-    <dep name="dep">91</dep>
-    <dep name="det">1123</dep>
-    <dep name="discourse">1652</dep>
+    <dep name="dep">107</dep>
+    <dep name="det">1353</dep>
+    <dep name="discourse">2035</dep>
     <dep name="fixed">1</dep>
-    <dep name="flat">148</dep>
-    <dep name="flat:name">13</dep>
-    <dep name="iobj">1942</dep>
-    <dep name="mark">1119</dep>
-    <dep name="nmod">1822</dep>
-    <dep name="nsubj">4318</dep>
-    <dep name="nsubj:pass">10</dep>
-    <dep name="nummod">229</dep>
-    <dep name="obj:dir">3357</dep>
-    <dep name="obl">3362</dep>
-    <dep name="obl:agent">65</dep>
-    <dep name="orphan">182</dep>
-    <dep name="parataxis">60</dep>
-    <dep name="root">5196</dep>
-    <dep name="vocative">453</dep>
-    <dep name="xcomp">2008</dep>
+    <dep name="flat">176</dep>
+    <dep name="flat:name">26</dep>
+    <dep name="iobj">2353</dep>
+    <dep name="mark">1338</dep>
+    <dep name="nmod">2237</dep>
+    <dep name="nsubj">5155</dep>
+    <dep name="nsubj:pass">13</dep>
+    <dep name="nummod">261</dep>
+    <dep name="obj:dir">4149</dep>
+    <dep name="obl">4073</dep>
+    <dep name="obl:agent">75</dep>
+    <dep name="orphan">229</dep>
+    <dep name="parataxis">72</dep>
+    <dep name="root">6337</dep>
+    <dep name="vocative">604</dep>
+    <dep name="xcomp">2375</dep>
   </deps>
 </treebank>
