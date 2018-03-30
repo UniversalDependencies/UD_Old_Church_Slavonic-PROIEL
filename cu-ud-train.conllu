@@ -15991,7 +15991,7 @@
 # source = Codex Marianus, Mark 3
 # text = ꙇ аште сотона въста самъ на сѧ и раздѣли сѧ не можетъ стати нъ коньчинѫ иматъ
 # sent_id = 36495
-1	ꙇ	и	CCONJ	C-	_	16	cc	_	ref=MARK_3.26
+1	ꙇ	и	CCONJ	C-	_	12	cc	_	ref=MARK_3.26
 2	аште	аще	SCONJ	G-	_	4	mark	_	ref=MARK_3.26
 3	сотона	сотона	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=MARK_3.26
 4	въста	въстати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=MARK_3.26
@@ -16002,11 +16002,11 @@
 9	раздѣли	раздѣлити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=MARK_3.26
 10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=MARK_3.26
 11	не	не	ADV	Df	Polarity=Neg	12	advmod	_	ref=MARK_3.26
-12	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	ref=MARK_3.26
+12	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.26
 13	стати	стати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=MARK_3.26
-14	нъ	нъ	CCONJ	C-	_	16	cc	_	ref=MARK_3.26
+14	нъ	нъ	CCONJ	C-	_	12	cc	_	ref=MARK_3.26
 15	коньчинѫ	коньчина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	ref=MARK_3.26
-16	иматъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.26
+16	иматъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	ref=MARK_3.26
 
 # source = Codex Marianus, Mark 3
 # text = никтоже не можетъ съсѫдъ крѣпъкааго въшедъ въ домъ его расхꙑтити аште не прѣжде крѣпъкааго съвѧжетъ ꙇ тъгда домъ его расхꙑтитъ
@@ -19130,17 +19130,17 @@
 # sent_id = 50462
 1	даждъ	дати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_10.37
 2	нама	вѣ	PRON	Pp	Case=Dat|Number=Dual|Person=1|PronType=Prs	1	iobj	_	ref=MARK_10.37
-3	да	да	SCONJ	G-	_	13	mark	_	ref=MARK_10.37
-4	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=MARK_10.37
+3	да	да	SCONJ	G-	_	4	mark	_	ref=MARK_10.37
+4	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	ref=MARK_10.37
 5	о	о	ADP	R-	_	6	case	_	ref=MARK_10.37
-6	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	obl	_	ref=MARK_10.37
+6	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	orphan	_	ref=MARK_10.37
 7	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	6	det	_	ref=MARK_10.37
-8	и	и	CCONJ	C-	_	13	cc	_	ref=MARK_10.37
-9	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=MARK_10.37
+8	и	и	CCONJ	C-	_	4	orphan	_	ref=MARK_10.37
+9	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=MARK_10.37
 10	о	о	ADP	R-	_	11	case	_	ref=MARK_10.37
-11	шюѭ	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	9	orphan	_	ref=MARK_10.37
+11	шюѭ	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	13	obl	_	ref=MARK_10.37
 12	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	det	_	ref=MARK_10.37
-13	сѧдевѣ	сѣсти	VERB	V-	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MARK_10.37
+13	сѧдевѣ	сѣсти	VERB	V-	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	orphan	_	ref=MARK_10.37
 14	въ	въ	ADP	R-	_	15	case	_	ref=MARK_10.37
 15	славѣ	слава	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	ref=MARK_10.37
 16	твоеи	твои	ADJ	Ps	Case=Loc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	15	nmod	_	ref=MARK_10.37
@@ -49678,7 +49678,7 @@
 3	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=JOHN_8.54
 4	славѧи	славити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	ref=JOHN_8.54
 5	мѧ	азъ	PRON	Pp	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	ref=JOHN_8.54
-6	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	fixed	_	ref=JOHN_8.54
+6	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	obj	_	ref=JOHN_8.54
 7	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	ref=JOHN_8.54
 8	г҃лете	глаголати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=JOHN_8.54
 9	ѣко	ꙗко	SCONJ	G-	_	12	mark	_	ref=JOHN_8.54
@@ -52902,21 +52902,21 @@
 1	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=JOHN_16.25
 2	придетъ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_16.25
 3	година	година	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=JOHN_16.25
-4	егда	ѥгда	ADV	Dq	PronType=Rel	18	advmod	_	ref=JOHN_16.25
+4	егда	ѥгда	ADV	Dq	PronType=Rel	10	advmod	_	ref=JOHN_16.25
 5	къ	къ	ADP	R-	_	6	case	_	ref=JOHN_16.25
 6	томоу	тъ	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	10	obl	_	ref=JOHN_16.25
 7	въ	въ	ADP	R-	_	8	case	_	ref=JOHN_16.25
 8	притъчахъ	притъча	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	10	obl	_	ref=JOHN_16.25
 9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	ref=JOHN_16.25
-10	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	ref=JOHN_16.25
+10	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=JOHN_16.25
 11	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	iobj	_	ref=JOHN_16.25
-12	нъ	нъ	CCONJ	C-	_	18	cc	_	ref=JOHN_16.25
+12	нъ	нъ	CCONJ	C-	_	10	cc	_	ref=JOHN_16.25
 13	не	не	ADV	Df	Polarity=Neg	14	advmod	_	ref=JOHN_16.25
 14	обиноуѩ	обиновати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	ref=JOHN_16.25
 15	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	14	aux	_	ref=JOHN_16.25
 16	о	о	ADP	R-	_	17	case	_	ref=JOHN_16.25
 17	о҃тци	отьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	18	obl	_	ref=JOHN_16.25
-18	възвѣштѫ	възвѣстити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=JOHN_16.25
+18	възвѣштѫ	възвѣстити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=JOHN_16.25
 19	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	18	iobj	_	ref=JOHN_16.25
 
 # source = Codex Marianus, John 16

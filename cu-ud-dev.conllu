@@ -7703,15 +7703,15 @@
 # source = Codex Marianus, Luke 7
 # text = ꙇ се жена въ градѣ ѣже бѣ грѣшъница ꙇ оувѣдѣвъши ѣко вьзлежитъ въ храминѣ фарисѣовѣ принесъши алавастръ мѵроу ꙇ ставъши зади при ногоу его плачѫшти сѧ начѧтъ мочити ноѕѣ его слъзами и власꙑ главꙑ своеѩ отирааше ꙇ облобꙑзааше ноѕѣ его и мазааше мѵромь
 # sent_id = 40353
-1	ꙇ	и	CCONJ	C-	_	27	cc	_	ref=LUKE_7.37
-2	се	се	INTJ	I-	_	27	vocative	_	ref=LUKE_7.37
-3	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	27	conj	_	ref=LUKE_7.37
+1	ꙇ	и	CCONJ	C-	_	0	root	_	ref=LUKE_7.37
+2	се	се	INTJ	I-	_	1	vocative	_	ref=LUKE_7.37
+3	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=LUKE_7.37
 4	въ	въ	ADP	R-	_	5	case	_	ref=LUKE_7.37
-5	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	orphan	_	ref=LUKE_7.37
+5	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	ref=LUKE_7.37
 6	ѣже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	ref=LUKE_7.37
 7	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=LUKE_7.37
 8	грѣшъница	грѣшьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	xcomp	_	ref=LUKE_7.37
-9	ꙇ	и	CCONJ	C-	_	27	cc	_	ref=LUKE_7.37
+9	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=LUKE_7.37
 10	оувѣдѣвъши	оувѣдѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	27	advcl	_	ref=LUKE_7.37
 11	ѣко	ꙗко	SCONJ	G-	_	12	mark	_	ref=LUKE_7.37
 12	вьзлежитъ	възлещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	ref=LUKE_7.37
@@ -7729,22 +7729,22 @@
 24	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	ref=LUKE_7.38
 25	плачѫшти	плакати#1	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	27	advcl	_	ref=LUKE_7.38
 26	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=LUKE_7.38
-27	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.38
+27	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 28	мочити	мочити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	27	xcomp	_	ref=LUKE_7.38
 29	ноѕѣ	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	28	obj	_	ref=LUKE_7.38
 30	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	ref=LUKE_7.38
 31	слъзами	сльза	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	28	obl	_	ref=LUKE_7.38
-32	и	и	CCONJ	C-	_	27	cc	_	ref=LUKE_7.38
+32	и	и	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
 33	власꙑ	власъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	36	obl	_	ref=LUKE_7.38
 34	главꙑ	глава	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	ref=LUKE_7.38
 35	своеѩ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	34	nmod	_	ref=LUKE_7.38
-36	отирааше	отирати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	ref=LUKE_7.38
-37	ꙇ	и	CCONJ	C-	_	27	cc	_	ref=LUKE_7.38
-38	облобꙑзааше	облобꙑзати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	ref=LUKE_7.38
+36	отирааше	отирати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
+37	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
+38	облобꙑзааше	облобꙑзати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 39	ноѕѣ	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	38	obj	_	ref=LUKE_7.38
 40	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	det	_	ref=LUKE_7.38
-41	и	и	CCONJ	C-	_	27	cc	_	ref=LUKE_7.38
-42	мазааше	мазати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	ref=LUKE_7.38
+41	и	и	CCONJ	C-	_	1	cc	_	ref=LUKE_7.38
+42	мазааше	мазати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.38
 43	мѵромь	мѵро	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	42	obl	_	ref=LUKE_7.38
 
 # source = Codex Marianus, Luke 7
