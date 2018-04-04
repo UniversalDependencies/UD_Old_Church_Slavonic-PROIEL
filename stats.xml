@@ -46,8 +46,8 @@
     <feat name="Gender" value="Fem,Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">388</feat><!-- десѧте, своѩ, вьсѧ, десѧтъ, тꙑ, моѩ, вꙑ, вашѧ, кто, мъногꙑ -->
     <feat name="Gender" value="Fem,Neut" upos="ADJ,NUM,VERB">52</feat><!-- дьвѣ, дъвѣ, мои, свои, ваши, обѣ, твои, четꙑри, блаженѣ, блаженѣи -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">15296</feat><!-- емоу, его, и, имъ, и҃съ, и҃с, онъ, иже, с҃нъ, г҃лѧ -->
-    <feat name="Gender" value="Masc,Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">836</feat><!-- моего, своего, сего, твоего, своемь, единого, б҃жиѣ, своемоу, того, моемоу -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">3949</feat><!-- что, еже, се, си, вьсѣ, слово, чъто, ѣже, ц҃срствие, мое -->
+    <feat name="Gender" value="Masc,Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">835</feat><!-- моего, своего, сего, твоего, своемь, единого, б҃жиѣ, своемоу, того, моемоу -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">3950</feat><!-- что, еже, се, си, вьсѣ, слово, чъто, ѣже, ц҃срствие, мое -->
     <feat name="Mood" value="Imp" upos="VERB">867</feat><!-- иди, бѫди, блюдѣте, даждъ, молите, въстани, дадите, помилоуи, рьци, творите -->
     <feat name="Mood" value="Ind" upos="VERB">9604</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
     <feat name="Mood" value="Sub" upos="VERB">96</feat><!-- би, бисте, бѫ, бимь, бишѧ, бимъ -->
@@ -64,8 +64,8 @@
     <feat name="PronType" value="Rcp" upos="PRON">39</feat><!-- дроугъ, дроуга, дроугоу -->
     <feat name="PronType" value="Rel" upos="ADV,PRON">1090</feat><!-- егда, иже, еже, ꙇже, ѣкоже, егоже, ѣже, елико, ѩже, идеже -->
     <feat name="Reflex" value="Yes" upos="ADJ,PRON">569</feat><!-- себѣ, своего, своѩ, свои, своимъ, своѭ, своихъ, своемь, своими, себе -->
-    <feat name="Strength" value="Strong" upos="ADJ,VERB">4306</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, мъноѕи, вьсѣкъ, видѣвъ, б҃жие, пришедъ, мъногꙑ, б҃жии -->
-    <feat name="Strength" value="Weak" upos="ADJ,VERB">1491</feat><!-- мрътвꙑхъ, ч҃лвчскꙑ, дроугꙑ, посълавъшааго, деснѫѭ, вѣроуѩи, вѣчънꙑ, с҃тꙑ, вѣчънааго, ч҃лвскꙑ -->
+    <feat name="Strength" value="Strong" upos="ADJ,VERB">4305</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, мъноѕи, вьсѣкъ, видѣвъ, б҃жие, пришедъ, мъногꙑ, б҃жии -->
+    <feat name="Strength" value="Weak" upos="ADJ,VERB">1492</feat><!-- мрътвꙑхъ, ч҃лвчскꙑ, дроугꙑ, посълавъшааго, деснѫѭ, вѣроуѩи, вѣчънꙑ, с҃тꙑ, вѣчънааго, ч҃лвскꙑ -->
     <feat name="Tense" value="Fut" upos="VERB">269</feat><!-- бѫдетъ, бѫдѫтъ, бѫдете, бѫдеши, бѫдѫ, бодетъ, бодѫтъ, бѫде, бѫдѣте, бѫдѫщии -->
     <feat name="Tense" value="Past" upos="VERB">6521</feat><!-- рече, бѣ, г҃ла, бꙑстъ, приде, рѣшѧ, отъвѣштавъ, сътвори, отъвѣшта, дастъ -->
     <feat name="Tense" value="Pres" upos="VERB">7723</feat><!-- естъ, г҃лѭ, г҃лѧ, еси, сѫтъ, иматъ, есмъ, бꙑти, г҃лѭште, придетъ -->
@@ -77,7 +77,7 @@
     <feat name="Voice" value="Pass" upos="VERB">468</feat><!-- писано, дано, нарицаемꙑ, написано, нарицаемааго, посъланъ, прѣданъ, речено, избъранꙑѩ, реченое -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="31">
+  <deps unique="30">
     <dep name="acl">860</dep>
     <dep name="advcl">3041</dep>
     <dep name="advmod">3731</dep>
@@ -85,26 +85,25 @@
     <dep name="appos">449</dep>
     <dep name="aux">1417</dep>
     <dep name="case">4654</dep>
-    <dep name="cc">4867</dep>
-    <dep name="ccomp">737</dep>
-    <dep name="conj">3382</dep>
+    <dep name="cc">4865</dep>
+    <dep name="ccomp">738</dep>
+    <dep name="conj">3381</dep>
     <dep name="csubj:pass">9</dep>
     <dep name="dep">107</dep>
     <dep name="det">1353</dep>
     <dep name="discourse">2035</dep>
-    <dep name="fixed">1</dep>
     <dep name="flat">176</dep>
     <dep name="flat:name">26</dep>
     <dep name="iobj">2353</dep>
     <dep name="mark">1338</dep>
     <dep name="nmod">2237</dep>
-    <dep name="nsubj">5155</dep>
+    <dep name="nsubj">5156</dep>
     <dep name="nsubj:pass">13</dep>
     <dep name="nummod">261</dep>
-    <dep name="obj:dir">4149</dep>
+    <dep name="obj">4150</dep>
     <dep name="obl">4073</dep>
     <dep name="obl:agent">75</dep>
-    <dep name="orphan">229</dep>
+    <dep name="orphan">230</dep>
     <dep name="parataxis">72</dep>
     <dep name="root">6337</dep>
     <dep name="vocative">604</dep>
