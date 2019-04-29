@@ -30637,8 +30637,8 @@
 # text = аште ли же трѣвѫ дьнесь на селѣ сѫщѫ и оутрѣ вь пешть вьметаемоу б҃ъ тако дѣатъ кольми паче васъ маловѣри
 # sent_id = 40767
 1	аште	аще	SCONJ	G-	_	16	mark	_	ref=LUKE_12.28
-2	ли	ли	ADV	Df	_	1	discourse	_	ref=LUKE_12.28
-3	же	же	ADV	Df	_	1	discourse	_	ref=LUKE_12.28
+2	ли	ли	ADV	Df	_	16	discourse	_	ref=LUKE_12.28
+3	же	же	ADV	Df	_	16	discourse	_	ref=LUKE_12.28
 4	трѣвѫ	трѣва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	ref=LUKE_12.28
 5	дьнесь	дьньсь	ADV	Df	_	7	advmod	_	ref=LUKE_12.28
 6	на	на	ADP	R-	_	7	case	_	ref=LUKE_12.28
@@ -46880,7 +46880,7 @@
 # text = аще оубо оузьрите с҃на ч҃ловчскааго въсходѧща идеже бѣ прѣжде
 # sent_id = 42002
 1	аще	аще	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	оубо	оубо	ADV	Df	_	1	discourse	_	ref=JOHN_6.62
+2	оубо	оубо	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
 3	оузьрите	оузьрѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
 4	с҃на	сꙑнъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	ref=JOHN_6.62
 5	ч҃ловчскааго	чловѣчьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	4	amod	_	ref=JOHN_6.62

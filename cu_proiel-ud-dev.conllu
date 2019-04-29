@@ -1320,7 +1320,7 @@
 # text = аще же сѣно селъное дьнесъ сѫштее а оутрѣ въ огнь вьметомо б҃ъ тако ѡдѣетъ кольми паче васъ маловѣри
 # sent_id = 38451
 1	аще	аще	SCONJ	G-	_	14	mark	_	ref=MATT_6.30
-2	же	же	ADV	Df	_	1	discourse	_	ref=MATT_6.30
+2	же	же	ADV	Df	_	14	discourse	_	ref=MATT_6.30
 3	сѣно	сѣно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	ref=MATT_6.30
 4	селъное	сельнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_6.30
 5	дьнесъ	дьньсь	ADV	Df	_	6	advmod	_	ref=MATT_6.30
