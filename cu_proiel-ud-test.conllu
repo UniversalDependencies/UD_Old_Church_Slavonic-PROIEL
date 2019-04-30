@@ -255,7 +255,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ѣко пространа врата и широкъ пѫть въводѧи въ пагоубѫ
 # sent_id = 38475
-1	ѣко	ꙗко	ADV	Df	_	2	advmod	_	ref=MATT_7.13|LId=2
+1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	ref=MATT_7.13|LId=2
 2	пространа	пространъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	0	root	_	ref=MATT_7.13
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	ref=MATT_7.13
 4	и	и	CCONJ	C-	_	2	cc	_	ref=MATT_7.13
@@ -9566,7 +9566,7 @@
 # source = Codex Marianus, Luke 10
 # text = ѣко аште въ тѵрѣ и сидонѣ бишѧ силꙑ бꙑлꙑ бꙑвъшѧѩ въ ваѭ древле оубо въ врѣтишти и попелѣ сѣдѧште покаали сѧ бишѧ
 # sent_id = 58255
-1	ѣко	ꙗко	ADV	Df	_	20	advmod	_	ref=LUKE_10.13|LId=2
+1	ѣко	ꙗко	ADV	Df	_	20	discourse	_	ref=LUKE_10.13|LId=2
 2	аште	аще	SCONJ	G-	_	9	mark	_	ref=LUKE_10.13
 3	въ	въ	ADP	R-	_	4	case	_	ref=LUKE_10.13
 4	тѵрѣ	тѵръ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	ref=LUKE_10.13
@@ -9781,7 +9781,7 @@
 # sent_id = 40600
 1	еи	еи	INTJ	I-	_	4	vocative	_	ref=LUKE_10.21
 2	отьче	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=LUKE_10.21
-3	ѣко	ꙗко	ADV	Df	_	4	advmod	_	ref=LUKE_10.21|LId=2
+3	ѣко	ꙗко	ADV	Df	_	4	discourse	_	ref=LUKE_10.21|LId=2
 4	тако	такъ	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=LUKE_10.21
 5	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=LUKE_10.21
 6	благоволение	благоволѥниѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=LUKE_10.21
@@ -11228,7 +11228,7 @@
 # source = Codex Marianus, Luke 19
 # text = ѣко придѫтъ дьнье на тѧ ꙇ обложѧтъ врази твои острогъ о тебѣ и обидѫтъ тѧ ꙇ осѧдѫтъ тѧ въсѫдѫ ꙇ разбиѭтъ тѧ и чѧда твоѣ въ тебѣ ꙇ не оставѧтъ вь тебѣ камене на камени понеже не разоумѣ врѣмене Посѣщению твоемоу
 # sent_id = 41203
-1	ѣко	ꙗко	ADV	Df	_	2	advmod	_	ref=LUKE_19.43|LId=2
+1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	ref=LUKE_19.43|LId=2
 2	придѫтъ	прити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_19.43
 3	дьнье	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=LUKE_19.43
 4	на	на	ADP	R-	_	5	case	_	ref=LUKE_19.43
@@ -12448,7 +12448,7 @@
 # source = Codex Marianus, John 12
 # text = ѣко азъ о себѣ не г҃лахъ нъ посълавꙑ мѧ отъцъ тъ мьнѣ заповѣдь дастъ что рекѫ и что в҃ъзглѭ
 # sent_id = 42546
-1	ѣко	ꙗко	ADV	Df	_	6	advmod	_	ref=JOHN_12.49|LId=2
+1	ѣко	ꙗко	ADV	Df	_	6	discourse	_	ref=JOHN_12.49|LId=2
 2	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=JOHN_12.49
 3	о	о	ADP	R-	_	4	case	_	ref=JOHN_12.49
 4	себѣ	себе	PRON	Pk	Case=Loc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl	_	ref=JOHN_12.49

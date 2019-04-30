@@ -702,7 +702,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ѣко любѧтъ на сонъмиштихъ и въ стъгнахъ и на распѫтихъ стоѩште молити сѧ да ѣвѧтъ сѧ чловѣкомъ
 # sent_id = 58390
-1	ѣко	ꙗко	ADV	Df	_	2	advmod	_	ref=MATT_6.5|LId=2
+1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	ref=MATT_6.5|LId=2
 2	любѧтъ	любити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.5
 3	на	на	ADP	R-	_	4	case	_	ref=MATT_6.5
 4	сонъмиштихъ	съньмище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	11	obl	_	ref=MATT_6.5
@@ -9852,7 +9852,7 @@
 # source = Codex Marianus, Luke 18
 # text = ѣко вьсѣкъ възносѧи сѧ съмѣритъ сѧ и съмѣрѣѩи сѧ възнесетъ сѧ
 # sent_id = 41093
-1	ѣко	ꙗко	ADV	Df	_	5	advmod	_	ref=LUKE_18.14|LId=2
+1	ѣко	ꙗко	ADV	Df	_	5	discourse	_	ref=LUKE_18.14|LId=2
 2	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	advmod	_	ref=LUKE_18.14
 3	възносѧи	възносити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	ref=LUKE_18.14
 4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=LUKE_18.14
@@ -12845,7 +12845,7 @@
 # source = Codex Marianus, John 17
 # text = ѣко г҃лꙑ ѩже далъ еси мьнѣ дахъ имъ ꙇ ти приѩсѧ и разоумѣшѧ вꙑ истинѫ ѣко отъ тебе изидъ ꙇ вѣровашѧ ѣко тꙑ мѧ посъла
 # sent_id = 42770
-1	ѣко	ꙗко	ADV	Df	_	7	advmod	_	ref=JOHN_17.8|LId=2
+1	ѣко	ꙗко	ADV	Df	_	7	discourse	_	ref=JOHN_17.8|LId=2
 2	г҃лꙑ	глаголъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	ref=JOHN_17.8
 3	ѩже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	4	obj	_	ref=JOHN_17.8
 4	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	acl	_	ref=JOHN_17.8
