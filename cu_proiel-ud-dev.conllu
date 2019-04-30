@@ -1798,7 +1798,7 @@
 # source = Codex Marianus, Matthew 21
 # text = нѣсте ли чьли николиже ѣко из оустъ младьнечь и съсѫштихъ съвръшилъ еси хвалѫ
 # sent_id = 39268
-1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_21.16
+1	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_21.16
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	ref=MATT_21.16
 3	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_21.16
 4	николиже	николиже	ADV	Df	_	3	advmod	_	ref=MATT_21.16
@@ -2491,7 +2491,7 @@
 # source = Codex Marianus, Matthew 21
 # text = нѣсте ли чьли николиже въ кънигахъ
 # sent_id = 39329
-1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_21.42
+1	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_21.42
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	ref=MATT_21.42
 3	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_21.42
 4	николиже	николиже	ADV	Df	_	3	advmod	_	ref=MATT_21.42
@@ -2990,7 +2990,7 @@
 4	скрьбь	скръбь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT_24.21
 5	велиѣ	велии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	4	amod	_	ref=MATT_24.21
 6	ѣкаже	ꙗкъже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	ref=MATT_24.21
-7	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MATT_24.21
+7	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MATT_24.21
 8	бꙑла	бꙑти	AUX	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	acl	_	ref=MATT_24.21
 9	отъ	отъ	ADP	R-	_	10	case	_	ref=MATT_24.21
 10	начѧла	начѧло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	ref=MATT_24.21
@@ -4409,7 +4409,7 @@
 # text = отроковица нѣстъ оумръла нъ съпитъ
 # sent_id = 36609
 1	отроковица	отроковица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=MARK_5.39
-2	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MARK_5.39
+2	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MARK_5.39
 3	оумръла	оумрѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MARK_5.39
 4	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=MARK_5.39
 5	съпитъ	съпати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MARK_5.39
@@ -9452,7 +9452,7 @@
 # source = Codex Marianus, Luke 8
 # text = нѣстъ оумръла нъ съпитъ
 # sent_id = 40465
-1	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=LUKE_8.52
+1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=LUKE_8.52
 2	оумръла	оумрѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=LUKE_8.52
 3	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=LUKE_8.52
 4	съпитъ	съпати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_8.52

@@ -2491,7 +2491,7 @@
 # source = Codex Marianus, Matthew 12
 # text = нѣсте ли чъли чъто сътвори д҃въ егда възаалка самъ ꙇ сѫщи съ нимь
 # sent_id = 38701
-1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_12.3
+1	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_12.3
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	ref=MATT_12.3
 3	чъли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_12.3
 4	чъто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	ref=MATT_12.3
@@ -2535,7 +2535,7 @@
 # text = ли нѣсте чъли въ законѣ ѣко въ соботꙑ иереи въ ц҃ъркве соботꙑ скврънѧтъ ꙇ неповиньни сѫтъ
 # sent_id = 38703
 1	ли	ли	CCONJ	C-	_	3	cc	_	ref=MATT_12.5
-2	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_12.5
+2	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_12.5
 3	чъли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_12.5
 4	въ	въ	ADP	R-	_	5	case	_	ref=MATT_12.5
 5	законѣ	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=MATT_12.5
@@ -8756,7 +8756,7 @@
 # source = Codex Marianus, Matthew 19
 # text = нѣсте ли чьли ѣко сътвори и ꙇскони мѫжескъ полъ и женескъ сътворилъ естъ
 # sent_id = 50921
-1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_19.4
+1	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_19.4
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	ref=MATT_19.4
 3	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_19.4
 4	ѣко	ꙗко	SCONJ	G-	_	12	mark	_	ref=MATT_19.4
@@ -15431,7 +15431,7 @@
 # source = Codex Marianus, Mark 2
 # text = нѣсте ли николиже чьли что сътвори д҃авдъ егда трѣбова ꙇ възалъка самъ и иже бѣахѫ съ нимъ како въниде въ храмъ б҃жии при авиатари архиереи ꙇ хлѣбꙑ прѣдъложениѣ сънѣстъ ꙇхъже не достоѣше ѣсти тькмо иереомъ ꙇ дастъ и сѫштимъ съ нимъ
 # sent_id = 36462
-1	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=MARK_2.25
+1	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=MARK_2.25
 2	ли	ли	ADV	Du	PronType=Int	4	advmod	_	ref=MARK_2.25
 3	николиже	николиже	ADV	Df	_	4	advmod	_	ref=MARK_2.25
 4	чьли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MARK_2.25
@@ -19582,7 +19582,7 @@
 15	привѧзанъ	привѧзати	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	13	xcomp	_	ref=MARK_11.2
 16	на	на	ADP	R-	_	17	case	_	ref=MARK_11.2
 17	ньже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	24	obl	_	ref=MARK_11.2
-18	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	ref=MARK_11.2
+18	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	ref=MARK_11.2
 19	не	не	ADV	Df	Polarity=Neg	24	advmod	_	ref=MARK_11.2
 20	оу	оу	ADV	Df	_	24	advmod	_	ref=MARK_11.2
 21	никтоже	никътоже	ADJ	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	24	nsubj	_	ref=MARK_11.2
@@ -20949,7 +20949,7 @@
 3	мрътвꙑихъ	мрьтвъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	advmod	_	ref=MARK_12.26
 4	ѣко	ꙗко	SCONJ	G-	_	5	mark	_	ref=MARK_12.26
 5	въстанѫтъ	въстати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=MARK_12.26
-6	нѣсте	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MARK_12.26
+6	нѣсте	не.бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MARK_12.26
 7	ли	ли	ADV	Du	PronType=Int	8	advmod	_	ref=MARK_12.26
 8	чъли	чисти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=MARK_12.26
 9	въ	въ	ADP	R-	_	10	case	_	ref=MARK_12.26
@@ -41046,7 +41046,7 @@
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_24.51
 2	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_24.51
 3	егда	ѥгда	ADV	Dq	PronType=Rel	2	advmod	_	ref=LUKE_24.51
-4	благословѣше	благословити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	ref=LUKE_24.51
+4	благословѣше	благословити	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	ref=LUKE_24.51
 5	ѩ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	ref=LUKE_24.51
 6	отъстѫпи	отъстѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=LUKE_24.51
 7	отъ	отъ	ADP	R-	_	8	case	_	ref=LUKE_24.51
@@ -49269,7 +49269,7 @@
 # sent_id = 42194
 1	сего	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	4	obj	_	ref=JOHN_8.40
 2	авраамъ	авраамъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JOHN_8.40
-3	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=JOHN_8.40
+3	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=JOHN_8.40
 4	сътворилъ	сътворити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=JOHN_8.40
 
 # source = Codex Marianus, John 8
