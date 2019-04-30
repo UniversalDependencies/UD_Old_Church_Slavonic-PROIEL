@@ -799,9 +799,9 @@
 # source = Codex Marianus, Matthew 8
 # text = г҃и нѣсмъ достоинъ да въ домъ мои вьнидеши
 # sent_id = 50712
-1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=MATT_8.8
-2	нѣсмъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_8.8
-3	достоинъ	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	xcomp	_	ref=MATT_8.8
+1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=MATT_8.8
+2	нѣсмъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_8.8
+3	достоинъ	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=MATT_8.8
 4	да	да	SCONJ	G-	_	8	mark	_	ref=MATT_8.8
 5	въ	въ	ADP	R-	_	6	case	_	ref=MATT_8.8
 6	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=MATT_8.8
@@ -2119,9 +2119,9 @@
 # source = Codex Marianus, Matthew 22
 # text = нѣстъ б҃ъ мрътвꙑхъ нъ живꙑхъ
 # sent_id = 51009
-1	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_22.32
-2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	ref=MATT_22.32
-3	мрътвꙑхъ	мрьтвъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=MATT_22.32
+1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=MATT_22.32
+2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=MATT_22.32
+3	мрътвꙑхъ	мрьтвъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	advmod	_	ref=MATT_22.32
 4	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=MATT_22.32
 5	живꙑхъ	живъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	conj	_	ref=MATT_22.32
 
@@ -4769,10 +4769,10 @@
 # source = Codex Marianus, Mark 7
 # text = нѣстъ бо добро отѧти хлѣба чѧдомъ ꙇ псомъ поврѣшти
 # sent_id = 36730
-1	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_7.27
-2	бо	бо	ADV	Df	_	1	discourse	_	ref=MARK_7.27
-3	добро	добръ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	xcomp	_	ref=MARK_7.27
-4	отѧти	отѧти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=MARK_7.27
+1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MARK_7.27
+2	бо	бо	ADV	Df	_	3	discourse	_	ref=MARK_7.27
+3	добро	добръ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=MARK_7.27
+4	отѧти	отѧти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=MARK_7.27
 5	хлѣба	хлѣбъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	ref=MARK_7.27
 6	чѧдомъ	чѧдо	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	iobj	_	ref=MARK_7.27
 7	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MARK_7.27
@@ -6712,7 +6712,7 @@
 2	юже	оуже	ADV	Df	_	3	advmod	_	ref=MARK_15.42
 3	поздѣ	поздѣ	ADV	Df	Degree=Pos	13	advcl	_	ref=MARK_15.42
 4	бꙑвъшю	бꙑти	AUX	V-	Case=Dat|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	cop	_	ref=MARK_15.42
-5	Понеже	понѥже	SCONJ	G-	_	7	advmod	_	ref=MARK_15.42
+5	Понеже	понѥже	SCONJ	G-	_	7	mark	_	ref=MARK_15.42
 6	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	ref=MARK_15.42
 7	параскевьꙉии	параскевьги	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	advcl	_	ref=MARK_15.42
 8	пасцѣ	пасха	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	ref=MARK_15.42
@@ -8992,19 +8992,19 @@
 # source = Codex Marianus, Luke 9
 # text = нѣстъ бо на вꙑ
 # sent_id = 51412
-1	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_9.50
-2	бо	бо	ADV	Df	_	1	discourse	_	ref=LUKE_9.50
+1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=LUKE_9.50
+2	бо	бо	ADV	Df	_	4	discourse	_	ref=LUKE_9.50
 3	на	на	ADP	R-	_	4	case	_	ref=LUKE_9.50
-4	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	xcomp	_	ref=LUKE_9.50
+4	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=LUKE_9.50
 
 # source = Codex Marianus, Luke 9
 # text = ꙇже бо нѣстъ на вꙑ по васъ естъ
 # sent_id = 40547
-1	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=LUKE_9.50
+1	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=LUKE_9.50
 2	бо	бо	ADV	Df	_	7	discourse	_	ref=LUKE_9.50
-3	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	nsubj	_	ref=LUKE_9.50
+3	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_9.50
 4	на	на	ADP	R-	_	5	case	_	ref=LUKE_9.50
-5	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	xcomp	_	ref=LUKE_9.50
+5	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	ref=LUKE_9.50
 6	по	по	ADP	R-	_	7	case	_	ref=LUKE_9.50
 7	васъ	вꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=LUKE_9.50
 8	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=LUKE_9.50
@@ -12862,14 +12862,14 @@
 # source = Codex Marianus, John 13
 # text = нѣстъ рабъ болеи г҃а своего ни а҃плъ болеи посълавъшааго и
 # sent_id = 52050
-1	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_13.16
-2	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JOHN_13.16
-3	болеи	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	1	xcomp	_	ref=JOHN_13.16
+1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=JOHN_13.16
+2	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JOHN_13.16
+3	болеи	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	0	root	_	ref=JOHN_13.16
 4	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	ref=JOHN_13.16
 5	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=JOHN_13.16
-6	ни	ни	CCONJ	C-	_	1	cc	_	ref=JOHN_13.16
-7	а҃плъ	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=JOHN_13.16
-8	болеи	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	7	orphan	_	ref=JOHN_13.16
+6	ни	ни	CCONJ	C-	_	3	cc	_	ref=JOHN_13.16
+7	а҃плъ	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=JOHN_13.16
+8	болеи	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	3	conj	_	ref=JOHN_13.16
 9	посълавъшааго	посълати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=JOHN_13.16
 10	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	ref=JOHN_13.16
 
@@ -13902,12 +13902,12 @@
 # source = Codex Marianus, John 18
 # text = ц҃срство мое нѣстъ отъ сего мира
 # sent_id = 42830
-1	ц҃срство	цѣсарьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=JOHN_18.36
+1	ц҃срство	цѣсарьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=JOHN_18.36
 2	мое	мои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=JOHN_18.36
-3	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.36
+3	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=JOHN_18.36
 4	отъ	отъ	ADP	R-	_	6	case	_	ref=JOHN_18.36
 5	сего	сь	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	6	det	_	ref=JOHN_18.36
-6	мира	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	xcomp	_	ref=JOHN_18.36|LId=2
+6	мира	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=JOHN_18.36|LId=2
 
 # source = Codex Marianus, John 18
 # text = аште отъ сего мира би бꙑло цⷬ҇ство мое слоугꙑ оубо моѩ подвиѕалꙑ сѧ бꙑшѧ да не прѣданъ бимь июдѣомъ
@@ -13935,12 +13935,12 @@
 # source = Codex Marianus, John 18
 # text = нꙑнѣ же цⷬ҇ство мое нѣстъ отъ сѫдоу
 # sent_id = 42832
-1	нꙑнѣ	нꙑнѣ	ADV	Df	_	5	advmod	_	ref=JOHN_18.36
-2	же	же	ADV	Df	_	5	discourse	_	ref=JOHN_18.36
-3	цⷬ҇ство	цѣсарьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=JOHN_18.36
+1	нꙑнѣ	нꙑнѣ	ADV	Df	_	6	advmod	_	ref=JOHN_18.36
+2	же	же	ADV	Df	_	6	discourse	_	ref=JOHN_18.36
+3	цⷬ҇ство	цѣсарьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=JOHN_18.36
 4	мое	мои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=JOHN_18.36
-5	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.36
-6	отъ	отъсѫдоу	ADV	Df	_	5	xcomp	_	ref=JOHN_18.36
+5	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=JOHN_18.36
+6	отъ	отъсѫдоу	ADV	Df	_	0	root	_	ref=JOHN_18.36
 7	сѫдоу	сѫдоу	ADV	Df	_	6	flat	_	ref=JOHN_18.36
 
 # source = Codex Marianus, John 18
