@@ -1969,7 +1969,7 @@
 4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=MATT_22.24
 5	имꙑ	имѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=MATT_22.24
 6	чѧдъ	чѧдо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	obj	_	ref=MATT_22.24
-7	да	да	SCONJ	G-	_	8	advmod	_	ref=MATT_22.24
+7	да	да	SCONJ	G-	_	8	mark	_	ref=MATT_22.24
 8	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_22.24
 9	братръ	братръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT_22.24
 10	женѫ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	ref=MATT_22.24

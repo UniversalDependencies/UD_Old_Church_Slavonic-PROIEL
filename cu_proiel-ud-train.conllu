@@ -9765,7 +9765,7 @@
 # source = Codex Marianus, Matthew 20
 # text = ꙇли нѣстъ ми лѣть сътворити въ своихъ ми еже хоштѫ
 # sent_id = 39210
-1	ꙇли	или	SCONJ	G-	_	2	advmod	_	ref=MATT_20.15
+1	ꙇли	или	SCONJ	G-	_	2	mark	_	ref=MATT_20.15
 2	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_20.15
 3	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	ref=MATT_20.15
 4	лѣть	лѣть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT_20.15
@@ -22187,7 +22187,7 @@
 # source = Codex Marianus, Mark 13
 # text = да не пришедъ вьнезаапѫ обрѧщетъ вꙑ съпѧштѧ
 # sent_id = 37152
-1	да	да	SCONJ	G-	_	5	advmod	_	ref=MARK_13.36
+1	да	да	SCONJ	G-	_	5	mark	_	ref=MARK_13.36
 2	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=MARK_13.36
 3	пришедъ	прити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=MARK_13.36
 4	вьнезаапѫ	вънезаапѫ	ADV	Df	_	3	advmod	_	ref=MARK_13.36
@@ -27380,7 +27380,7 @@
 2	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=LUKE_3.23
 3	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	ref=LUKE_3.23
 4	и҃съ	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=LUKE_3.23
-5	ѣко	ꙗко	SCONJ	G-	_	7	advmod	_	ref=LUKE_3.23
+5	ѣко	ꙗко	SCONJ	G-	_	7	mark	_	ref=LUKE_3.23
 6	тремъ	триѥ	NUM	Ma	Case=Dat|Number=Plur	7	nummod	_	ref=LUKE_3.23
 7	десѧтемъ	десѧть	NUM	Ma	Case=Dat|Gender=Fem,Masc|Number=Plur	0	root	_	ref=LUKE_3.23
 8	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=LUKE_3.23

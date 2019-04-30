@@ -2916,7 +2916,7 @@
 11	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	ref=MATT_24.15
 12	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	ref=MATT_24.15
 13	чьтетъ	чисти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	nsubj	_	ref=MATT_24.15
-14	да	да	SCONJ	G-	_	15	advmod	_	ref=MATT_24.15
+14	да	да	SCONJ	G-	_	15	mark	_	ref=MATT_24.15
 15	разоумѣваатъ	разоумѣвати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	ref=MATT_24.15
 16	Тъгда	тъгда	ADV	Df	_	21	advmod	_	ref=MATT_24.16
 17	сѫштеи	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	19	cop	_	ref=MATT_24.16
@@ -9140,7 +9140,7 @@
 14	иночѧда	иночѧдъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	13	amod	_	ref=LUKE_8.42
 15	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=LUKE_8.42
 16	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	ref=LUKE_8.42
-17	ѣко	ꙗко	SCONJ	G-	_	18	advmod	_	ref=LUKE_8.42
+17	ѣко	ꙗко	SCONJ	G-	_	18	mark	_	ref=LUKE_8.42
 18	дъвою	дъва	NUM	Ma	Case=Gen|Number=Dual	21	nummod	_	ref=LUKE_8.42
 19	на	на	ADP	R-	_	20	case	_	ref=LUKE_8.42
 20	десѧте	десѧть	NUM	Ma	Case=Loc|Gender=Fem,Masc|Number=Sing	18	nummod	_	ref=LUKE_8.42
