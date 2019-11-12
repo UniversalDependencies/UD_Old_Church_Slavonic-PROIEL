@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit b70f67a3b5b678bec3eef975c15e470b6ff7bd67
-Merge: 1412fce 3e1e22b
+commit 492f9663c465c7dc75934c30e077aa1efe945f8a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:32:48 2019 +0200
 Size: counted 57563 of 57563 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.10576000037688.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,45 @@ Udapi: found 1557 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 57563 words.
 Genres: found 1 out of 17 known.
 validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
-*** PASSED ***
+[Line 282 Sent 38388 Node 12]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 285 Sent 38388 Node 15]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 286 Sent 38388 Node 16]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 288 Sent 38388 Node 18]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 293 Sent 38388 Node 23]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 295 Sent 38388 Node 25]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 13903 Sent 42895 Node 14]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+Syntax errors: 7
+*** FAILED *** with 7 errors
+Exit code: 1
 validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
-*** PASSED ***
+[Line 1566 Sent 50996 Node 8]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 1568 Sent 50996 Node 10]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 1570 Sent 50996 Node 12]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 3443 Sent 51094 Node 26]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3473 Sent 39532 Node 4]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 5430 Sent 50394 Node 2]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
+[Line 5434 Sent 50394 Node 6]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
+[Line 6400 Sent 50579 Node 9]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 6401 Sent 50579 Node 10]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+...suppressing further errors regarding Syntax
+Syntax errors: 17
+*** FAILED *** with 17 errors
+Exit code: 1
 validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 3646 Sent 38780 Node 11]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3647 Sent 38780 Node 12]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3648 Sent 38780 Node 13]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 3650 Sent 38780 Node 15]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3652 Sent 38780 Node 17]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 3994 Sent 38800 Node 21]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3995 Sent 38800 Node 22]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3996 Sent 38800 Node 23]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
+[Line 3997 Sent 38800 Node 24]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+...suppressing further errors regarding Syntax
+Syntax errors: 54
+*** FAILED *** with 54 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +70,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
 (weight=0.307692307692308) * (score{udapi}=0.729513750152007) = 0.224465769277541
 (weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
-(TOTAL score=0.65602722364355) * (availability=1) * (validity=1) = 0.65602722364355
-STARS = 3.5
-UD_Old_Church_Slavonic-PROIEL	0.65602722364355	3.5
+(TOTAL score=0.65602722364355) * (availability=1) * (validity=0.01) = 0.0065602722364355
+STARS = 0
+UD_Old_Church_Slavonic-PROIEL	0.0065602722364355	0
