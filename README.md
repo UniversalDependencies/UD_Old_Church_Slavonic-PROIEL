@@ -20,6 +20,7 @@ Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of th
 
 # Changelog
 
+V2.8 Undocumented feature Strength replaced with Variant=Short as in other Slavic treebanks.
 V2.2 Repository renamed from UD_Old_Church_Slavonic to UD_Old_Church_Slavonic-PROIEL.
 V2.0 The treebank was converted to UDv2 and the data splits were changed.
 
