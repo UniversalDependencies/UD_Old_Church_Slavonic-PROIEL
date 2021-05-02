@@ -10,7 +10,7 @@
     <dev><sentences>1073</sentences><tokens>10100</tokens><words>10100</words><fused>0</fused></dev>
     <test><sentences>1141</sentences><tokens>10031</tokens><words>10031</words><fused>0</fused></test>
   </size>
-  <lemmas unique="3016" /><!-- и, бꙑти, въ, же, себе, не, глаголати, рещи, ꙗко, азъ, иже, на, отъ, вꙑ, сь -->
+  <lemmas unique="3015" /><!-- и, бꙑти, въ, же, себе, не, глаголати, рещи, ꙗко, азъ, иже, на, отъ, вꙑ, сь -->
   <forms unique="9840" /><!-- ꙇ, и, же, сѧ, не, въ, ѣко, отъ, на, рече, емоу, естъ, его, да, къ -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">5286</tag><!-- сь, свои, мои, твои, онъ, тъ, мъногъ, вьсь, божии, вашь -->
     <tag name="ADP">4675</tag><!-- въ, на, отъ, къ, съ, о, по, прѣдъ, ради, из -->
     <tag name="ADV">5998</tag><!-- же, не, бо, и, ли, ѥгда, оубо, ꙗко, тъгда, ꙗкоже -->
-    <tag name="AUX">2080</tag><!-- бꙑти, не.бꙑти -->
+    <tag name="AUX">2080</tag><!-- бꙑти -->
     <tag name="CCONJ">4918</tag><!-- и, нъ, а, ли, ни, или, да, любо, али -->
     <tag name="DET">796</tag><!-- вьсь, сь, тъ, ѥдинъ, инъ, онъ, самъ, етеръ, иже, чьто -->
     <tag name="INTJ">320</tag><!-- се, аминъ, горѥ, еи, ни, осана, ѡ, оува, сь -->
@@ -59,7 +59,7 @@
     <feat name="Person" value="1" upos="ADJ,AUX,PRON,VERB">2389</feat><!-- азъ, мѧ, г҃лѭ, мьнѣ, мене, мои, есмъ, намъ, ми, моего -->
     <feat name="Person" value="2" upos="ADJ,AUX,PRON,VERB">3370</feat><!-- вамъ, вꙑ, еси, тꙑ, тебѣ, васъ, тѧ, твои, ти, твоѣ -->
     <feat name="Person" value="3" upos="ADJ,AUX,PRON,VERB">12323</feat><!-- сѧ, рече, емоу, естъ, его, и, имъ, бѣ, г҃ла, бѫдетъ -->
-    <feat name="Polarity" value="Neg" upos="ADV">1238</feat><!-- не, ни -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX">1329</feat><!-- не, ни, нѣстъ, нѣсмъ, нѣсте, нѣси, нѣ, нѣсмь, нѣсть -->
     <feat name="Poss" value="Yes" upos="ADJ">1167</feat><!-- мои, твои, моего, своего, своѩ, моѣ, твоѣ, мое, свои, своимъ -->
     <feat name="PronType" value="Int" upos="ADV,PRON">765</feat><!-- ли, что, како, чъто, кто, еда, отъ, къто, къде, кѫдоу -->
     <feat name="PronType" value="Prs" upos="PRON">6348</feat><!-- сѧ, емоу, его, и, имъ, вамъ, азъ, вꙑ, мѧ, мьнѣ -->

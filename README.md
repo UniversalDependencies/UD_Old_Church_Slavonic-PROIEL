@@ -23,6 +23,7 @@ Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of th
 * 2021-05-15 v2.8
   * Undocumented feature Strength replaced with Variant=Short as in other Slavic treebanks.
   * Undocumented Aspect=Res converted to VerbForm=PartRes|Tense=Past as in the Old East Slavic treebanks.
+  * Negative copula не.бꙑти lemmatized as бꙑти, added Polarity=Neg.
 * 2018-07-01 v2.2
   * Repository renamed from UD_Old_Church_Slavonic to UD_Old_Church_Slavonic-PROIEL.
 * 2017-03-01 v2.0
