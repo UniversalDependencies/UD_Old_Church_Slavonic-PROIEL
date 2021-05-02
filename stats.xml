@@ -34,7 +34,6 @@
   <feats unique="45">
     <feat name="Aspect" value="Imp" upos="AUX,VERB">1120</feat><!-- бѣ, бѣахѫ, г҃лаахѫ, г҃лааше, г҃лаше, хотѣаше, искаахѫ, идѣаше, молѣаше, бѣшѧ -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">3771</feat><!-- рече, г҃ла, бꙑстъ, приде, рѣшѧ, сътвори, отъвѣшта, дастъ, посъла, придѫ -->
-    <feat name="Aspect" value="Res" upos="AUX,VERB">200</feat><!-- далъ, бꙑлъ, пришелъ, сътворилъ, чьли, бꙑли, имѣли, бꙑло, възлюбилъ, чъли -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7638</feat><!-- сѧ, и, мѧ, ѩ, что, вꙑ, тѧ, і, еже, се -->
     <feat name="Case" value="Dat" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3691</feat><!-- емоу, имъ, вамъ, немоу, тебѣ, мьнѣ, намъ, ми, ти, еи -->
     <feat name="Case" value="Dat,Gen" upos="NOUN,NUM">5</feat><!-- домоу, благодати, пѧти, съмръти -->
@@ -68,12 +67,13 @@
     <feat name="PronType" value="Rel" upos="ADV,PRON">1091</feat><!-- егда, иже, еже, ꙇже, ѣкоже, егоже, ѣже, елико, ѩже, идеже -->
     <feat name="Reflex" value="Yes" upos="ADJ,PRON">1787</feat><!-- сѧ, себѣ, своего, своѩ, свои, своимъ, своѭ, своихъ, своемь, своими -->
     <feat name="Tense" value="Fut" upos="AUX">269</feat><!-- бѫдетъ, бѫдѫтъ, бѫдете, бѫдеши, бѫдѫ, бодетъ, бодѫтъ, бѫде, бѫдѣте, бѫдѫщии -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">6521</feat><!-- рече, бѣ, г҃ла, бꙑстъ, приде, рѣшѧ, отъвѣштавъ, сътвори, отъвѣшта, дастъ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">6721</feat><!-- рече, бѣ, г҃ла, бꙑстъ, приде, рѣшѧ, отъвѣштавъ, сътвори, отъвѣшта, дастъ -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">7723</feat><!-- естъ, г҃лѭ, г҃лѧ, еси, сѫтъ, иматъ, есмъ, бꙑти, г҃лѭште, придетъ -->
     <feat name="Variant" value="Short" upos="ADJ,AUX,VERB">4305</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, мъноѕи, вьсѣкъ, видѣвъ, б҃жие, пришедъ, мъногꙑ, б҃жии -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">10567</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, еси, приде, сѫтъ -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">832</feat><!-- бꙑти, ѣсти, г҃лати, дати, прити, творити, ити, видѣти, пити, слꙑшати -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">3314</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">3114</feat><!-- г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше -->
+    <feat name="VerbForm" value="PartRes" upos="AUX,VERB">200</feat><!-- далъ, бꙑлъ, пришелъ, сътворилъ, чьли, бꙑли, имѣли, бꙑло, възлюбилъ, чъли -->
     <feat name="VerbForm" value="Sup" upos="VERB">65</feat><!-- видѣтъ, вьзѧтъ, помолитъ, кръститъ, послоушатъ, призъватъ, с҃пстъ, възискатъ, погоубитъ, послоужитъ -->
     <feat name="Voice" value="Act" upos="AUX,VERB">14245</feat><!-- рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, г҃лѧ, еси, приде -->
     <feat name="Voice" value="Pass" upos="AUX,VERB">468</feat><!-- писано, дано, нарицаемꙑ, написано, нарицаемааго, посъланъ, прѣданъ, речено, избъранꙑѩ, реченое -->
