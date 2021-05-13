@@ -20,8 +20,16 @@ Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of th
 
 # Changelog
 
-V2.2 Repository renamed from UD_Old_Church_Slavonic to UD_Old_Church_Slavonic-PROIEL.
-V2.0 The treebank was converted to UDv2 and the data splits were changed.
+* 2021-05-15 v2.8
+  * Undocumented feature Strength replaced with Variant=Short as in other Slavic treebanks.
+  * Undocumented Aspect=Res converted to VerbForm=PartRes|Tense=Past as in the Old East Slavic treebanks.
+  * Negative copula не.бꙑти lemmatized as бꙑти, added Polarity=Neg.
+* 2018-07-01 v2.2
+  * Repository renamed from UD_Old_Church_Slavonic to UD_Old_Church_Slavonic-PROIEL.
+* 2017-03-01 v2.0
+  * The treebank was converted to UDv2 and the data splits were changed.
+* 2015-11-15 v1.2
+  * Initial release in Universal Dependencies.
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.2
