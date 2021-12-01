@@ -20,6 +20,8 @@ Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of th
 
 # Changelog
 
+* 2022-05-15 v2.10
+  * MISC ref= changed to Ref= to match other UD treebanks.
 * 2021-05-15 v2.8
   * Undocumented feature Strength replaced with Variant=Short as in other Slavic treebanks.
   * Undocumented Aspect=Res converted to VerbForm=PartRes|Tense=Past as in the Old East Slavic treebanks.
