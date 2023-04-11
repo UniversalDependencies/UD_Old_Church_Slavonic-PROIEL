@@ -1271,9 +1271,9 @@
 6	пцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_10.19
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	ref=MATT_10.19
 8	како	како	ADV	Du	PronType=Int	6	ccomp	_	ref=MATT_10.19
-9	ли	ли	CCONJ	C-	_	8	orphan	_	ref=MATT_10.19
+9	ли	ли	CCONJ	C-	_	8	cc	_	ref=MATT_10.19
 10	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obj	_	ref=MATT_10.19
-11	възглаголете	възглаголати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	orphan	_	ref=MATT_10.19
+11	възглаголете	възглаголати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_10.19
 
 # source = Codex Marianus, Matthew 10
 # text = дастъ бо сѧ вамъ въ тъ часъ что г҃лте
@@ -3644,10 +3644,10 @@
 9	плодъ	плодъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	ref=MATT_13.8
 10	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	ref=MATT_13.8
 11	съто	съто	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	10	orphan	_	ref=MATT_13.8
-12	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	10	orphan	_	ref=MATT_13.8
+12	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	ref=MATT_13.8
 13	шесть	шесть	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	12	orphan	_	ref=MATT_13.8
 14	десѧтъ	десѧть	NUM	Ma	Case=Gen|Gender=Fem,Masc|Number=Plur	13	nmod	_	ref=MATT_13.8
-15	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	10	orphan	_	ref=MATT_13.8
+15	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	ref=MATT_13.8
 16	три	триѥ	NUM	Ma	Case=Acc|Number=Plur	17	nummod	_	ref=MATT_13.8
 17	десѧти	десѧть	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	15	orphan	_	ref=MATT_13.8
 
@@ -3855,9 +3855,9 @@
 18	слꙑшати	слꙑшати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=MATT_13.17
 19	ѣже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	20	obj	_	ref=MATT_13.17
 20	слꙑшите	слꙑшати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	obj	_	ref=MATT_13.17
-21	и	и	CCONJ	C-	_	18	orphan	_	ref=MATT_13.17
+21	и	и	CCONJ	C-	_	18	cc	_	ref=MATT_13.17
 22	не	не	ADV	Df	Polarity=Neg	23	advmod	_	ref=MATT_13.17
-23	слꙑшашѧ	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	orphan	_	ref=MATT_13.17
+23	слꙑшашѧ	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	ref=MATT_13.17
 
 # source = Codex Marianus, Matthew 13
 # text = вꙑ же оуслꙑшите притъчѫ сѣвъшааго
@@ -3992,9 +3992,9 @@
 19	творитъ	творити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_13.23
 20	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	19	parataxis	_	ref=MATT_13.23
 21	р҃	съто	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	20	orphan	_	ref=MATT_13.23
-22	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	20	orphan	_	ref=MATT_13.23
+22	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	20	conj	_	ref=MATT_13.23
 23	м҃	шесть.десѧтъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	22	orphan	_	ref=MATT_13.23
-24	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	20	orphan	_	ref=MATT_13.23
+24	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	20	conj	_	ref=MATT_13.23
 25	ꙉ҃	триѥ.десѧте	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	24	orphan	_	ref=MATT_13.23
 
 # source = Codex Marianus, Matthew 13
@@ -7214,12 +7214,12 @@
 7	кровꙑ	кровъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	ref=MATT_17.4
 8	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	9	orphan	_	ref=MATT_17.4
 9	единъ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	4	parataxis	_	ref=MATT_17.4
-10	и	и	CCONJ	C-	_	9	orphan	_	ref=MATT_17.4
+10	и	и	CCONJ	C-	_	9	cc	_	ref=MATT_17.4
 11	мосеови	моси	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	12	orphan	_	ref=MATT_17.4
-12	единъ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	9	orphan	_	ref=MATT_17.4
+12	единъ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	ref=MATT_17.4
 13	и	и	CCONJ	C-	_	9	cc	_	ref=MATT_17.4
 14	илии	илиꙗ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	orphan	_	ref=MATT_17.4
-15	единъ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	9	orphan	_	ref=MATT_17.4
+15	единъ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	ref=MATT_17.4
 
 # source = Codex Marianus, Matthew 17
 # text = еште же емоу г҃лѭштю се облакъ свѣтелъ осиѣ ѩ ꙇ се гласъ из облака г҃лѧ
@@ -9925,8 +9925,8 @@
 8	о	о	ADP	R-	_	9	case	_	ref=MATT_20.21
 9	деснѫѭ҄	деснъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	orphan	_	ref=MATT_20.21
 10	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	det	_	ref=MATT_20.21
-11	и	и	CCONJ	C-	_	7	orphan	_	ref=MATT_20.21
-12	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	7	orphan	_	ref=MATT_20.21
+11	и	и	CCONJ	C-	_	7	cc	_	ref=MATT_20.21
+12	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	ref=MATT_20.21
 13	о	о	ADP	R-	_	14	case	_	ref=MATT_20.21
 14	шюѭ	шоуи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	orphan	_	ref=MATT_20.21
 15	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	det	_	ref=MATT_20.21
@@ -12814,8 +12814,8 @@
 7	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	2	parataxis	_	ref=MATT_27.38
 8	о	о	ADP	R-	_	9	case	_	ref=MATT_27.38
 9	деснѫѭ҄	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	orphan	_	ref=MATT_27.38
-10	и	и	CCONJ	C-	_	7	orphan	_	ref=MATT_27.38
-11	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	7	orphan	_	ref=MATT_27.38
+10	и	и	CCONJ	C-	_	7	cc	_	ref=MATT_27.38
+11	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=MATT_27.38
 12	о	о	ADP	R-	_	13	case	_	ref=MATT_27.38
 13	шѫѭѫ҄	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT_27.38
 
@@ -16351,9 +16351,9 @@
 15	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	14	parataxis	_	ref=MARK_4.8
 16	три	триѥ	NUM	Ma	Case=Acc|Number=Plur	17	nummod	_	ref=MARK_4.8
 17	десѧти	десѧть	NUM	Ma	Case=Acc|Gender=Fem,Masc|Number=Plur	15	orphan	_	ref=MARK_4.8
-18	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	15	orphan	_	ref=MARK_4.8
+18	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	ref=MARK_4.8
 19	м҃	шесть.десѧтъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	18	orphan	_	ref=MARK_4.8
-20	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	15	orphan	_	ref=MARK_4.8
+20	ово	овъ	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	ref=MARK_4.8
 21	съто	съто	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	20	orphan	_	ref=MARK_4.8
 
 # source = Codex Marianus, Mark 4
@@ -17191,12 +17191,12 @@
 10	скиниѩ	скинии	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	ref=MARK_9.5
 11	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	orphan	_	ref=MARK_9.5
 12	единѫ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	8	parataxis	_	ref=MARK_9.5
-13	и	и	CCONJ	C-	_	12	orphan	_	ref=MARK_9.5
+13	и	и	CCONJ	C-	_	12	cc	_	ref=MARK_9.5
 14	мосеові	моси	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	orphan	_	ref=MARK_9.5
-15	единѫ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	12	orphan	_	ref=MARK_9.5
+15	единѫ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	ref=MARK_9.5
 16	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_9.5
 17	илии	илиꙗ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	18	orphan	_	ref=MARK_9.5
-18	единѫ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	12	orphan	_	ref=MARK_9.5
+18	единѫ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	ref=MARK_9.5
 
 # source = Codex Marianus, Mark 9
 # text = не вѣдѣаше бо что г҃лтъ
@@ -19135,12 +19135,12 @@
 5	о	о	ADP	R-	_	6	case	_	ref=MARK_10.37
 6	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	orphan	_	ref=MARK_10.37
 7	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	6	det	_	ref=MARK_10.37
-8	и	и	CCONJ	C-	_	4	orphan	_	ref=MARK_10.37
+8	и	и	CCONJ	C-	_	4	cc	_	ref=MARK_10.37
 9	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=MARK_10.37
 10	о	о	ADP	R-	_	11	case	_	ref=MARK_10.37
 11	шюѭ	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	13	obl	_	ref=MARK_10.37
 12	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	det	_	ref=MARK_10.37
-13	сѧдевѣ	сѣсти	VERB	V-	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	orphan	_	ref=MARK_10.37
+13	сѧдевѣ	сѣсти	VERB	V-	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=MARK_10.37
 14	въ	въ	ADP	R-	_	15	case	_	ref=MARK_10.37
 15	славѣ	слава	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	ref=MARK_10.37
 16	твоеи	твои	DET	Ps	Case=Loc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	15	det	_	ref=MARK_10.37
@@ -30222,12 +30222,12 @@
 12	пцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_12.11
 13	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	ref=LUKE_12.11
 14	како	како	ADV	Du	PronType=Int	12	ccomp	_	ref=LUKE_12.11
-15	или	или	CCONJ	C-	_	14	orphan	_	ref=LUKE_12.11
+15	или	или	CCONJ	C-	_	14	cc	_	ref=LUKE_12.11
 16	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	17	obj	_	ref=LUKE_12.11
-17	отъвѣштаате	отъвѣщати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	orphan	_	ref=LUKE_12.11
-18	или	или	CCONJ	C-	_	14	orphan	_	ref=LUKE_12.11
+17	отъвѣштаате	отъвѣщати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	ref=LUKE_12.11
+18	или	или	CCONJ	C-	_	14	cc	_	ref=LUKE_12.11
 19	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	20	obj	_	ref=LUKE_12.11
-20	речете	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	orphan	_	ref=LUKE_12.11
+20	речете	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	ref=LUKE_12.11
 
 # source = Codex Marianus, Luke 12
 # text = с҃тꙑи бо д҃хъ наоучитъ вꙑ во тъ часъ ѣже подобаатъ г҃лати
@@ -31175,8 +31175,8 @@
 10	трие	триѥ	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	1	parataxis	_	ref=LUKE_12.52
 11	на	на	ADP	R-	_	12	case	_	ref=LUKE_12.52
 12	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	10	orphan	_	ref=LUKE_12.52
-13	и	и	CCONJ	C-	_	10	orphan	_	ref=LUKE_12.52
-14	дъва	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	10	orphan	_	ref=LUKE_12.52
+13	и	и	CCONJ	C-	_	10	cc	_	ref=LUKE_12.52
+14	дъва	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	10	conj	_	ref=LUKE_12.52
 15	на	на	ADP	R-	_	16	case	_	ref=LUKE_12.52
 16	три	триѥ	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	14	orphan	_	ref=LUKE_12.52
 17	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=LUKE_12.53
@@ -31192,16 +31192,16 @@
 27	мати	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	conj	_	ref=LUKE_12.53
 28	на	на	ADP	R-	_	29	case	_	ref=LUKE_12.53
 29	дъштерь	дъщи	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	orphan	_	ref=LUKE_12.53
-30	и	и	CCONJ	C-	_	27	orphan	_	ref=LUKE_12.53
-31	дъшти	дъщи	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	27	orphan	_	ref=LUKE_12.53
+30	и	и	CCONJ	C-	_	27	cc	_	ref=LUKE_12.53
+31	дъшти	дъщи	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	27	conj	_	ref=LUKE_12.53
 32	на	на	ADP	R-	_	33	case	_	ref=LUKE_12.53
 33	матерь	мати	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	31	orphan	_	ref=LUKE_12.53
 34	свекрꙑ	свекрꙑ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	conj	_	ref=LUKE_12.53
 35	на	на	ADP	R-	_	36	case	_	ref=LUKE_12.53
 36	невѣстѫ	невѣста	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	34	orphan	_	ref=LUKE_12.53
 37	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	36	det	_	ref=LUKE_12.53
-38	и	и	CCONJ	C-	_	34	orphan	_	ref=LUKE_12.53
-39	невѣста	невѣста	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	34	orphan	_	ref=LUKE_12.53
+38	и	и	CCONJ	C-	_	34	cc	_	ref=LUKE_12.53
+39	невѣста	невѣста	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	34	conj	_	ref=LUKE_12.53
 40	на	на	ADP	R-	_	41	case	_	ref=LUKE_12.53
 41	свекровь	свекрꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	39	orphan	_	ref=LUKE_12.53
 42	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	41	det	_	ref=LUKE_12.53
@@ -39488,8 +39488,8 @@
 14	оубо	оубо	ADV	Df	_	13	discourse	_	ref=LUKE_23.33
 15	о	о	ADP	R-	_	16	case	_	ref=LUKE_23.33
 16	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	orphan	_	ref=LUKE_23.33
-17	а	а	CCONJ	C-	_	13	orphan	_	ref=LUKE_23.33
-18	дроугааго	дроугъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	orphan	_	ref=LUKE_23.33
+17	а	а	CCONJ	C-	_	13	cc	_	ref=LUKE_23.33
+18	дроугааго	дроугъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	ref=LUKE_23.33
 19	о	о	ADP	R-	_	20	case	_	ref=LUKE_23.33
 20	шѫѭѫ	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	orphan	_	ref=LUKE_23.33
 
@@ -45128,8 +45128,8 @@
 22	въ	въ	ADP	R-	_	23	case	_	ref=JOHN_5.29
 23	вьскрѣшение	въскрѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	orphan	_	ref=JOHN_5.29
 24	животоу	животъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	23	nmod	_	ref=JOHN_5.29
-25	а	а	CCONJ	C-	_	20	orphan	_	ref=JOHN_5.29
-26	сътворьшеи	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	orphan	_	ref=JOHN_5.29
+25	а	а	CCONJ	C-	_	20	cc	_	ref=JOHN_5.29
+26	сътворьшеи	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	conj	_	ref=JOHN_5.29
 27	зълаа	зълъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	26	obj	_	ref=JOHN_5.29
 28	въ	въ	ADP	R-	_	29	case	_	ref=JOHN_5.29
 29	вьскрѣшение	въскрѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	26	orphan	_	ref=JOHN_5.29
