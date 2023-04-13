@@ -4869,7 +4869,7 @@
 2	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=MARK_6.16
 3	оусѣкнѫхъ	оусѣкнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.16
 4	иоана	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	ref=MARK_6.16
-5	сь	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MARK_6.16
+5	сь	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:outer	_	ref=MARK_6.16
 6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MARK_6.16
 
 # source = Codex Marianus, Mark 6
@@ -8333,7 +8333,7 @@
 1	а	а	CCONJ	C-	_	10	cc	_	ref=LUKE_8.13
 2	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	ref=LUKE_8.13
 3	на	на	ADP	R-	_	4	case	_	ref=LUKE_8.13
-4	камении	камениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	nsubj	_	ref=LUKE_8.13
+4	камении	камениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	nsubj:outer	_	ref=LUKE_8.13
 5	іже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	ref=LUKE_8.13
 6	егда	ѥгда	ADV	Dq	PronType=Rel	7	advcl	_	ref=LUKE_8.13
 7	оуслꙑшѧтъ	оуслꙑшати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=LUKE_8.13
@@ -8391,7 +8391,7 @@
 3	на	на	ADP	R-	_	5	case	_	ref=LUKE_8.15
 4	добрѣ	добръ	ADJ	A-	Case=Loc|Degree=Pos|Number=Sing|Variant=Short	5	amod	_	ref=LUKE_8.15
 5	земи	землꙗ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	acl	_	ref=LUKE_8.15
-6	сии	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	ref=LUKE_8.15
+6	сии	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	15	nsubj:outer	_	ref=LUKE_8.15
 7	сѫть	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	ref=LUKE_8.15
 8	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	15	nsubj	_	ref=LUKE_8.15
 9	добромь	добръ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	10	amod	_	ref=LUKE_8.15
@@ -10222,7 +10222,7 @@
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_18.29
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	ref=LUKE_18.29
 4	ѣко	ꙗко	SCONJ	G-	_	23	mark	_	ref=LUKE_18.29
-5	никтоже	никътоже	PRON	Px	Case=Nom|Number=Sing	23	nsubj	_	ref=LUKE_18.29
+5	никтоже	никътоже	PRON	Px	Case=Nom|Number=Sing	23	nsubj:outer	_	ref=LUKE_18.29
 6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	ref=LUKE_18.29
 7	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=LUKE_18.29
 8	оставитъ	оставити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	ref=LUKE_18.29
@@ -13229,7 +13229,7 @@
 9	есмъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=JOHN_17.24
 10	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	ref=JOHN_17.24
 11	и	и	ADV	Df	_	12	advmod	_	ref=JOHN_17.24
-12	ти	тъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=JOHN_17.24
+12	ти	тъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj:outer	_	ref=JOHN_17.24
 13	бѫдѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	ref=JOHN_17.24
 14	съ	съ	ADP	R-	_	15	case	_	ref=JOHN_17.24
 15	мъноѭ	азъ	PRON	Pp	Case=Ins|Number=Sing|Person=1|PronType=Prs	8	obl	_	ref=JOHN_17.24
