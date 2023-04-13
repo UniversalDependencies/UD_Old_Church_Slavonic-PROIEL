@@ -1834,7 +1834,7 @@
 1	достоино	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=MATT_22.17
 2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=MATT_22.17
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=MATT_22.17
-4	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=MATT_22.17
+4	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	ref=MATT_22.17
 5	кинъсъ	кинъсъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=MATT_22.17
 6	кесареви	кесарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	ref=MATT_22.17
 7	или	или	CCONJ	C-	_	8	cc	_	ref=MATT_22.17
@@ -8540,7 +8540,7 @@
 13	добро	добръ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	ref=LUKE_9.33
 14	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	ref=LUKE_9.33
 15	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	ref=LUKE_9.33
-16	съде	сьде	ADV	Df	_	13	ccomp	_	ref=LUKE_9.33
+16	съде	сьде	ADV	Df	_	13	csubj	_	ref=LUKE_9.33
 17	бꙑти	бꙑти	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	cop	_	ref=LUKE_9.33
 18	Ꙇ	и	CCONJ	C-	_	19	cc	_	ref=LUKE_9.33
 19	сътворимъ	сътворити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	ref=LUKE_9.33

@@ -138,7 +138,7 @@
 3	ти	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	ref=MATT_5.29
 4	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=MATT_5.29
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_5.29
-6	погꙑблетъ	погꙑбати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_5.29
+6	погꙑблетъ	погꙑбати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	ref=MATT_5.29
 7	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.29
 8	оудъ	оудъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MATT_5.29
 9	твоихъ	твои	DET	Ps	Case=Gen|Number=Plur|Person=2|Poss=Yes	8	det	_	ref=MATT_5.29
@@ -177,7 +177,7 @@
 3	ти	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	ref=MATT_5.30
 4	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=MATT_5.30
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_5.30
-6	погꙑблетъ	погꙑбати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_5.30
+6	погꙑблетъ	погꙑбати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	ref=MATT_5.30
 7	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.30
 8	оудъ	оудъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MATT_5.30
 9	твоихъ	твои	DET	Ps	Case=Gen|Number=Plur|Person=2|Poss=Yes	8	det	_	ref=MATT_5.30
@@ -10142,7 +10142,7 @@
 5	сквозѣ	сквозѣ	ADP	R-	_	7	case	_	ref=LUKE_18.25
 6	игьлинѣ	игълинъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Dual|Variant=Short	7	amod	_	ref=LUKE_18.25
 7	оуши	оухо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Dual	8	obl	_	ref=LUKE_18.25
-8	проити	проити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=LUKE_18.25
+8	проити	проити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	ref=LUKE_18.25
 9	неже	неже	ADV	Df	_	10	mark	_	ref=LUKE_18.25
 10	богатоу	богатъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	advcl:cmp	_	ref=LUKE_18.25
 11	въ	въ	ADP	R-	_	12	case	_	ref=LUKE_18.25
@@ -12519,7 +12519,7 @@
 11	да	да	SCONJ	G-	_	14	mark	_	ref=JOHN_11.50
 12	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	13	nummod	_	ref=JOHN_11.50
 13	ч҃лвкъ	чловѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=JOHN_11.50
-14	оумьретъ	оумрѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	ref=JOHN_11.50
+14	оумьретъ	оумрѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	ref=JOHN_11.50
 15	за	за	ADP	R-	_	16	case	_	ref=JOHN_11.50
 16	люди	людиѥ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	obl	_	ref=JOHN_11.50
 17	а	а	CCONJ	C-	_	21	cc	_	ref=JOHN_11.50
@@ -13480,7 +13480,7 @@
 7	нашемоу	нашь	DET	Ps	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	6	det	_	ref=JOHN_19.7
 8	длъженъ	длъжьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	ref=JOHN_19.7
 9	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=JOHN_19.7
-10	оумьрѣти	оумрѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	ref=JOHN_19.7
+10	оумьрѣти	оумрѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	ref=JOHN_19.7
 11	ѣко	ꙗко	SCONJ	G-	_	14	mark	_	ref=JOHN_19.7
 12	с҃нь	сꙑнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	xcomp	_	ref=JOHN_19.7|LId=1
 13	б҃жіи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	amod	_	ref=JOHN_19.7
