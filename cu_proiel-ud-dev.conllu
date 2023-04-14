@@ -277,7 +277,7 @@
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	ref=MATT_5.34
 8	отънѫдъ	отънѫдь	ADV	Df	_	6	advmod	_	ref=MATT_5.34
 9	ни	ни	CCONJ	C-	_	10	cc	_	ref=MATT_5.34
-10	н҃бмь	небо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	6	parataxis	_	ref=MATT_5.34
+10	н҃бмь	небо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	6	advcl	_	ref=MATT_5.34
 11	ѣко	ꙗко	SCONJ	G-	_	12	mark	_	ref=MATT_5.34
 12	прѣстолъ	прѣстолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	orphan	_	ref=MATT_5.34
 13	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	ref=MATT_5.34
@@ -1127,7 +1127,7 @@
 3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT_6.23|LId=1
 4	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=MATT_6.23
 5	въ	въ	ADP	R-	_	6	case	_	ref=MATT_6.23
-6	тебѣ	тꙑ	PRON	Pp	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	det	_	ref=MATT_6.23
+6	тебѣ	тꙑ	PRON	Pp	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	acl	_	ref=MATT_6.23
 7	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	advcl	_	ref=MATT_6.23|LId=1
 8	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_6.23
 9	тѣ	тѣ	ADV	Df	_	11	discourse	_	ref=MATT_6.23
@@ -1471,7 +1471,7 @@
 4	ѣже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	ref=MATT_21.2
 5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_21.2
 6	прѣмо	прѣмо	ADP	R-	_	7	case	_	ref=MATT_21.2
-7	вама	ва	PRON	Pp	Case=Dat|Number=Dual|Person=2|PronType=Prs	3	det	_	ref=MATT_21.2
+7	вама	ва	PRON	Pp	Case=Dat|Number=Dual|Person=2|PronType=Prs	3	acl	_	ref=MATT_21.2
 8	ꙇ	и	CCONJ	C-	_	10	cc	_	ref=MATT_21.2
 9	абье	абиѥ	ADV	Df	_	10	advmod	_	ref=MATT_21.2
 10	обрѧштета	обрѣсти	VERB	V-	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_21.2
@@ -3359,7 +3359,7 @@
 13	и	и	CCONJ	C-	_	14	cc	_	ref=MATT_24.38
 14	посагаѭште	посагати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	conj	_	ref=MATT_24.38
 15	до	до	ADP	R-	_	17	case	_	ref=MATT_24.38
-16	негоже	иже	PRON	Pr	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	17	det	_	ref=MATT_24.38
+16	негоже	иже	PRON	Pr	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Rel	17	acl	_	ref=MATT_24.38
 17	дьне	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	advcl	_	ref=MATT_24.38
 18	вьниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	acl	_	ref=MATT_24.38
 19	ное	ное	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=MATT_24.38
@@ -3477,7 +3477,7 @@
 6	готови	готовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=MATT_24.44
 7	ѣко	ꙗко	SCONJ	G-	_	15	mark	_	ref=MATT_24.44
 8	вь	въ	ADP	R-	_	12	case	_	ref=MATT_24.44
-9	ньже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	12	det	_	ref=MATT_24.44
+9	ньже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	12	acl	_	ref=MATT_24.44
 10	не	не	ADV	Df	Polarity=Neg	11	advmod	_	ref=MATT_24.44
 11	мъните	мьнѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	ref=MATT_24.44
 12	часъ	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	ccomp	_	ref=MATT_24.44
@@ -9298,7 +9298,7 @@
 12	прѣдъ	прѣдъ	ADP	R-	_	13	case	_	ref=LUKE_8.47
 13	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=LUKE_8.47
 14	за	за	ADP	R-	_	16	case	_	ref=LUKE_8.47
-15	нѭже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	16	det	_	ref=LUKE_8.47
+15	нѭже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	16	acl	_	ref=LUKE_8.47
 16	винѫ	вина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	advcl	_	ref=LUKE_8.47
 17	прикоснѫ	прикоснѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	obj	_	ref=LUKE_8.47
 18	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	expl:pv	_	ref=LUKE_8.47
@@ -11453,7 +11453,7 @@
 9	ноѕѣ	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	8	obj	_	ref=JOHN_11.2
 10	власꙑ	власъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	ref=JOHN_11.2
 11	своими	свои	DET	Pt	Case=Ins|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	det	_	ref=JOHN_11.2
-12	еѩже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	det	_	ref=JOHN_11.2
+12	еѩже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	acl	_	ref=JOHN_11.2
 13	братръ	братръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=JOHN_11.2
 14	лазарь	лазаръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	ref=JOHN_11.2
 15	болѣаше	болѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=JOHN_11.2
@@ -11530,7 +11530,7 @@
 7	же	же	ADV	Df	_	8	discourse	_	ref=JOHN_11.6
 8	прѣбꙑстъ	прѣбꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_11.6
 9	на	на	ADP	R-	_	12	case	_	ref=JOHN_11.6
-10	немьже	иже	PRON	Pr	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Rel	12	det	_	ref=JOHN_11.6
+10	немьже	иже	PRON	Pr	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Rel	12	acl	_	ref=JOHN_11.6
 11	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	ref=JOHN_11.6
 12	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	xcomp	_	ref=JOHN_11.6
 13	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	14	nummod	_	ref=JOHN_11.6
@@ -13901,7 +13901,7 @@
 12	чⷭ҇и	чѧсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	ref=JOHN_19.23
 13	комоужъдо	къжьдо	DET	Px	Case=Dat|Gender=Masc|Number=Sing	14	det	_	ref=JOHN_19.23
 14	воиноу	воинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	orphan	_	ref=JOHN_19.23
-15	чѧсть	чѧсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	parataxis	_	ref=JOHN_19.23
+15	чѧсть	чѧсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	advcl	_	ref=JOHN_19.23
 16	и	и	CCONJ	C-	_	17	cc	_	ref=JOHN_19.23
 17	хитонъ	хитонъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	conj	_	ref=JOHN_19.23
 
