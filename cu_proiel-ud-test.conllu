@@ -4913,7 +4913,7 @@
 # source = Codex Marianus, Mark 7
 # text = еффꙿата еже естъ развръзи сѧ
 # sent_id = 50375
-1	еффꙿата	еффата	X	F-	_	0	root	_	ref=MARK_7.34
+1	еффꙿата	еффата	VERB	F-	_	0	root	_	ref=MARK_7.34
 2	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj	_	ref=MARK_7.34
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MARK_7.34
 4	развръзи	разврѣсти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MARK_7.34
@@ -6537,10 +6537,10 @@
 # source = Codex Marianus, Mark 15
 # text = елѡи елѡи лима савахтани
 # sent_id = 37324
-1	елѡи	ели	X	F-	_	0	root	_	ref=MARK_15.34
-2	елѡи	ели	X	F-	_	1	vocative	_	ref=MARK_15.34
-3	лима	лема	X	F-	_	1	vocative	_	ref=MARK_15.34
-4	савахтани	савахтани	X	F-	_	1	vocative	_	ref=MARK_15.34
+1	елѡи	ели	VERB	F-	_	0	root	_	ref=MARK_15.34
+2	елѡи	ели	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
+3	лима	лема	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
+4	савахтани	савахтани	NOUN	F-	_	1	vocative	_	ref=MARK_15.34
 
 # source = Codex Marianus, Mark 15
 # text = еже естъ съказаемое

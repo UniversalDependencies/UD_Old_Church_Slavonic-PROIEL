@@ -4460,7 +4460,7 @@
 # source = Codex Marianus, Mark 5
 # text = талитакоумъ еже естъ съказаемое
 # sent_id = 36613
-1	талитакоумъ	талиѳакоумъ	X	F-	_	0	root	_	ref=MARK_5.41
+1	талитакоумъ	талиѳакоумъ	VERB	F-	_	0	root	_	ref=MARK_5.41
 2	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj:pass	_	ref=MARK_5.41
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MARK_5.41
 4	съказаемое	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	ref=MARK_5.41

@@ -13000,10 +13000,10 @@
 # source = Codex Marianus, Matthew 27
 # text = елѡꙇ елѡꙇ лема савахтани
 # sent_id = 39785
-1	елѡꙇ	ели	X	F-	_	0	root	_	ref=MATT_27.46
-2	елѡꙇ	ели	X	F-	_	1	vocative	_	ref=MATT_27.46
-3	лема	лема	X	F-	_	1	vocative	_	ref=MATT_27.46
-4	савахтани	савахтани	X	F-	_	1	vocative	_	ref=MATT_27.46
+1	елѡꙇ	ели	VERB	F-	_	0	root	_	ref=MATT_27.46
+2	елѡꙇ	ели	NOUN	F-	_	1	vocative	_	ref=MATT_27.46
+3	лема	лема	NOUN	F-	_	1	vocative	_	ref=MATT_27.46
+4	савахтани	савахтани	NOUN	F-	_	1	vocative	_	ref=MATT_27.46
 
 # source = Codex Marianus, Matthew 27
 # text = еже естъ
