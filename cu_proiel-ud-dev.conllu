@@ -6034,8 +6034,8 @@
 5	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obl:arg	_	ref=27
 6	да	да	SCONJ	G-	_	7	mark	_	ref=27
 7	раꙁоумѣѥ҅мъ	разоумѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=27
-8	ꙗ҅ко	ꙗко	SCONJ	G-	_	9	mark	_	ref=27
-9	ни	ни	ADV	Df	Polarity=Neg	7	ccomp	_	ref=27
+8	ꙗ҅ко	ꙗко	SCONJ	G-	_	7	ccomp	_	ref=27
+9	ни	ни	ADV	Df	Polarity=Neg	8	advmod	_	ref=27
 10	хотꙙштоуо̑умоу	хотѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	obl	_	ref=27
 11	ни	ни	CCONJ	C-	_	17	cc	_	ref=27
 12	текѫштоуо̑умоу	тещи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	obl	_	ref=27

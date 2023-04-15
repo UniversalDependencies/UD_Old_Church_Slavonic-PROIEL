@@ -1792,18 +1792,18 @@
 # text = се яко о͑чи рабъ въ рѫкоу господиї свои͑хъ я͑ко о͑чи рабын҄ь въ рѫкоу госпождⱕ своѥѧ тако о͑чи наши къ го͆у бо͆у нашемоу доиждеже о҄уштедритъ ны
 # sent_id = 84485
 1	се	се	INTJ	I-	_	16	discourse	_	ref=5
-2	яко	ꙗко	SCONJ	G-	_	3	mark	_	ref=5
-3	о͑чи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	16	dislocated	_	ref=5
+2	яко	ꙗко	SCONJ	G-	_	16	dislocated	_	ref=5
+3	о͑чи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	2	nsubj	_	ref=5
 4	рабъ	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=5
 5	въ	въ	ADP	R-	_	6	case	_	ref=5
-6	рѫкоу	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Dual	3	orphan	_	ref=5
+6	рѫкоу	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Dual	2	obl	_	ref=5
 7	господиї	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	ref=5
 8	свои͑хъ	свои	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	det	_	ref=5
-9	я͑ко	ꙗко	SCONJ	G-	_	10	mark	_	ref=5
-10	о͑чи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	3	conj	_	ref=5
+9	я͑ко	ꙗко	SCONJ	G-	_	2	conj	_	ref=5
+10	о͑чи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	9	nsubj	_	ref=5
 11	рабын҄ь	рабꙑни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	ref=5
 12	въ	въ	ADP	R-	_	13	case	_	ref=5
-13	рѫкоу	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Dual	10	orphan	_	ref=5
+13	рѫкоу	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Dual	9	obl	_	ref=5
 14	госпождⱕ	госпожда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=5
 15	своѥѧ	свои	DET	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	det	_	ref=5
 16	тако	тако	ADV	Df	_	0	root	_	ref=5
@@ -4699,14 +4699,14 @@
 # sent_id = 155862
 1	бѣжимъ	бѣжати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=29
 2	ꙁависти	зависть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl:arg	_	ref=29
-3	а҅ште	аще	SCONJ	G-	_	5	mark	_	ref=29
-4	и҅	и	ADV	Df	_	5	advmod	_	ref=29
-5	ничь҆соже	ничьтоже	PRON	Px	Case=Gen|Gender=Neut|Number=Sing	1	advcl	_	ref=29
+3	а҅ште	аще	SCONJ	G-	_	1	advcl	_	ref=29
+4	и҅	и	ADV	Df	_	3	fixed	_	ref=29
+5	ничь҆соже	ничьтоже	PRON	Px	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=29
 6	дѣл҄ѣ	дѣлꙗ	ADP	R-	_	5	case	_	ref=29
 7	нъ	нъ	CCONJ	C-	_	10	cc	_	ref=29
 8	творꙙштоуо̑умоу	творити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=29
 9	прокоуда	прокоуда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=29
-10	бꙑваѥ҆тꙿ	бꙑвати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=29
+10	бꙑваѥ҆тꙿ	бꙑвати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=29
 11	а҅ште	аще	SCONJ	G-	_	14	mark	_	ref=29
 12	и҅	и	ADV	Df	_	14	advmod	_	ref=29
 13	малꙑ	малꙑ	ADV	Df	_	14	advmod	_	ref=29
@@ -21225,8 +21225,8 @@
 # text = аще оубо оузьрите с҃на ч҃ловчскааго въсходѧща идеже бѣ прѣжде
 # sent_id = 42002
 1	аще	аще	SCONJ	G-	_	3	mark	_	ref=JOHN_6.62
-2	оубо	оубо	ADV	Df	_	3	discourse	_	ref=JOHN_6.62
-3	оузьрите	оузьрѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_6.62
+2	оубо	оубо	ADV	Df	_	0	root	_	ref=JOHN_6.62
+3	оузьрите	оузьрѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_6.62
 4	с҃на	сꙑнъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	ref=JOHN_6.62|LId=1
 5	ч҃ловчскааго	чловѣчьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	4	amod	_	ref=JOHN_6.62
 6	въсходѧща	въсходити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	3	xcomp	_	ref=JOHN_6.62
