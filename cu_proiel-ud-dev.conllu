@@ -3944,11 +3944,11 @@
 7	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	ref=MARK_5.18
 8	бѣсъновавꙑ	бѣсьновати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	nsubj	_	ref=MARK_5.18
 9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	ref=MARK_5.18
-10	да	да	SCONJ	G-	_	13	mark	_	ref=MARK_5.18
-11	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	ref=MARK_5.18
-12	съ	съ	ADP	R-	_	13	case	_	ref=MARK_5.18
-13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	ccomp	_	ref=MARK_5.18
-14	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	13	cop	_	ref=MARK_5.18
+10	да	да	SCONJ	G-	_	11	mark	_	ref=MARK_5.18
+11	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	ref=MARK_5.18
+12	съ	съ	ADP	R-	_	11	case	_	ref=MARK_5.18
+13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	fixed	_	ref=MARK_5.18
+14	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	cop	_	ref=MARK_5.18
 
 # source = Codex Marianus, Mark 5
 # text = ꙇ҃съ же не дастъ емоу нъ г҃ла емоу
@@ -9036,11 +9036,11 @@
 7	негоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	obl	_	ref=LUKE_8.38
 8	изидѫ	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=LUKE_8.38
 9	бѣси	бѣсъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=LUKE_8.38
-10	да	да	SCONJ	G-	_	13	mark	_	ref=LUKE_8.38
-11	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	ref=LUKE_8.38
-12	съ	съ	ADP	R-	_	13	case	_	ref=LUKE_8.38
-13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	ccomp	_	ref=LUKE_8.38
-14	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	13	cop	_	ref=LUKE_8.38
+10	да	да	SCONJ	G-	_	11	mark	_	ref=LUKE_8.38
+11	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=LUKE_8.38
+12	съ	съ	ADP	R-	_	11	case	_	ref=LUKE_8.38
+13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	fixed	_	ref=LUKE_8.38
+14	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	11	cop	_	ref=LUKE_8.38
 
 # source = Codex Marianus, Luke 8
 # text = ꙇ҃съ же отъпоусти и г҃лѧ
