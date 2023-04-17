@@ -6,7 +6,7 @@
 3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
 4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	ref=
 5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
-6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	ref=
+6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	ref=
 7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=|LId=1
 
 # source = Kiev Missal, Mass for every day of the year
@@ -1529,7 +1529,7 @@
 # sent_id = 245023
 1	благодѣть͗	благодѣть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=2
 2	милостивыи͗мъ	милостивъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	ref=2
-3	богомъ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	obl:arg	_	ref=2
+3	богомъ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	orphan	_	ref=2
 
 # source = Codex Suprasliensis, Vita of Basiliskos
 # text = и͑ пристѫпивъ василискъ къ крадѣ рече жерь͗цемъ
@@ -1826,7 +1826,7 @@
 27	ст͆ыи͗мъ	свѧтъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	26	amod	_	ref=2
 28	твои͗мъ	твои	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=2|Poss=Yes	26	det	_	ref=2
 29	и͑же	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	30	nsubj	_	ref=2
-30	въдѹнѫ	въдоунѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	advcl	_	ref=2
+30	въдѹнѫ	въдоунѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	parataxis	_	ref=2
 31	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	30	obl:arg	_	ref=2
 32	дх͆а	доухъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	30	obj	_	ref=2
 33	ст͆ааго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	ref=2
@@ -2102,7 +2102,7 @@
 6	ѫ͑трь	ѫтрь	ADV	Df	_	4	advcl	_	ref=2
 7	сы	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	cop	_	ref=2
 8	оу	оу	ADP	R-	_	9	case	_	ref=2
-9	о͑гʼня	огнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	parataxis	_	ref=2
+9	о͑гʼня	огнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=2
 
 # source = Codex Suprasliensis, Vita of Basiliskos
 # text = нъ нын̑я и͑сповѣждь мнѣ о͑ вльхвованиї своѥ͑мь͗
@@ -3137,7 +3137,7 @@
 1	не	не	ADV	Df	Polarity=Neg	0	root	_	ref=8
 2	ѥ҅льма	ѥльма	SCONJ	G-	_	4	mark	_	ref=8
 3	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=8
-4	а҅гг҄елъ	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	ref=8
+4	а҅гг҄елъ	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	orphan	_	ref=8
 5	г꙯а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=8
 6	вь҆седръжителꙗ	вьседрьжитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=8
 7	ѥ҅смъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=8
@@ -3507,8 +3507,8 @@
 # source = Codex Suprasliensis, Vita of Artemios (24th March)
 # text = и҅ вь҆ꙁисканиѥ бѣсовъскоѥ҅ и҅ коумирь҆скоѥ
 # sent_id = 248163
-1	и҅	и	CCONJ	C-	_	0	root	_	ref=19
-2	вь҆ꙁисканиѥ	възисканиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=19
+1	и҅	и	CCONJ	C-	_	2	cc	_	ref=19
+2	вь҆ꙁисканиѥ	възисканиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=19
 3	бѣсовъскоѥ҅	бѣсовьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	ref=19
 4	и҅	и	CCONJ	C-	_	5	cc	_	ref=19
 5	коумирь҆скоѥ	коумирьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	ref=19
@@ -5831,10 +5831,10 @@
 # source = Codex Suprasliensis, Vita of Artemios (24th March)
 # text = тако ми великѫѭ҄ богꙑн҄ѫ а҅ртемѫ и҅ двоѥнадесꙙтелоучь҆ноѥ сльнь҆це
 # sent_id = 248345
-1	тако	тако	ADV	Df	_	0	root	_	ref=19
-2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl	_	ref=19
+1	тако	тако	ADV	Df	_	4	orphan	_	ref=19
+2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	orphan	_	ref=19
 3	великѫѭ҄	великъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	ref=19
-4	богꙑн҄ѫ	богꙑни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	ref=19
+4	богꙑн҄ѫ	богꙑни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=19
 5	а҅ртемѫ	артема	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	ref=19
 6	и҅	и	CCONJ	C-	_	8	cc	_	ref=19
 7	двоѥнадесꙙтелоучь҆ноѥ	дъвоѥнадесѧтелоучьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	ref=19
@@ -6994,8 +6994,8 @@
 # source = Codex Suprasliensis, Vita of Artemios (24th March)
 # text = и҅ чашѫ
 # sent_id = 248436
-1	и҅	и	CCONJ	C-	_	0	root	_	ref=19
-2	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	ref=19
+1	и҅	и	CCONJ	C-	_	2	cc	_	ref=19
+2	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=19
 
 # source = Codex Suprasliensis, Vita of Artemios (24th March)
 # text = се крь҆вь ѥ҅стъ пролиꙗ҅наꙗ ꙁа нашꙙ доушꙙ
@@ -10034,7 +10034,7 @@
 11	въплъчи	въплъчити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=47
 12	вѣроуѭ҄штꙙ	вѣровати	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	11	obj	_	ref=47
 13	ѥ҅моу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl:arg	_	ref=47
-14	жидовꙑ	жидовинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	parataxis	_	ref=47
+14	жидовꙑ	жидовинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	appos	_	ref=47
 15	и҅	и	CCONJ	C-	_	16	cc	_	ref=47
 16	е҅линꙑ	елинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	conj	_	ref=47
 
@@ -11262,14 +11262,14 @@
 # source = Codex Marianus, Matthew 26
 # text = нъ не въ праздьникъ да не мльва бѫдетъ въ людехъ
 # sent_id = 51125
-1	нъ	нъ	CCONJ	C-	_	0	root	_	ref=MATT_26.5
+1	нъ	нъ	CCONJ	C-	_	8	cc	_	ref=MATT_26.5
 2	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_26.5
 3	въ	въ	ADP	R-	_	4	case	_	ref=MATT_26.5
-4	праздьникъ	праздьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=MATT_26.5
+4	праздьникъ	праздьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=MATT_26.5
 5	да	да	SCONJ	G-	_	8	mark	_	ref=MATT_26.5
 6	не	не	ADV	Df	Polarity=Neg	8	advmod	_	ref=MATT_26.5
 7	мльва	млъва	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=MATT_26.5
-8	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_26.5
+8	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_26.5
 9	въ	въ	ADP	R-	_	10	case	_	ref=MATT_26.5
 10	людехъ	людиѥ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	8	obl	_	ref=MATT_26.5
 
@@ -11313,9 +11313,9 @@
 # source = Codex Marianus, Matthew 26
 # text = чесо ради гꙑбѣль си
 # sent_id = 39585
-1	чесо	чьто	PRON	Pi	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	0	root	_	ref=MATT_26.8
+1	чесо	чьто	PRON	Pi	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	3	orphan	_	ref=MATT_26.8
 2	ради	ради	ADP	R-	_	1	case	_	ref=MATT_26.8
-3	гꙑбѣль	гꙑбѣль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT_26.8
+3	гꙑбѣль	гꙑбѣль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=MATT_26.8
 4	си	сь	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	3	det	_	ref=MATT_26.8
 
 # source = Codex Marianus, Matthew 26
@@ -12066,7 +12066,7 @@
 2	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=MATT_26.39
 3	ѣко	ꙗко	ADV	Dq	PronType=Rel	5	advcl	_	ref=MATT_26.39
 4	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=MATT_26.39
-5	хощѫ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_26.39
+5	хощѫ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	orphan	_	ref=MATT_26.39
 6	нъ	нъ	CCONJ	C-	_	8	cc	_	ref=MATT_26.39
 7	ѣкоже	ꙗкоже	ADV	Dq	PronType=Rel	8	orphan	_	ref=MATT_26.39
 8	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	conj	_	ref=MATT_26.39
@@ -13469,7 +13469,7 @@
 4	пропѧшѧ	пропѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_15.27
 5	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	6	nummod	_	ref=MARK_15.27
 6	разбоиника	разбоиникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	4	obj	_	ref=MARK_15.27
-7	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	advcl	_	ref=MARK_15.27
+7	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	parataxis	_	ref=MARK_15.27
 8	о	о	ADP	R-	_	9	case	_	ref=MARK_15.27
 9	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	orphan	_	ref=MARK_15.27
 10	а	а	CCONJ	C-	_	11	cc	_	ref=MARK_15.27
@@ -13831,11 +13831,11 @@
 # source = Codex Marianus, Mark 15
 # text = призъвавъ сътъника аште оуже оумьрѣтъ
 # sent_id = 50588
-1	призъвавъ	призъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	0	root	_	ref=MARK_15.44
+1	призъвавъ	призъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	orphan	_	ref=MARK_15.44
 2	сътъника	сътьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	ref=MARK_15.44
 3	аште	аще	SCONJ	G-	_	5	mark	_	ref=MARK_15.44
 4	оуже	оуже	ADV	Df	_	5	advmod	_	ref=MARK_15.44
-5	оумьрѣтъ	оумрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MARK_15.44
+5	оумьрѣтъ	оумрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_15.44
 
 # source = Codex Marianus, Mark 15
 # text = ꙇ оувѣдѣвъ отъ кентѵриона дастъ тѣло иосифови
@@ -17016,12 +17016,12 @@
 # source = Codex Marianus, Luke 22
 # text = ꙇ чашѫ такожде по вечерѣнии г҃лѧ
 # sent_id = 41361
-1	ꙇ	и	CCONJ	C-	_	0	root	_	ref=LUKE_22.20
-2	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	ref=LUKE_22.20
-3	такожде	такожде	ADV	Df	_	1	advmod	_	ref=LUKE_22.20
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_22.20
+2	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=LUKE_22.20
+3	такожде	такожде	ADV	Df	_	2	orphan	_	ref=LUKE_22.20
 4	по	по	ADP	R-	_	5	case	_	ref=LUKE_22.20
-5	вечерѣнии	вечерꙗниѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	ref=LUKE_22.20
-6	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	1	advcl	_	ref=LUKE_22.20
+5	вечерѣнии	вечерꙗниѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	orphan	_	ref=LUKE_22.20
+6	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	orphan	_	ref=LUKE_22.20
 
 # source = Codex Marianus, Luke 22
 # text = си чаша новꙑ завѣтъ моеѭ кръвиѭ҄ ѣже за вꙑ пролѣатъ сѧ
@@ -17132,7 +17132,7 @@
 1	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=LUKE_22.26
 2	же	же	ADV	Df	_	1	discourse	_	ref=LUKE_22.26
 3	не	не	ADV	Df	Polarity=Neg	1	advmod	_	ref=LUKE_22.26
-4	тако	тако	ADV	Df	_	1	advmod	_	ref=LUKE_22.26
+4	тако	тако	ADV	Df	_	1	orphan	_	ref=LUKE_22.26
 5	нъ	нъ	CCONJ	C-	_	10	cc	_	ref=LUKE_22.26
 6	болии	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	10	nsubj:outer	_	ref=LUKE_22.26
 7	васъ	вꙑ	PRON	Pp	Case=Gen|Number=Plur|Person=2|PronType=Prs	6	nmod	_	ref=LUKE_22.26
@@ -17159,9 +17159,9 @@
 # source = Codex Marianus, Luke 22
 # text = не вьзлежѧи ли
 # sent_id = 41371
-1	не	не	ADV	Df	Polarity=Neg	0	root	_	ref=LUKE_22.27
-2	вьзлежѧи	възлежати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	ref=LUKE_22.27
-3	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=LUKE_22.27
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=LUKE_22.27
+2	вьзлежѧи	възлежати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=LUKE_22.27
+3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	ref=LUKE_22.27
 
 # source = Codex Marianus, Luke 22
 # text = азъ же по срѣдѣ васъ есмь ѣко слоужѧи
@@ -17449,7 +17449,7 @@
 1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=LUKE_22.38
 2	се	се	INTJ	I-	_	3	discourse	_	ref=LUKE_22.38
 3	ножа	ножь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	0	root	_	ref=LUKE_22.38
-4	съде	сьде	ADV	Df	_	3	advmod	_	ref=LUKE_22.38
+4	съде	сьде	ADV	Df	_	3	orphan	_	ref=LUKE_22.38
 5	дъва	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	3	nummod	_	ref=LUKE_22.38
 
 # source = Codex Marianus, Luke 22
@@ -17639,11 +17639,11 @@
 # text = Еще же емоу г҃лѭштю се народъ и нарицаемꙑ июда единъ отъ обою на десѧте прѣдъ ними идѣаше и пристѫпи къ і҃сви лобъзатъ его
 # sent_id = 51708
 1	Еще	ѥще	ADV	Df	_	4	advmod	_	ref=LUKE_22.47
-2	же	же	ADV	Df	_	0	root	_	ref=LUKE_22.47
+2	же	же	ADV	Df	_	6	discourse	_	ref=LUKE_22.47
 3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=LUKE_22.47
-4	г҃лѭштю	глаголати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	advcl	_	ref=LUKE_22.47
-5	се	се	INTJ	I-	_	2	discourse	_	ref=LUKE_22.47
-6	народъ	народъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=LUKE_22.47
+4	г҃лѭштю	глаголати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	orphan	_	ref=LUKE_22.47
+5	се	се	INTJ	I-	_	6	discourse	_	ref=LUKE_22.47
+6	народъ	народъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_22.47
 7	и	и	CCONJ	C-	_	17	cc	_	ref=LUKE_22.47
 8	нарицаемꙑ	нарицати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	ref=LUKE_22.47
 9	июда	июда	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=LUKE_22.47
@@ -17654,9 +17654,9 @@
 14	десѧте	десѧть	NUM	Ma	Case=Loc|Gender=Fem,Masc|Number=Sing	12	nummod	_	ref=LUKE_22.47
 15	прѣдъ	прѣдъ	ADP	R-	_	16	case	_	ref=LUKE_22.47
 16	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	_	ref=LUKE_22.47
-17	идѣаше	ити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_22.47
+17	идѣаше	ити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=LUKE_22.47
 18	и	и	CCONJ	C-	_	19	cc	_	ref=LUKE_22.47
-19	пристѫпи	пристѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_22.47
+19	пристѫпи	пристѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=LUKE_22.47
 20	къ	къ	ADP	R-	_	21	case	_	ref=LUKE_22.47
 21	і҃сви	исоусъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	ref=LUKE_22.47
 22	лобъзатъ	лобъзати	VERB	V-	Case=Acc|VerbForm=Sup	19	advcl	_	ref=LUKE_22.47
@@ -18621,7 +18621,7 @@
 18	ꙇ	и	CCONJ	C-	_	21	cc	_	ref=LUKE_24.19
 19	како	како	ADV	Du	PronType=Int	21	advmod	_	ref=LUKE_24.20
 20	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	ref=LUKE_24.20
-21	прѣдашѧ	прѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=LUKE_24.20
+21	прѣдашѧ	прѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	orphan	_	ref=LUKE_24.20
 22	архиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=LUKE_24.20
 23	и	и	CCONJ	C-	_	24	cc	_	ref=LUKE_24.20
 24	кьнѧѕи	кънѧѕь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	22	conj	_	ref=LUKE_24.20
@@ -18993,7 +18993,7 @@
 # text = миръ вамъ
 # sent_id = 51762
 1	миръ	миръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_24.36|LId=1
-2	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	ref=LUKE_24.36
+2	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	orphan	_	ref=LUKE_24.36
 
 # source = Codex Marianus, Luke 24
 # text = азъ есмъ
