@@ -4458,10 +4458,10 @@
 # source = Codex Suprasliensis, Patriarch Photios, Homily on Palm Sunday
 # text = х꙯с бо ѥ҅стъ миръ нашъ ѥ҅же срѣдьн҄ѫѭ̑ стѣнѫ враждꙑ раꙁори и҅ ѥ҅гоже дѣлꙗ съ о҅ть҆цемь и҅ съ творь҆цемъ прѣжде ꙁьлѣ о҅стѫпивъше сь҆мирени бꙑхомъ
 # sent_id = 250071
-1	х꙯с	христ(ос)ъ	PROPN	Ne	_	3	nsubj	_	ref=29
-2	бо	бо	ADV	Df	_	3	discourse	_	ref=29
-3	ѥ҅стъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=29
-4	миръ	миръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=29|LId=1
+1	х꙯с	христ(ос)ъ	PROPN	Ne	_	4	nsubj	_	ref=29
+2	бо	бо	ADV	Df	_	4	discourse	_	ref=29
+3	ѥ҅стъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=29
+4	миръ	миръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=29|LId=1
 5	нашъ	нашь	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	det	_	ref=29
 6	ѥ҅же	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	ref=29
 7	срѣдьн҄ѫѭ̑	срѣдьнь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=29
@@ -12517,8 +12517,8 @@
 19	да	да	SCONJ	G-	_	20	mark	_	ref=48
 20	поперетъ	попьрати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=48
 21	ѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	obj	_	ref=48
-22	да	да	CCONJ	C-	_	20	cc	_	ref=48
-23	попꙿ	попьрати	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	ref=48
+22	да	да	SCONJ	G-	_	23	mark	_	ref=48
+23	попꙿ	попьрати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	ref=48
 
 # source = Codex Suprasliensis, Vita of St. Aninas the Wonderworker
 # text = и҅ꙁбъівьши е҆линъскꙑѧ на съраꙁоумѣниѥ҆ прѣславь҆нѣ събꙑвꙿшии҅хъ сꙙ о҅ н҄ею҄ придошꙙ тѣхъ видци
@@ -12739,8 +12739,8 @@
 6	братиѧ	братриꙗ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=48
 7	хотꙙштꙙѧ	хотѣти	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=48
 8	о҄умрѣти	оумрѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=48
-9	о҅собь҆	особь	ADV	Df	_	10	orphan	_	ref=48
-10	коѥ҅гождо	кꙑижьдо	PRON	Px	Case=Gen|Gender=Masc|Number=Sing	14	dislocated	_	ref=48
+9	о҅собь҆	особь	ADV	Df	_	8	advmod	_	ref=48
+10	коѥ҅гождо	кꙑижьдо	PRON	Px	Case=Gen|Gender=Masc|Number=Sing	8	xcomp	_	ref=48
 11	прѣжде	прѣжде	ADP	R-	_	12	case	_	ref=48
 12	раꙁболѣньꙗ	разболѣниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	ref=48
 13	приꙁꙑваѧ	призꙑвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	14	advcl	_	ref=48
