@@ -1142,8 +1142,8 @@
 11	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_14.33
 12	оужасати	оужасати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=MARK_14.33
 13	сѧ	себе	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	ref=MARK_14.33
-14	ꙇ	и	CCONJ	C-	_	12	cc	_	ref=MARK_14.33
-15	тѫжити	тѫжити	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	aux	_	ref=MARK_14.33
+14	ꙇ	и	CCONJ	C-	_	15	cc	_	ref=MARK_14.33
+15	тѫжити	тѫжити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	conj	_	ref=MARK_14.33
 
 # source = Codex Zographensis, Mark 14
 # text = Ꙇ г҃ла ꙇмъ
