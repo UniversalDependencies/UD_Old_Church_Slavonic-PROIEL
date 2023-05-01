@@ -14,18 +14,18 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 # Data splits
 Development set: 
-Codex Marianus: John 11; Luke 8, 11, 22, 24; Mark 15; Matthew 26
-Codex Zographensis: Mark 14; Matthew 7
-Psalterium Sinaiticum: Psalms 76–77, 89, 103–106
-Codex Suprasliensis: John Chrysostom, Homily on the resurrection of Lazarus after four days 2; Vita of Artemios (24th March); Vita of Basiliskos; Vita of Basil and Kapiton; Vita of Terentios, Afrikanos, and Pompeos (20th March); Vita of Gregory I the Great (11th March)
-Kiev Missal:	Mass for every day of the year
+Codex Marianus: John 11; Luke 8, 11, 22, 24; Mark 15; Matthew 26.
+Codex Zographensis: Mark 14; Matthew 7.
+Psalterium Sinaiticum: Psalms 76–77, 89, 103–106.
+Codex Suprasliensis: John Chrysostom, Homily on the resurrection of Lazarus after four days 2; Vita of Artemios (24th March); Vita of Basiliskos; Vita of Basil and Kapiton; Vita of Terentios, Afrikanos, and Pompeos (20th March); Vita of Gregory I the Great (11th March).
+Kiev Missal:	Mass for every day of the year.
 
 Test set: 
-Codex Marianus: John 6; Luke 9, 23; Mark 14, 16; Matthew 6
-Codex Zographensis: Matthew 6; Mark 15
-Psalterium Sinaiticum: Psalms 34–39, 70–73
-Codex Suprasliensis: Patriarch Photios, Homily on Palm Sunday; Vita of St. Aninas the Wonderworker; Vita of the 40 Martyrs of Sebasteia
-Kiev Missal: On the day of St. Clement
+Codex Marianus: John 6; Luke 9, 23; Mark 14, 16; Matthew 6.
+Codex Zographensis: Matthew 6; Mark 15.
+Psalterium Sinaiticum: Psalms 34–39, 70–73.
+Codex Suprasliensis: Patriarch Photios, Homily on Palm Sunday; Vita of St. Aninas the Wonderworker; Vita of the 40 Martyrs of Sebasteia.
+Kiev Missal: On the day of St. Clement.
 
 The training set consists of larger, continuous passages from the same texts (all mss. except Codex Zographensis are annotated nearly in full).
 
