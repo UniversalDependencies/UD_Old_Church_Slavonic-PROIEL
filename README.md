@@ -31,6 +31,7 @@ The training set consists of larger, continuous passages from the same texts (al
 
 # References
 Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.).  *Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)* (2008), pp. 27-34.
+
 Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digital editions: The Tromsø Old Russian and OCS Treebank'. *Scripta & e-scripta* 14–15, pp. 9-25.
 
 # Changelog
