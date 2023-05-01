@@ -27,7 +27,7 @@ Psalterium Sinaiticum: Psalms 34–39, 70–73.
 Codex Suprasliensis: Patriarch Photios, Homily on Palm Sunday; Vita of St. Aninas the Wonderworker; Vita of the 40 Martyrs of Sebasteia.
 Kiev Missal: On the day of St. Clement.
 
-The training set consists of larger, continuous passages from the same texts (all mss. except Codex Zographensis are annotated nearly in full).
+The training set consists of larger, continuous passages from the same texts (all mss. except Codex Zographensis are annotated in full or nearly in full).
 
 # References
 Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.).  *Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)* (2008), pp. 27-34.
