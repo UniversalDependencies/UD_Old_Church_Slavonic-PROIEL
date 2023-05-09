@@ -1,22 +1,38 @@
 # Summary
 
-The Old Church Slavonic (OCS) UD treebank is based on the Old Church Slavonic data from the PROIEL treebank and contains the text of the Codex Marianus New Testament translation.
+The Old Church Slavonic (OCS) UD treebank is based on canonical Old Church Slavonic data from the PROIEL and TOROT treebanks.
 
 # Introduction
 
-The Old Church Slavonic (OCS) UD treebank is based on the Old Church Slavonic data from the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The conversion is based on the 20180408 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli, https://github.com/proiel/proiel-cli.
+The Old Church Slavonic (OCS) UD treebank is based on a selection of canonical Old Church Slavonic data from the PROIEL and TOROT treebanks, which are both maintained at the University of Oslo. The conversion is based on the 20230428 release of the PROIEL and TOROT treebanks available from [https://github.com/syntacticus/syntacticus-treebank-data](https://github.com/syntacticus/syntacticus-treebank-data). The original annotators are acknowledged in the files available there. The conversion code was written by Dag Haug and Hanne Eckhoff and is available in the Rubygem proiel-cli, released as part of the [PROIEL command-line interface](https://github.com/proiel/proiel-cli).
 
-The treebank contains the text of the Codex Marianus New Testament translation. The original annotation guidelines are available at http://folk.uio.no/daghaug/syntactic_guidelines.pdf. The text and tokenization comes from Corpus Cyrillo-Methodianum Helsingiense http://www.helsinki.fi/slaavilaiset/ccmh/marianus.html.
+The treebank contains the text of the Codex Marianus New Testament translation (parts of the Gospels) from the PROIEL treebank, as well as the Codex Suprasliensis (lives of saints and homilies), the Kiev Missal (liturgy), the Psalterium Sinaiticum and extracts from the Codex Zographensis New Testament manuscript. The original annotation guidelines are available at [http://folk.uio.no/daghaug/syntactic_guidelines.pdf](http://folk.uio.no/daghaug/syntactic_guidelines.pdf). 
 
 # Acknowledgements
 
 The data have been automatically converted to the UD scheme by Dag Haug. Thanks to all the original annotators!
 
 # Data splits
-The development set consists of Matthew 5, 6, 21, and 24, Mark 5 and 6, Luke 4, 7, 8 and 18, and John 10, 11, 17, 19. The test data consists of Matthew 7, 8, 22, 23 and 25, Mark 7, 8 and 15, Luke 5, 9, 10 and 19, and John 12, 13, 18, 21.
+Development set: 
+Codex Marianus: John 11; Luke 8, 11, 22, 24; Mark 15; Matthew 26.
+Codex Zographensis: Mark 14; Matthew 7.
+Psalterium Sinaiticum: Psalms 76–77, 89, 103–106.
+Codex Suprasliensis: John Chrysostom, Homily on the resurrection of Lazarus after four days 2; Vita of Artemios (24th March); Vita of Basiliskos; Vita of Basil and Kapiton; Vita of Terentios, Afrikanos, and Pompeos (20th March); Vita of Gregory I the Great (11th March).
+Kiev Missal:	Mass for every day of the year.
+
+Test set: 
+Codex Marianus: John 6; Luke 9, 23; Mark 14, 16; Matthew 6.
+Codex Zographensis: Matthew 6; Mark 15.
+Psalterium Sinaiticum: Psalms 34–39, 70–73.
+Codex Suprasliensis: Patriarch Photios, Homily on Palm Sunday; Vita of St. Aninas the Wonderworker; Vita of the 40 Martyrs of Sebasteia.
+Kiev Missal: On the day of St. Clement.
+
+The training set consists of larger, continuous passages from the same texts (all mss. except Codex Zographensis are annotated in full or nearly in full).
 
 # References
 Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations'. In Caroline Sporleder and Kiril Ribarov (eds.).  *Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008)* (2008), pp. 27-34.
+
+Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digital editions: The Tromsø Old Russian and OCS Treebank'. *Scripta & e-scripta* 14–15, pp. 9-25.
 
 # Changelog
 
@@ -35,7 +51,7 @@ Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of th
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.2
-License: CC BY-NC-SA 3.0
+License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: bible
 Lemmas: converted from manual
