@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit b1ddb68c2daa35ca825f092154b9d51b83a92593
-Merge: 30e90f8 7ca5acd
+commit 12084ddccd65a632cd4364f95ff4e29d80e666ed
+Merge: def9391 947561d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 198843 of 198843 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.5850311372404.
@@ -20,31 +20,33 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      14786
-Udapi: found 14786 bugs.
+               TOTAL      14741
+Udapi: found 14741 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 198843 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
+[Line 20083 Sent 40439 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'би * нимь'
 [Line 22645 Sent 41389 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-Warnings: 1
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
 [Line 14854 Sent 254254 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 [Line 18388 Sent 39532 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-Warnings: 2
+[Line 27038 Sent 293650 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'аште * * ни'
+Warnings: 3
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
+[Line 430 Sent 238228 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'твоѣ * * тъ'
+[Line 35485 Sent 309337 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 8] 'би * * насъ'
+[Line 35497 Sent 309337 Node 17]: [L3 Warning fixed-gap] Gaps in fixed expression [17, 20] 'би * * насъ'
+[Line 64559 Sent 246866 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * и҅'
+[Line 68139 Sent 247148 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
+[Line 68311 Sent 247158 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
+[Line 74146 Sent 247603 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
+[Line 75334 Sent 247683 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
 [Line 86734 Sent 248797 Node 5]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-[Line 86737 Sent 248797 Node 8]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-[Line 99891 Sent 249649 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-[Line 113171 Sent 250914 Node 5]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 130431 Sent 252210 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-[Line 135858 Sent 252606 Node 2]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 135859 Sent 252606 Node 3]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 138275 Sent 252842 Node 9]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'orphan'.
-[Line 142007 Sent 253130 Node 13]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
 ...suppressing further errors regarding Warning
-Warnings: 12
+Warnings: 35
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
@@ -53,8 +55,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.766170102279601) = 0.196453872379385
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
-(weight=0.307692307692308) * (score{udapi}=0.256398263956991) = 0.0788917735252281
+(weight=0.307692307692308) * (score{udapi}=0.258661355944137) = 0.0795881095212728
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.554804290069139) * (availability=1) * (validity=1) = 0.554804290069139
+(TOTAL score=0.555500626065184) * (availability=1) * (validity=1) = 0.555500626065184
 STARS = 3
-UD_Old_Church_Slavonic-PROIEL	0.554804290069139	3
+UD_Old_Church_Slavonic-PROIEL	0.555500626065184	3
