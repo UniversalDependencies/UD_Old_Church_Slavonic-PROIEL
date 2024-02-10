@@ -20412,7 +20412,7 @@
 4	въдати	въдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	ref=MATT_27.58|proiel-id=581509
 4.1	_	_	PRON	_	_	_	_	4:nsubj	ref=|proiel-id=2701608|information-status=non_spec
 5	тѣло	тѣло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj	4:obj	ref=MATT_27.58|proiel-id=581510|information-status=old|antecedent-proiel-id=581503
-5.2	_	_	PRON	_	_	_	_	4:obl	ref=|proiel-id=2701704|information-status=old|antecedent-proiel-id=581498
+5.1	_	_	PRON	_	_	_	_	4:obl	ref=|proiel-id=2701704|information-status=old|antecedent-proiel-id=581498
 6	и҃сво	исоусовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	amod	5:amod	ref=MATT_27.58|proiel-id=581511
 
 # source = Codex Marianus, Matthew 27
