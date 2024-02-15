@@ -23908,7 +23908,7 @@
 5	имете	ѩти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ref=LUKE_22.67|proiel-id=602893
 5.1	_	_	PRON	_	_	_	_	5:nsubj	ref=|proiel-id=2704771|information-status=old|antecedent-proiel-id=602890
 6	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obj	5:obj	ref=LUKE_22.67|proiel-id=602894
-6.2	_	_	PRON	_	_	_	_	5:obl	ref=|proiel-id=2704772|information-status=acc_inf|antecedent-proiel-id=602891
+6.1	_	_	PRON	_	_	_	_	5:obl	ref=|proiel-id=2704772|information-status=acc_inf|antecedent-proiel-id=602891
 
 # source = Codex Marianus, Luke 22
 # text = аште же и въпрошѫ вꙑ не отъвѣштаате ми ни поустите
