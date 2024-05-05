@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit 12084ddccd65a632cd4364f95ff4e29d80e666ed
-Merge: def9391 947561d
+commit e31b29928824424d48906ced5fb1cd698ba6efef
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 12:44:22 2023 +0100
 Size: counted 198843 of 198843 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.5850311372404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -45,6 +45,7 @@ Warnings: 3
 [Line 74146 Sent 247603 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
 [Line 75334 Sent 247683 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
 [Line 86734 Sent 248797 Node 5]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 86737 Sent 248797 Node 8]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
 ...suppressing further errors regarding Warning
 Warnings: 35
 *** PASSED ***
