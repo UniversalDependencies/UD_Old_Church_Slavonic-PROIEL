@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit e31b29928824424d48906ced5fb1cd698ba6efef
+commit 2b41cec666d97941679006ce4bdc6c68f66cc07a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:44:22 2023 +0100
+Date:   Sun May 5 13:08:25 2024 +0200
 Size: counted 198843 of 198843 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.5850311372404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,29 +25,33 @@ Udapi: found 14741 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 198843 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
+[Line 8437 Sent 246791 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:толико:det --> 20:посълати:ccomp)
 [Line 20083 Sent 40439 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'би * нимь'
 [Line 22645 Sent 41389 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-Warnings: 2
+[Line 25621 Sent 42465 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
+Warnings: 4
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
+[Line 9958 Sent 250103 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:толико:det --> 14:вѣроуѭ̑тъ:acl)
 [Line 14854 Sent 254254 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
+[Line 15733 Sent 254292 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
 [Line 18388 Sent 39532 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
 [Line 27038 Sent 293650 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'аште * * ни'
-Warnings: 3
+Warnings: 5
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
 [Line 430 Sent 238228 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'твоѣ * * тъ'
+[Line 19253 Sent 307018 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:его:det --> 5:его:appos)
+[Line 19399 Sent 307033 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:его:det --> 11:Положьшаего:acl)
+[Line 19959 Sent 307096 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:его:det --> 6:Оц҃а:appos)
+[Line 28681 Sent 308364 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:его:det --> 7:Оцѣщаѭштаго:acl)
 [Line 35485 Sent 309337 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 8] 'би * * насъ'
 [Line 35497 Sent 309337 Node 17]: [L3 Warning fixed-gap] Gaps in fixed expression [17, 20] 'би * * насъ'
-[Line 64559 Sent 246866 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * и҅'
-[Line 68139 Sent 247148 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
-[Line 68311 Sent 247158 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
-[Line 74146 Sent 247603 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
-[Line 75334 Sent 247683 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'а҅ште * ни'
-[Line 86734 Sent 248797 Node 5]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-[Line 86737 Sent 248797 Node 8]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 40747 Sent 309897 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
+[Line 41015 Sent 309933 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:того:det --> 6:единого:appos)
+[Line 45750 Sent 245159 Node 33]: [L3 Warning leaf-det] 'det' not expected to have children (33:вь͗сѣмъ:det --> 37:н̑ихъ:acl)
 ...suppressing further errors regarding Warning
-Warnings: 35
+Warnings: 59
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
