@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit 2b41cec666d97941679006ce4bdc6c68f66cc07a
+commit 87689839aacdd58e3579667a4e4acbc66ad6ef30
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:08:25 2024 +0200
+Date:   Mon Nov 11 16:16:58 2024 +0100
 Size: counted 198843 of 198843 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.5850311372404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,48 +20,82 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      14741
-Udapi: found 14741 bugs.
+               TOTAL      14620
+Udapi: found 14620 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 198843 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
-[Line 8437 Sent 246791 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:толико:det --> 20:посълати:ccomp)
-[Line 20083 Sent 40439 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'би * нимь'
-[Line 22645 Sent 41389 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-[Line 25621 Sent 42465 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
-Warnings: 4
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
-[Line 9958 Sent 250103 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:толико:det --> 14:вѣроуѭ̑тъ:acl)
-[Line 14854 Sent 254254 Node 6]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dislocated'.
-[Line 15733 Sent 254292 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
-[Line 18388 Sent 39532 Node 4]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-[Line 27038 Sent 293650 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'аште * * ни'
-Warnings: 5
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
-[Line 430 Sent 238228 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'твоѣ * * тъ'
-[Line 19253 Sent 307018 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:его:det --> 5:его:appos)
-[Line 19399 Sent 307033 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:его:det --> 11:Положьшаего:acl)
-[Line 19959 Sent 307096 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:его:det --> 6:Оц҃а:appos)
-[Line 28681 Sent 308364 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:его:det --> 7:Оцѣщаѭштаго:acl)
-[Line 35485 Sent 309337 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 8] 'би * * насъ'
-[Line 35497 Sent 309337 Node 17]: [L3 Warning fixed-gap] Gaps in fixed expression [17, 20] 'би * * насъ'
-[Line 40747 Sent 309897 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
-[Line 41015 Sent 309933 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:того:det --> 6:единого:appos)
-[Line 45750 Sent 245159 Node 33]: [L3 Warning leaf-det] 'det' not expected to have children (33:вь͗сѣмъ:det --> 37:н̑ихъ:acl)
+[Line 6409 Sent 244993 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'от ͛ца' does not have the 'ExtPos' feature
+[Line 6592 Sent 245010 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'сим ͛' does not have the 'ExtPos' feature
+[Line 7649 Sent 246729 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7653 Sent 246729 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7735 Sent 246737 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7807 Sent 246744 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'ни ѥ҅дина' does not have the 'ExtPos' feature
+[Line 8437 Sent 246791 Node 9]: [L3 Syntax leaf-det] 'det' not expected to have children (9:толико:det --> 20:посълати:ccomp)
+[Line 10098 Sent 248270 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ꙁа н҄еже' does not have the 'ExtPos' feature
+[Line 12609 Sent 249672 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'вѣр ѣ' does not have the 'ExtPos' feature
+[Line 13395 Sent 249739 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'не мѫжь҆ствь҆но' does not have the 'ExtPos' feature
+[Line 13468 Sent 249745 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'не могꙑ' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 59
-*** PASSED ***
-Validity: 1
+[Line 25621 Sent 42465 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
+Syntax errors: 2
+Warnings: 36
+*** FAILED *** with 2 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
+[Line 398 Sent 305960 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Їхъ же' does not have the 'ExtPos' feature
+[Line 4029 Sent 307293 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ньсѣ прѣвьзнетъ' does not have the 'ExtPos' feature
+[Line 5926 Sent 245848 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'капиклари ѹ' does not have the 'ExtPos' feature
+[Line 5999 Sent 245854 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'тако же' does not have the 'ExtPos' feature
+[Line 6158 Sent 245867 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ни ѥ͑дінъ' does not have the 'ExtPos' feature
+[Line 6218 Sent 245873 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'м͆ мъ' does not have the 'ExtPos' feature
+[Line 9104 Sent 250042 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'бисръ а҅' does not have the 'ExtPos' feature
+[Line 9958 Sent 250103 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:толико:det --> 14:вѣроуѭ̑тъ:acl)
+[Line 10016 Sent 250109 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'мечъ тъштанию̑' does not have the 'ExtPos' feature
+[Line 10129 Sent 250118 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'а҅ште и҅' does not have the 'ExtPos' feature
+[Line 10739 Sent 254050 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'добро творꙙ' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 15733 Sent 254292 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
+Syntax errors: 2
+Warnings: 53
+*** FAILED *** with 2 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
+[Line 430 Sent 238228 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'твоѣ тъ' does not have the 'ExtPos' feature
+[Line 430 Sent 238228 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 4] 'твоѣ * * тъ'
+[Line 1597 Sent 304949 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 3175 Sent 305101 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 3282 Sent 305112 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 10875 Sent 305867 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'него же' does not have the 'ExtPos' feature
+[Line 11014 Sent 305880 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'И сполинъ' does not have the 'ExtPos' feature
+[Line 12206 Sent 306296 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'не праведъна' does not have the 'ExtPos' feature
+[Line 19253 Sent 307018 Node 4]: [L3 Syntax leaf-det] 'det' not expected to have children (4:его:det --> 5:его:appos)
+[Line 19399 Sent 307033 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:его:det --> 11:Положьшаего:acl)
+[Line 19959 Sent 307096 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:его:det --> 6:Оц҃а:appos)
+[Line 26007 Sent 308088 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'пінікъ съ' does not have the 'ExtPos' feature
+[Line 28681 Sent 308364 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:его:det --> 7:Оцѣщаѭштаго:acl)
+[Line 31779 Sent 308960 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'не врѣдоу' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 40747 Sent 309897 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
+[Line 41015 Sent 309933 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:того:det --> 6:единого:appos)
+[Line 45750 Sent 245159 Node 33]: [L3 Syntax leaf-det] 'det' not expected to have children (33:вь͗сѣмъ:det --> 37:н̑ихъ:acl)
+[Line 46295 Sent 245192 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:толико:det --> 11:просⱕтʼ:ccomp)
+[Line 61074 Sent 246532 Node 18]: [L3 Syntax leaf-det] 'det' not expected to have children (18:толикъ:det --> 27:плакати:ccomp)
+[Line 67654 Sent 247108 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:ѥ҅динъ:det --> 5:крьстиꙗ҅нъ:nmod)
+...suppressing further errors regarding Syntax
+Syntax errors: 24
+Warnings: 331
+*** FAILED *** with 24 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.766170102279601) = 0.196453872379385
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
-(weight=0.307692307692308) * (score{udapi}=0.258661355944137) = 0.0795881095212728
+(weight=0.307692307692308) * (score{udapi}=0.264746558842906) = 0.0814604796439711
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.555500626065184) * (availability=1) * (validity=1) = 0.555500626065184
-STARS = 3
-UD_Old_Church_Slavonic-PROIEL	0.555500626065184	3
+(TOTAL score=0.557121613583559) * (availability=1) * (validity=0.01) = 0.00557121613583559
+STARS = 0
+UD_Old_Church_Slavonic-PROIEL	0.00557121613583559	0
