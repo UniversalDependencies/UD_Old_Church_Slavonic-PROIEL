@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit de89c7d87f5076082e4cc5f8a6d03dc4b4009861
-Merge: b8974d1 64eddf8
+commit a75342b7c9ca29215dbd9d18320950670b17386f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:21:14 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'cu_proiel'
 Language code (from CoNLL-U file name) = 'cu'
@@ -25,70 +25,144 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
-[Line 4 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 8 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 9 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 10 Sent 238187]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238187]: [L3 Warning pron-det-without-prontype] The word 'ВЬСѦ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 8 Sent 238187]: [L3 Warning pron-det-without-prontype] The word 'ВСЕГО' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 15 Sent 238188]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further errors regarding Warning
-[Line 658 Sent 307516]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8] ('Елико', 'ѣ') under the predicate 'слꙑшахомъ'.
-[Line 8437 Sent 246791]: [L3 Syntax leaf-det] 'det' not expected to have children (9:толико:det --> 20:посълати:ccomp)
-[Line 16292 Sent 254041]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('о҅свꙙштень҆ѥ҆', 'пририштѫштии҅хъ') under the predicate 'миловати'.
-[Line 25621 Sent 42465]: [L3 Syntax leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
-[Line 27682 Sent 297669]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('і', 'ꙇна') under the predicate 'видѣвъши'.
-Syntax errors: 5
-Warnings: 1219
-*** FAILED *** with 5 errors
+[Line 4 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 5 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 6 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 7 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 8 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 9 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 10 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 6 Sent 238187]: [L3 WARNING pron-det-without-prontype] The word 'ВЬСѦ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 8 Sent 238187]: [L3 WARNING pron-det-without-prontype] The word 'ВСЕГО' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 15 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 16 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 17 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+...suppressing further messages regarding WARNING/FORMAT
+[Line 18 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'своѭ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 24 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'своемь' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'нашѣ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 39 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'твоеѭ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 69 Sent 238192]: [L3 WARNING pron-det-without-prontype] The word 'нашѫ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 75 Sent 238192]: [L3 WARNING pron-det-without-prontype] The word 'своіхъ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 96 Sent 238194]: [L3 WARNING pron-det-without-prontype] The word 'твоѧ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 104 Sent 238194]: [L3 WARNING pron-det-without-prontype] The word 'твоімі' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 658 Sent 307516]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8] ('Елико', 'ѣ') under the predicate 'слꙑшахомъ'.
+[Line 6409 Sent 244993]: [L3 WARNING fixed-without-extpos] Fixed expression 'от ͛ца' does not have the 'ExtPos' feature
+[Line 6592 Sent 245010]: [L3 WARNING fixed-without-extpos] Fixed expression 'сим ͛' does not have the 'ExtPos' feature
+[Line 7649 Sent 246729]: [L3 WARNING fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7653 Sent 246729]: [L3 WARNING fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7735 Sent 246737]: [L3 WARNING fixed-without-extpos] Fixed expression 'тъ жде' does not have the 'ExtPos' feature
+[Line 7807 Sent 246744]: [L3 WARNING fixed-without-extpos] Fixed expression 'ни ѥ҅дина' does not have the 'ExtPos' feature
+[Line 8437 Sent 246791]: [L3 SYNTAX leaf-det] 'det' not expected to have children (9:толико:det --> 20:посълати:ccomp)
+[Line 10098 Sent 248270]: [L3 WARNING fixed-without-extpos] Fixed expression 'ꙁа н҄еже' does not have the 'ExtPos' feature
+[Line 12609 Sent 249672]: [L3 WARNING fixed-without-extpos] Fixed expression 'вѣр ѣ' does not have the 'ExtPos' feature
+[Line 13395 Sent 249739]: [L3 WARNING fixed-without-extpos] Fixed expression 'не мѫжь҆ствь҆но' does not have the 'ExtPos' feature
+[Line 13468 Sent 249745]: [L3 WARNING fixed-without-extpos] Fixed expression 'не могꙑ' does not have the 'ExtPos' feature
+[Line 15117 Sent 253982]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'стѣнъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 15122 Sent 253982]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'стѣнъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 15429 Sent 253997]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'гон҄ению҄') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 16292 Sent 254041]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 8] ('о҅свꙙштень҆ѥ҆', 'пририштѫштии҅хъ') under the predicate 'миловати'.
+[Line 25621 Sent 42465]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
+[Line 27682 Sent 297669]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('і', 'ꙇна') under the predicate 'видѣвъши'.
+Warnings: 1215
+SYNTAX errors: 8
+*** FAILED *** with 8 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
-[Line 4 Sent 238167]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238167]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238167]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238167]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 8 Sent 238167]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 13 Sent 238168]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 14 Sent 238168]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 15 Sent 238168]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 16 Sent 238168]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 17 Sent 238168]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further errors regarding Warning
-[Line 9958 Sent 250103]: [L3 Syntax leaf-det] 'det' not expected to have children (2:толико:det --> 14:вѣроуѭ̑тъ:acl)
-[Line 15733 Sent 254292]: [L3 Syntax leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
-Syntax errors: 2
-Warnings: 1442
-*** FAILED *** with 2 errors
+[Line 4 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 5 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 6 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 7 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 8 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 13 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 14 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 15 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 16 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 17 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+...suppressing further messages regarding WARNING/FORMAT
+[Line 21 Sent 238168]: [L3 WARNING pron-det-without-prontype] The word 'твоего' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 61 Sent 238171]: [L3 WARNING pron-det-without-prontype] The word 'твоемѹ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 62 Sent 238171]: [L3 WARNING pron-det-without-prontype] The word 'симь' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 67 Sent 238171]: [L3 WARNING pron-det-without-prontype] The word 'нашꙇхъ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 98 Sent 238174]: [L3 WARNING pron-det-without-prontype] The word 'твоемѹ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 114 Sent 238174]: [L3 WARNING pron-det-without-prontype] The word 'нашмь' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 135 Sent 238176]: [L3 WARNING pron-det-without-prontype] The word 'нашь' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 195 Sent 305941]: [L3 WARNING pron-det-without-prontype] The word 'моѭ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 217 Sent 305944]: [L3 WARNING pron-det-without-prontype] The word 'моеи' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 223 Sent 305945]: [L3 WARNING pron-det-without-prontype] The word 'твое' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 398 Sent 305960]: [L3 WARNING fixed-without-extpos] Fixed expression 'Їхъ же' does not have the 'ExtPos' feature
+[Line 4029 Sent 307293]: [L3 WARNING fixed-without-extpos] Fixed expression 'ньсѣ прѣвьзнетъ' does not have the 'ExtPos' feature
+[Line 5926 Sent 245848]: [L3 WARNING fixed-without-extpos] Fixed expression 'капиклари ѹ' does not have the 'ExtPos' feature
+[Line 5999 Sent 245854]: [L3 WARNING fixed-without-extpos] Fixed expression 'тако же' does not have the 'ExtPos' feature
+[Line 6158 Sent 245867]: [L3 WARNING fixed-without-extpos] Fixed expression 'ни ѥ͑дінъ' does not have the 'ExtPos' feature
+[Line 6218 Sent 245873]: [L3 WARNING fixed-without-extpos] Fixed expression 'м͆ мъ' does not have the 'ExtPos' feature
+[Line 8384 Sent 246047]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'мѫчениѥ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9104 Sent 250042]: [L3 WARNING fixed-without-extpos] Fixed expression 'бисръ а҅' does not have the 'ExtPos' feature
+[Line 9958 Sent 250103]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:толико:det --> 14:вѣроуѭ̑тъ:acl)
+[Line 10016 Sent 250109]: [L3 WARNING fixed-without-extpos] Fixed expression 'мечъ тъштанию̑' does not have the 'ExtPos' feature
+[Line 10129 Sent 250118]: [L3 WARNING fixed-without-extpos] Fixed expression 'а҅ште и҅' does not have the 'ExtPos' feature
+[Line 10739 Sent 254050]: [L3 WARNING fixed-without-extpos] Fixed expression 'добро творꙙ' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 12511 Sent 254135]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'ꙁорь҆') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 14758 Sent 254248]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'нападениѥ҆') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 15733 Sent 254292]: [L3 SYNTAX leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
+[Line 23382 Sent 40510]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'словесехъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 27866 Sent 297679]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'архⸯиереі') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 1435
+SYNTAX errors: 7
+*** FAILED *** with 7 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
-[Line 4 Sent 238177]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238177]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238177]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238177]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238177]: [L3 Warning pron-det-without-prontype] The word 'ТЪЗЕ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 238178]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 13 Sent 238178]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 14 Sent 238178]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 15 Sent 238178]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 16 Sent 238178]: [L2 Warning misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further errors regarding Warning
-[Line 8237 Sent 305601]: [L3 Syntax too-many-objects] Multiple direct objects [2, 3] ('кротъкъіѩ', 'сѫдъ') under the predicate 'Наставітъ'.
-[Line 19253 Sent 307018]: [L3 Syntax leaf-det] 'det' not expected to have children (4:его:det --> 5:его:appos)
-[Line 19399 Sent 307033]: [L3 Syntax leaf-det] 'det' not expected to have children (10:его:det --> 11:Положьшаего:acl)
-[Line 19959 Sent 307096]: [L3 Syntax leaf-det] 'det' not expected to have children (5:его:det --> 6:Оц҃а:appos)
-[Line 25463 Sent 308000]: [L3 Syntax too-many-objects] Multiple direct objects [18, 20] ('еже', 'ізмѣніе') under the predicate 'поносішѩ'.
-[Line 25781 Sent 308069]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('длъготѫ', 'і') under the predicate 'исплънѫ'.
-[Line 28681 Sent 308364]: [L3 Syntax leaf-det] 'det' not expected to have children (6:его:det --> 7:Оцѣщаѭштаго:acl)
-[Line 37666 Sent 309553]: [L3 Syntax too-many-objects] Multiple direct objects [4, 10] ('насъ', 'пѣниѣ') under the predicate 'въпросишѩ'.
-[Line 40724 Sent 309894]: [L3 Syntax too-many-objects] Multiple direct objects [7, 9] ('прѣдѣлъі', 'миръ') under the predicate 'Полагаѩі'.
-[Line 40747 Sent 309897]: [L3 Syntax leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
-...suppressing further errors regarding Syntax
-Syntax errors: 47
-Warnings: 11624
-*** FAILED *** with 47 errors
+[Line 4 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 5 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 6 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 7 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 5 Sent 238177]: [L3 WARNING pron-det-without-prontype] The word 'ТЪЗЕ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 13 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 14 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 15 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 16 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+[Line 17 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
+...suppressing further messages regarding WARNING/FORMAT
+[Line 21 Sent 238178]: [L3 WARNING pron-det-without-prontype] The word 'твоеѧ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 30 Sent 238179]: [L3 WARNING pron-det-without-prontype] The word 'тоѧзе' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 48 Sent 238181]: [L3 WARNING pron-det-without-prontype] The word 'твоꙇхъ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 92 Sent 238186]: [L3 WARNING pron-det-without-prontype] The word 'твоꙇхъ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 95 Sent 238186]: [L3 WARNING pron-det-without-prontype] The word 'самъ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 99 Sent 238186]: [L3 WARNING pron-det-without-prontype] The word 'твоі' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 105 Sent 238186]: [L3 WARNING pron-det-without-prontype] The word 'наше' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 117 Sent 238200]: [L3 WARNING pron-det-without-prontype] The word 'ТОМЬЗЕ:' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 134 Sent 238202]: [L3 WARNING pron-det-without-prontype] The word 'нашѫ' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 430 Sent 238228]: [L3 WARNING fixed-without-extpos] Fixed expression 'твоѣ тъ' does not have the 'ExtPos' feature
+[Line 430 Sent 238228]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 4] 'твоѣ * * тъ'
+[Line 1597 Sent 304949]: [L3 WARNING fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 3175 Sent 305101]: [L3 WARNING fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 3282 Sent 305112]: [L3 WARNING fixed-without-extpos] Fixed expression 'диѣ псал' does not have the 'ExtPos' feature
+[Line 8237 Sent 305601]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 3] ('кротъкъіѩ', 'сѫдъ') under the predicate 'Наставітъ'.
+[Line 10875 Sent 305867]: [L3 WARNING fixed-without-extpos] Fixed expression 'него же' does not have the 'ExtPos' feature
+[Line 11014 Sent 305880]: [L3 WARNING fixed-without-extpos] Fixed expression 'И сполинъ' does not have the 'ExtPos' feature
+[Line 12206 Sent 306296]: [L3 WARNING fixed-without-extpos] Fixed expression 'не праведъна' does not have the 'ExtPos' feature
+[Line 19253 Sent 307018]: [L3 SYNTAX leaf-det] 'det' not expected to have children (4:его:det --> 5:его:appos)
+[Line 19399 Sent 307033]: [L3 SYNTAX leaf-det] 'det' not expected to have children (10:его:det --> 11:Положьшаего:acl)
+[Line 19959 Sent 307096]: [L3 SYNTAX leaf-det] 'det' not expected to have children (5:его:det --> 6:Оц҃а:appos)
+[Line 25463 Sent 308000]: [L3 SYNTAX too-many-objects] Multiple direct objects [18, 20] ('еже', 'ізмѣніе') under the predicate 'поносішѩ'.
+[Line 25781 Sent 308069]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('длъготѫ', 'і') under the predicate 'исплънѫ'.
+[Line 26007 Sent 308088]: [L3 WARNING fixed-without-extpos] Fixed expression 'пінікъ съ' does not have the 'ExtPos' feature
+[Line 28681 Sent 308364]: [L3 SYNTAX leaf-det] 'det' not expected to have children (6:его:det --> 7:Оцѣщаѭштаго:acl)
+[Line 31779 Sent 308960]: [L3 WARNING fixed-without-extpos] Fixed expression 'не врѣдоу' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 37666 Sent 309553]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 10] ('насъ', 'пѣниѣ') under the predicate 'въпросишѩ'.
+[Line 40724 Sent 309894]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 9] ('прѣдѣлъі', 'миръ') under the predicate 'Полагаѩі'.
+[Line 40747 Sent 309897]: [L3 SYNTAX leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 11597
+SYNTAX errors: 64
+*** FAILED *** with 64 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
