@@ -134,7 +134,7 @@ foreach my $part (qw(train dev test))
                 }
                 if($new_parallel_id ne $parallel_id)
                 {
-                    print("CHANGE $parallel_id\t==>\t$new_parallel_id\n");
+                    print("CHANGE $parallel_id\t==>\t$new_parallel_id\t($current_source)\n");
                 }
             }
         }
