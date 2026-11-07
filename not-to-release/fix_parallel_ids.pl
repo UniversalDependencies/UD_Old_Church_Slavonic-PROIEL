@@ -40,53 +40,9 @@ foreach my $part (qw(train dev test))
             $current_chapter =~ s:^bible/([a-z0-9]+-[0-9]+)-([0-9]+).*$:$1:;
             $current_verse = $2;
             # Save the chapter with source.
-            unless(exists($chapters{$current_chapter}{$current_source}))
-            {
-                my $n_sources = 0;
-                if(exists($chapters{$current_chapter}))
-                {
-                    my @sources = keys(%{$chapters{$current_chapter}});
-                    $n_sources = scalar(@sources);
-                    if($n_sources == 1)
-                    {
-                        $chapters{$current_chapter}{$sources[0]}{'alt'} = 1;
-                    }
-                }
-                $n_sources++;
-                $chapters{$current_chapter}{$current_source} = {'part' => $part, 'line' => $iline};
-                if($n_sources > 1)
-                {
-                    $chapters{$current_chapter}{$current_source}{'alt'} = $n_sources;
-                }
-            }
-            else # this parallel_id + source already exists, thus this is second (or higher) part
-            {
-                $chapters{$current_chapter}{$current_source}{'sentences'}++;
-            }
+            save_occurrence(\%chapters, $current_chapter, $current_source, $part, $iline);
             # Save the verse with source.
-            unless(exists($verses{"$current_chapter-$current_verse"}{$current_source}))
-            {
-                my $n_sources = 0;
-                if(exists($verses{"$current_chapter-$current_verse"}))
-                {
-                    my @sources = keys(%{$verses{"$current_chapter-$current_verse"}});
-                    $n_sources = scalar(@sources);
-                    if($n_sources == 1)
-                    {
-                        $verses{"$current_chapter-$current_verse"}{$sources[0]}{'alt'} = 1;
-                    }
-                }
-                $n_sources++;
-                $verses{"$current_chapter-$current_verse"}{$current_source} = {'part' => $part, 'line' => $iline};
-                if($n_sources > 1)
-                {
-                    $verses{"$current_chapter-$current_verse"}{$current_source}{'alt'} = $n_sources;
-                }
-            }
-            else # this parallel_id + source already exists, thus this is second (or higher) part
-            {
-                $verses{"$current_chapter-$current_verse"}{$current_source}{'sentences'}++;
-            }
+            save_occurrence(\%verses, "$current_chapter-$current_verse", $current_source, $part, $iline);
         }
         if(m/^\s*$/)
         {
@@ -157,5 +113,42 @@ if(0)
             my $sentences = exists($chapters{$chapter}{$source}{sentences}) ? $chapters{$chapter}{$source}{sentences} : 1;
             print("\t$sentences sentences\n");
         }
+    }
+}
+
+
+
+#------------------------------------------------------------------------------
+# Saves a parallel id with source to a hash.
+#------------------------------------------------------------------------------
+sub save_occurrence
+{
+    my $hash = shift;
+    my $id = shift; # can identify a Bible verse or a whole chapter
+    my $source = shift; # Codex Marianus or Zographensis
+    my $part = shift; # train, dev, or test
+    my $line = shift; # line number in the file
+    unless(exists($hash->{$id}{$source}))
+    {
+        my $n_sources = 0;
+        if(exists($hash->{$id}))
+        {
+            my @sources = keys(%{$hash->{$id}});
+            $n_sources = scalar(@sources);
+            if($n_sources == 1)
+            {
+                $hash->{$id}{$sources[0]}{'alt'} = 1;
+            }
+        }
+        $n_sources++;
+        $hash->{$id}{$source} = {'part' => $part, 'line' => $line, 'sentences' => 1};
+        if($n_sources > 1)
+        {
+            $hash->{$id}{$source}{'alt'} = $n_sources;
+        }
+    }
+    else # this parallel_id + source already exists, thus this is second (or higher) part/sentence
+    {
+        $hash->{$id}{$source}{'sentences'}++;
     }
 }
