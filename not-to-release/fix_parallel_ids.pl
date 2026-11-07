@@ -12,13 +12,17 @@ binmode(STDOUT, ':utf8');
 binmode(STDERR, ':utf8');
 
 my $path = '/net/work/people/zeman/unidep/UD_Old_Church_Slavonic-PROIEL';
+###!!! Currently we have to visit the parts in the same order as the validator,
+###!!! otherwise the validator will complain that alt and part numbers do not
+###!!! form a sequence.
+my @parts = qw(dev test train);
 my %corpus;
 my $current_source;
 my $current_chapter;
 my $current_verse;
 my %chapters;
 my %verses;
-foreach my $part (qw(train dev test))
+foreach my $part (@parts)
 {
     my $partpath = "$path/cu_proiel-ud-$part.conllu";
     open(my $in, $partpath) or die("Cannot read '$partpath': $!");
@@ -56,7 +60,7 @@ foreach my $part (qw(train dev test))
 # Modify parallel_ids so that the same verse from different sources get different
 # alt; if there are multiple sentences with the same source, they get the part id.
 my %lastpart;
-foreach my $part (qw(train dev test))
+foreach my $part (@parts)
 {
     my $partpath = "$path/cu_proiel-ud-$part.conllu";
     open(my $out, ">$partpath") or die("Cannot write '$partpath': $!");
