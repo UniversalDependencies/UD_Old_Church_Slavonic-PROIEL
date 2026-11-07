@@ -21023,7 +21023,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ посъла дъва отъ оученикъ своихъ
 # sent_id = 37173
-# parallel_id = bible/mark-14-13/part1
+# parallel_id = bible/mark-14-13/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.13
 2	посъла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.13
 3	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	2	obj	_	Ref=MARK_14.13
@@ -21034,7 +21034,7 @@
 # source = Codex Marianus, Mark 14
 # text = и г҃ла има
 # sent_id = 50530
-# parallel_id = bible/mark-14-13/part2
+# parallel_id = bible/mark-14-13/alt2part2
 1	и	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.13
 2	г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.13
 3	има	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.13
@@ -21042,7 +21042,7 @@
 # source = Codex Marianus, Mark 14
 # text = идѣта въ градъ и сърѧштета вꙑ ч҃лвкъ въ скѫдьльницѣ водѫ носѧ
 # sent_id = 50531
-# parallel_id = bible/mark-14-13/part3
+# parallel_id = bible/mark-14-13/alt2part3
 1	идѣта	ити	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.13
 2	въ	въ	ADP	R-	_	3	case	_	Ref=MARK_14.13
 3	градъ	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Ref=MARK_14.13
@@ -21058,7 +21058,7 @@
 # source = Codex Marianus, Mark 14
 # text = по немь идѣта
 # sent_id = 37175
-# parallel_id = bible/mark-14-13/part4
+# parallel_id = bible/mark-14-13/alt2part4
 1	по	по	ADP	R-	_	2	case	_	Ref=MARK_14.13
 2	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	Ref=MARK_14.13
 3	идѣта	ити	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.13
@@ -21066,7 +21066,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ҅ идеже аште вънидетъ рьцѣта г҃ноу домоу ѣко
 # sent_id = 37176
-# parallel_id = bible/mark-14-14/part1
+# parallel_id = bible/mark-14-14/alt2part1
 1	ꙇ҅	и	CCONJ	C-	_	5	cc	_	Ref=MARK_14.14
 2	идеже	идеже	ADV	Dq	PronType=Rel	4	advmod	_	Ref=MARK_14.14
 3	аште	аще	ADV	Df	_	2	advmod	_	Ref=MARK_14.14
@@ -21079,14 +21079,14 @@
 # source = Codex Marianus, Mark 14
 # text = оучитель г҃лтъ
 # sent_id = 50532
-# parallel_id = bible/mark-14-14/part2
+# parallel_id = bible/mark-14-14/alt2part2
 1	оучитель	оучитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MARK_14.14
 2	г҃лтъ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.14
 
 # source = Codex Marianus, Mark 14
 # text = къде естъ обитѣль идеже пасхѫ съ оученикꙑ своими сънѣмъ
 # sent_id = 50533
-# parallel_id = bible/mark-14-14/part3
+# parallel_id = bible/mark-14-14/alt2part3
 1	къде	къде	ADV	Du	PronType=Int	0	root	_	Ref=MARK_14.14
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_14.14
 3	обитѣль	обитѣль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MARK_14.14
@@ -21100,7 +21100,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ тъ вама покажетъ горьницѫ велиѭ постъланѫ готовѫ
 # sent_id = 50534
-# parallel_id = bible/mark-14-15/part1
+# parallel_id = bible/mark-14-15/alt2part1
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.15
 2	тъ	тъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.15
 3	вама	ва	PRON	Pp	Case=Dat|Number=Dual|Person=2|PronType=Prs	4	obl:arg	_	Ref=MARK_14.15
@@ -21113,7 +21113,7 @@
 # source = Codex Marianus, Mark 14
 # text = тоу оуготоваита намъ
 # sent_id = 50535
-# parallel_id = bible/mark-14-15/part2
+# parallel_id = bible/mark-14-15/alt2part2
 1	тоу	тоу	ADV	Df	_	2	advmod	_	Ref=MARK_14.15
 2	оуготоваита	оуготовати	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.15
 3	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	Ref=MARK_14.15
@@ -21121,7 +21121,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ изидете оученика его и придете въ градъ и обрѣтете ѣкоже рече има и оуготовасте пасхѫ
 # sent_id = 37179
-# parallel_id = bible/mark-14-16
+# parallel_id = bible/mark-14-16/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.16
 2	изидете	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.16
 3	оученика	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	2	nsubj	_	Ref=MARK_14.16
@@ -21142,7 +21142,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ вечероу бꙑвъшоу приде съ обѣма на десѧте
 # sent_id = 37180
-# parallel_id = bible/mark-14-17
+# parallel_id = bible/mark-14-17/alt2
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.17
 2	вечероу	вечеръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	advcl	_	Ref=MARK_14.17
 3	бꙑвъшоу	бꙑти	AUX	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	2	cop	_	Ref=MARK_14.17
@@ -21155,7 +21155,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ възлежѧштемъ имъ ꙇ ѣдѫштемъ рече и҃съ
 # sent_id = 37181
-# parallel_id = bible/mark-14-18/part1
+# parallel_id = bible/mark-14-18/alt2part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.18
 2	възлежѧштемъ	възлежати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.18
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Ref=MARK_14.18
@@ -21167,7 +21167,7 @@
 # source = Codex Marianus, Mark 14
 # text = амин г҃лѭ҄ вамъ ѣко единъ отъ васъ прѣдастъ мѧ ѣдꙑ съ мъноѭ
 # sent_id = 37182
-# parallel_id = bible/mark-14-18/part2
+# parallel_id = bible/mark-14-18/alt2part2
 1	амин	аминъ	INTJ	I-	_	2	discourse	_	Ref=MARK_14.18
 2	г҃лѭ҄	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.18
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MARK_14.18
@@ -21184,7 +21184,7 @@
 # source = Codex Marianus, Mark 14
 # text = Ѡни же начѧсѧ скръбѣти и тѫжити ꙇ г҃лати емоу единъ по единомоу
 # sent_id = 37183
-# parallel_id = bible/mark-14-19/part1
+# parallel_id = bible/mark-14-19/alt2part1
 1	Ѡни	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=MARK_14.19
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.19
 3	начѧсѧ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.19
@@ -21201,28 +21201,28 @@
 # source = Codex Marianus, Mark 14
 # text = еда азъ
 # sent_id = 50536
-# parallel_id = bible/mark-14-19/part2
+# parallel_id = bible/mark-14-19/alt2part2
 1	еда	еда	ADV	Du	PronType=Int	2	advmod	_	Ref=MARK_14.19
 2	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	Ref=MARK_14.19
 
 # source = Codex Marianus, Mark 14
 # text = ꙇ дроугꙑи
 # sent_id = 50537
-# parallel_id = bible/mark-14-19/part3
+# parallel_id = bible/mark-14-19/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.19
 2	дроугꙑи	дроугъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=MARK_14.19
 
 # source = Codex Marianus, Mark 14
 # text = еда азъ
 # sent_id = 50538
-# parallel_id = bible/mark-14-19/part4
+# parallel_id = bible/mark-14-19/alt2part4
 1	еда	еда	ADV	Du	PronType=Int	2	advmod	_	Ref=MARK_14.19
 2	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	0	root	_	Ref=MARK_14.19
 
 # source = Codex Marianus, Mark 14
 # text = онъ же отъвѣштавъ рече имъ
 # sent_id = 37185
-# parallel_id = bible/mark-14-20/part1
+# parallel_id = bible/mark-14-20/alt2part1
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.20
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_14.20
 3	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_14.20
@@ -21232,7 +21232,7 @@
 # source = Codex Marianus, Mark 14
 # text = единъ отъ обою на десѧте омочии съ мъноѭ въ солило
 # sent_id = 37186
-# parallel_id = bible/mark-14-20/part2
+# parallel_id = bible/mark-14-20/alt2part2
 1	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MARK_14.20
 2	отъ	отъ	ADP	R-	_	3	case	_	Ref=MARK_14.20
 3	обою	оба	NUM	Ma	Case=Gen|Gender=Masc|Number=Dual	1	nmod	_	Ref=MARK_14.20
@@ -21247,7 +21247,7 @@
 # source = Codex Marianus, Mark 14
 # text = с҃нъ же оубо ч҃лвчскꙑ идетъ ѣкоже естъ писано о немь
 # sent_id = 37187
-# parallel_id = bible/mark-14-21/part1
+# parallel_id = bible/mark-14-21/alt2part1
 1	с҃нъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=1|Ref=MARK_14.21
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MARK_14.21
 3	оубо	оубо	ADV	Df	_	5	discourse	_	Ref=MARK_14.21
@@ -21262,7 +21262,7 @@
 # source = Codex Marianus, Mark 14
 # text = Горе же ч҃лвкоу томоу имъже с҃нъ ч҃лвчскꙑ прѣдаатъ сѧ
 # sent_id = 56942
-# parallel_id = bible/mark-14-21/part2
+# parallel_id = bible/mark-14-21/alt2part2
 1	Горе	горѥ	INTJ	I-	_	0	root	_	Ref=MARK_14.21
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MARK_14.21
 3	ч҃лвкоу	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MARK_14.21
@@ -21276,7 +21276,7 @@
 # source = Codex Marianus, Mark 14
 # text = добро би емоу бꙑло аште не би родилъ сѧ ч҃лвѣко тъ
 # sent_id = 37188
-# parallel_id = bible/mark-14-21/part3
+# parallel_id = bible/mark-14-21/alt2part3
 1	добро	добръ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Ref=MARK_14.21
 2	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	Ref=MARK_14.21
 3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	1	obl	_	Ref=MARK_14.21
@@ -21292,7 +21292,7 @@
 # source = Codex Marianus, Mark 14
 # text = Ꙇ ѣдѫштемъ имъ приемъ и҃съ хлѣбъ б҃лгслвештъ прѣломи
 # sent_id = 37190
-# parallel_id = bible/mark-14-22/part1
+# parallel_id = bible/mark-14-22/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	8	cc	_	Ref=MARK_14.22
 2	ѣдѫштемъ	ꙗсти	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	Ref=MARK_14.22
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Ref=MARK_14.22
@@ -21305,7 +21305,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ дастъ имъ и рече
 # sent_id = 37191
-# parallel_id = bible/mark-14-22/part2
+# parallel_id = bible/mark-14-22/alt2part2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.22
 2	дастъ	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.22
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.22
@@ -21315,13 +21315,13 @@
 # source = Codex Marianus, Mark 14
 # text = приимѣте
 # sent_id = 50539
-# parallel_id = bible/mark-14-22/part3
+# parallel_id = bible/mark-14-22/alt2part3
 1	приимѣте	приѩти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.22
 
 # source = Codex Marianus, Mark 14
 # text = се естъ тѣло мое
 # sent_id = 50540
-# parallel_id = bible/mark-14-22/part4
+# parallel_id = bible/mark-14-22/alt2part4
 1	се	сь	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=MARK_14.22
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MARK_14.22
 3	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=MARK_14.22
@@ -21330,7 +21330,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ приимъ чашѫ хвалѫ въздавъ дастъ имъ ꙇ пишѧ отъ неѩ вьси
 # sent_id = 37193
-# parallel_id = bible/mark-14-23
+# parallel_id = bible/mark-14-23/alt2
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.23
 2	приимъ	приѩти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.23
 3	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Ref=MARK_14.23
@@ -21347,7 +21347,7 @@
 # source = Codex Marianus, Mark 14
 # text = и рече имъ
 # sent_id = 50541
-# parallel_id = bible/mark-14-24/part1
+# parallel_id = bible/mark-14-24/alt2part1
 1	и	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.24
 2	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.24
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.24
@@ -21355,7 +21355,7 @@
 # source = Codex Marianus, Mark 14
 # text = се естъ кръвь моѣ новааго завѣта проливаема за мъногꙑ
 # sent_id = 50542
-# parallel_id = bible/mark-14-24/part2
+# parallel_id = bible/mark-14-24/alt2part2
 1	се	сь	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Ref=MARK_14.24
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MARK_14.24
 3	кръвь	кръвь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=MARK_14.24
@@ -21369,7 +21369,7 @@
 # source = Codex Marianus, Mark 14
 # text = Аминь же г҃лѭ вамъ ѣко юже не имамъ пити отъ плода лозънааго до того дьне егда пьѭ ино въ ц҃срствии б҃жии
 # sent_id = 37196
-# parallel_id = bible/mark-14-25
+# parallel_id = bible/mark-14-25/alt2
 1	Аминь	аминъ	INTJ	I-	_	3	discourse	_	Ref=MARK_14.25
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.25
 3	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.25
@@ -21395,7 +21395,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ въспѣвъше изидѫ въ горѫ елеонъскѫ
 # sent_id = 37197
-# parallel_id = bible/mark-14-26
+# parallel_id = bible/mark-14-26/alt2
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MARK_14.26
 2	въспѣвъше	въспѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	3	advcl	_	Ref=MARK_14.26
 3	изидѫ	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.26
@@ -21406,7 +21406,7 @@
 # source = Codex Marianus, Mark 14
 # text = Ꙇ҅ г҃ла имъ и҃съ ѣко
 # sent_id = 50543
-# parallel_id = bible/mark-14-27/part1
+# parallel_id = bible/mark-14-27/alt2part1
 1	Ꙇ҅	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.27
 2	г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.27
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.27
@@ -21416,7 +21416,7 @@
 # source = Codex Marianus, Mark 14
 # text = вьси съблазните сѧ о мьнѣ вь сиѭ ноштъ
 # sent_id = 50544
-# parallel_id = bible/mark-14-27/part2
+# parallel_id = bible/mark-14-27/alt2part2
 1	вьси	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Ref=MARK_14.27
 2	съблазните	съблазнити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.27
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MARK_14.27
@@ -21429,7 +21429,7 @@
 # source = Codex Marianus, Mark 14
 # text = писано бо естъ
 # sent_id = 50545
-# parallel_id = bible/mark-14-27/part3
+# parallel_id = bible/mark-14-27/alt2part3
 1	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_14.27
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MARK_14.27
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_14.27
@@ -21437,7 +21437,7 @@
 # source = Codex Marianus, Mark 14
 # text = Поражѫ пастꙑрѣ и овъцѧ разбѣгнѫтъ сѧ
 # sent_id = 37199
-# parallel_id = bible/mark-14-27/part4
+# parallel_id = bible/mark-14-27/alt2part4
 1	Поражѫ	поразити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.27
 2	пастꙑрѣ	пастꙑрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	Ref=MARK_14.27
 3	и	и	CCONJ	C-	_	5	cc	_	Ref=MARK_14.27
@@ -21448,7 +21448,7 @@
 # source = Codex Marianus, Mark 14
 # text = Нъ по томь егда вьскрьснѫ варѭ вꙑ въ галилеи
 # sent_id = 37200
-# parallel_id = bible/mark-14-28
+# parallel_id = bible/mark-14-28/alt2
 1	Нъ	нъ	CCONJ	C-	_	6	cc	_	Ref=MARK_14.28
 2	по	по	ADP	R-	_	3	case	_	Ref=MARK_14.28
 3	томь	тъ	PRON	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	Ref=MARK_14.28
@@ -21462,7 +21462,7 @@
 # source = Codex Marianus, Mark 14
 # text = петръ же рече емоу
 # sent_id = 37201
-# parallel_id = bible/mark-14-29/part1
+# parallel_id = bible/mark-14-29/alt2part1
 1	петръ	петръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.29
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.29
 3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.29
@@ -21471,7 +21471,7 @@
 # source = Codex Marianus, Mark 14
 # text = и аште вьси съблазнѧтъ сѧ нъ не азъ
 # sent_id = 37202
-# parallel_id = bible/mark-14-29/part2
+# parallel_id = bible/mark-14-29/alt2part2
 1	и	и	ADV	Df	_	4	advmod	_	Ref=MARK_14.29
 2	аште	аще	SCONJ	G-	_	4	mark	_	Ref=MARK_14.29
 3	вьси	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_14.29
@@ -21484,7 +21484,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ г҃ла емоу и҃съ
 # sent_id = 50546
-# parallel_id = bible/mark-14-30/part1
+# parallel_id = bible/mark-14-30/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.30
 2	г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.30
 3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.30
@@ -21493,7 +21493,7 @@
 # source = Codex Marianus, Mark 14
 # text = Аминь г҃лѭ ти ѣко
 # sent_id = 50547
-# parallel_id = bible/mark-14-30/part2
+# parallel_id = bible/mark-14-30/alt2part2
 1	Аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MARK_14.30
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.30
 3	ти	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	obl:arg	_	Ref=MARK_14.30
@@ -21502,7 +21502,7 @@
 # source = Codex Marianus, Mark 14
 # text = тꙑ дьнесь вь сьѭ ноштъ прѣжде даже въторицеѭ кокотъ не в҃ъзгласитъ три кратꙑ отъвръжеши сѧ мене
 # sent_id = 37204
-# parallel_id = bible/mark-14-30/part3
+# parallel_id = bible/mark-14-30/alt2part3
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	Ref=MARK_14.30
 2	дьнесь	дьньсь	ADV	Df	_	14	advmod	_	Ref=MARK_14.30
 3	вь	въ	ADP	R-	_	5	case	_	Ref=MARK_14.30
@@ -21523,7 +21523,7 @@
 # source = Codex Marianus, Mark 14
 # text = онъ же излиха г҃лааше паче
 # sent_id = 37205
-# parallel_id = bible/mark-14-31/part1
+# parallel_id = bible/mark-14-31/alt2part1
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.31
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_14.31
 3	излиха	излиха	ADV	Df	_	4	advmod	_	Ref=MARK_14.31
@@ -21533,7 +21533,7 @@
 # source = Codex Marianus, Mark 14
 # text = аште ми сѧ ключитъ съ тобоѭ оумьрѣти не отъвръгѫ сѧ тебе
 # sent_id = 37206
-# parallel_id = bible/mark-14-31/part2
+# parallel_id = bible/mark-14-31/alt2part2
 1	аште	аще	SCONJ	G-	_	4	mark	_	Ref=MARK_14.31
 2	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	Ref=MARK_14.31
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Ref=MARK_14.31
@@ -21549,7 +21549,7 @@
 # source = Codex Marianus, Mark 14
 # text = такожде и вьси г҃лаахѫ
 # sent_id = 37207
-# parallel_id = bible/mark-14-31/part3
+# parallel_id = bible/mark-14-31/alt2part3
 1	такожде	такожде	ADV	Df	_	4	advmod	_	Ref=MARK_14.31
 2	и	и	ADV	Df	_	3	advmod	_	Ref=MARK_14.31
 3	вьси	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_14.31
@@ -21558,7 +21558,7 @@
 # source = Codex Marianus, Mark 14
 # text = Придѫ вь весь еиже имѧ ꙉетъсимани ꙇ г҃ла оученикомъ своимъ
 # sent_id = 37208
-# parallel_id = bible/mark-14-32/part1
+# parallel_id = bible/mark-14-32/alt2part1
 1	Придѫ	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.32
 2	вь	въ	ADP	R-	_	3	case	_	Ref=MARK_14.32
 3	весь	вьсь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	Ref=MARK_14.32
@@ -21573,7 +21573,7 @@
 # source = Codex Marianus, Mark 14
 # text = сѧдѣте съде доньдеже шедъ помолѭ сѧ
 # sent_id = 37209
-# parallel_id = bible/mark-14-32/part2
+# parallel_id = bible/mark-14-32/alt2part2
 1	сѧдѣте	сѣсти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.32
 2	съде	сьде	ADV	Df	_	1	advmod	_	Ref=MARK_14.32
 3	доньдеже	доньде	SCONJ	G-	_	5	mark	_	Ref=MARK_14.32
@@ -21584,7 +21584,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ поѩтъ петра и иѣкова ꙇ оана съ собоѭ и начѧтъ оужасати сѧ и тѫжити ꙇ г҃ла имъ
 # sent_id = 50548
-# parallel_id = bible/mark-14-33
+# parallel_id = bible/mark-14-33/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.33
 2	поѩтъ	поѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.33
 3	петра	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	Ref=MARK_14.33
@@ -21607,7 +21607,7 @@
 # source = Codex Marianus, Mark 14
 # text = прискръбъна естъ д҃ша моѣ до съмръти
 # sent_id = 50549
-# parallel_id = bible/mark-14-34/part1
+# parallel_id = bible/mark-14-34/alt2part1
 1	прискръбъна	прискръбьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	Ref=MARK_14.34
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_14.34
 3	д҃ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MARK_14.34
@@ -21618,7 +21618,7 @@
 # source = Codex Marianus, Mark 14
 # text = пожидѣте съде и бьдите
 # sent_id = 37211
-# parallel_id = bible/mark-14-34/part2
+# parallel_id = bible/mark-14-34/alt2part2
 1	пожидѣте	пожьдати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.34
 2	съде	сьде	ADV	Df	_	1	advmod	_	Ref=MARK_14.34
 3	и	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.34
@@ -21627,7 +21627,7 @@
 # source = Codex Marianus, Mark 14
 # text = и прѣшедъ мало паде на земли и молѣаше сѧ да аште възможъно естъ мимо идетъ отъ него часъ ꙇ г҃лаше
 # sent_id = 37212
-# parallel_id = bible/mark-14-35
+# parallel_id = bible/mark-14-35/alt2
 1	и	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.35
 2	прѣшедъ	прѣити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_14.35
 3	мало	мало	ADV	Df	Degree=Pos	2	advmod	_	Ref=MARK_14.35
@@ -21652,7 +21652,7 @@
 # source = Codex Marianus, Mark 14
 # text = авва о҃тцъ въсѣ възможъна тебѣ сѫтъ
 # sent_id = 56943
-# parallel_id = bible/mark-14-36/part1
+# parallel_id = bible/mark-14-36/alt2part1
 1	авва	авва	NOUN	Nb	_	4	vocative	_	Ref=MARK_14.36
 2	о҃тцъ	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	appos	_	Ref=MARK_14.36
 3	въсѣ	вьсь	PRON	Px	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	Ref=MARK_14.36
@@ -21663,7 +21663,7 @@
 # source = Codex Marianus, Mark 14
 # text = мимо неси чашѫ сиѭ отъ мене
 # sent_id = 37214
-# parallel_id = bible/mark-14-36/part2
+# parallel_id = bible/mark-14-36/alt2part2
 1	мимо	мимонести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.36
 2	неси	неси	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	Ref=MARK_14.36
 3	чашѫ	чаша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=MARK_14.36
@@ -21674,7 +21674,7 @@
 # source = Codex Marianus, Mark 14
 # text = Нъ не ѣко азъ хоштѫ нъ еже тъ
 # sent_id = 37215
-# parallel_id = bible/mark-14-36/part3
+# parallel_id = bible/mark-14-36/alt2part3
 1	Нъ	нъ	CCONJ	C-	_	2	cc	_	Ref=MARK_14.36
 2	не	не	ADV	Df	Polarity=Neg	0	root	_	Ref=MARK_14.36
 3	ѣко	ꙗко	ADV	Dq	PronType=Rel	5	advcl	_	Ref=MARK_14.36
@@ -21687,7 +21687,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ приде ꙇ обрѣте ѩ съпѧштѧ и г҃ла петрови
 # sent_id = 37216
-# parallel_id = bible/mark-14-37/part1
+# parallel_id = bible/mark-14-37/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.37
 2	приде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.37
 3	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.37
@@ -21701,7 +21701,7 @@
 # source = Codex Marianus, Mark 14
 # text = симоне съпиши ли
 # sent_id = 37217
-# parallel_id = bible/mark-14-37/part2
+# parallel_id = bible/mark-14-37/alt2part2
 1	симоне	симонъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=MARK_14.37
 2	съпиши	съпати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.37
 3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	Ref=MARK_14.37
@@ -21709,7 +21709,7 @@
 # source = Codex Marianus, Mark 14
 # text = не възможе единого часа побъдѣти
 # sent_id = 37218
-# parallel_id = bible/mark-14-37/part3
+# parallel_id = bible/mark-14-37/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_14.37
 2	възможе	възмощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.37
 3	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc,Neut|Number=Sing	4	nummod	_	Ref=MARK_14.37
@@ -21719,7 +21719,7 @@
 # source = Codex Marianus, Mark 14
 # text = бьдите и молите сѧ да не вьнидете въ напасть
 # sent_id = 37219
-# parallel_id = bible/mark-14-38/part1
+# parallel_id = bible/mark-14-38/alt2part1
 1	бьдите	бъдѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.38
 2	и	и	CCONJ	C-	_	3	cc	_	Ref=MARK_14.38
 3	молите	молити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MARK_14.38
@@ -21733,7 +21733,7 @@
 # source = Codex Marianus, Mark 14
 # text = д҃хъ бо естъ бьдрь а плътъ немоштъна
 # sent_id = 37220
-# parallel_id = bible/mark-14-38/part2
+# parallel_id = bible/mark-14-38/alt2part2
 1	д҃хъ	доухъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.38
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MARK_14.38
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MARK_14.38
@@ -21745,7 +21745,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ пакꙑ шедъ помоли сѧ тожде слово рекъ
 # sent_id = 37221
-# parallel_id = bible/mark-14-39
+# parallel_id = bible/mark-14-39/alt2
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.39
 2	пакꙑ	пакꙑ	ADV	Df	_	3	advmod	_	Ref=MARK_14.39
 3	шедъ	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_14.39
@@ -21758,7 +21758,7 @@
 # source = Codex Marianus, Mark 14
 # text = и възврашть сѧ обрѣте ѩ пакꙑ съпѧштѧ
 # sent_id = 37222
-# parallel_id = bible/mark-14-40/part1
+# parallel_id = bible/mark-14-40/alt2part1
 1	и	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.40
 2	възврашть	възвратити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_14.40
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MARK_14.40
@@ -21770,7 +21770,7 @@
 # source = Codex Marianus, Mark 14
 # text = бѣашете бо имъ очи тѧготьнѣ ꙇ не оумѣхѫ чъто бѫ отъвѣштали емоу
 # sent_id = 37223
-# parallel_id = bible/mark-14-40/part2
+# parallel_id = bible/mark-14-40/alt2part2
 1	бѣашете	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MARK_14.40
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MARK_14.40
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	Ref=MARK_14.40
@@ -21787,7 +21787,7 @@
 # source = Codex Marianus, Mark 14
 # text = Ꙇ приде третиици
 # sent_id = 37224
-# parallel_id = bible/mark-14-41/part1
+# parallel_id = bible/mark-14-41/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.41
 2	приде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 3	третиици	третиици	ADV	Df	_	2	advmod	_	Ref=MARK_14.41
@@ -21795,7 +21795,7 @@
 # source = Codex Marianus, Mark 14
 # text = и г҃ла имъ
 # sent_id = 37225
-# parallel_id = bible/mark-14-41/part2
+# parallel_id = bible/mark-14-41/alt2part2
 1	и	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.41
 2	г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_14.41
@@ -21803,7 +21803,7 @@
 # source = Codex Marianus, Mark 14
 # text = съпите прочее҅ и почиваите
 # sent_id = 37226
-# parallel_id = bible/mark-14-41/part3
+# parallel_id = bible/mark-14-41/alt2part3
 1	съпите	съпати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 2	прочее҅	прочеѥ	ADV	Df	_	1	advmod	_	Ref=MARK_14.41
 3	и	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.41
@@ -21812,21 +21812,21 @@
 # source = Codex Marianus, Mark 14
 # text = приспѣ коньчина
 # sent_id = 50550
-# parallel_id = bible/mark-14-41/part4
+# parallel_id = bible/mark-14-41/alt2part4
 1	приспѣ	приспѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 2	коньчина	коньчина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MARK_14.41
 
 # source = Codex Marianus, Mark 14
 # text = приде часъ
 # sent_id = 50551
-# parallel_id = bible/mark-14-41/part5
+# parallel_id = bible/mark-14-41/alt2part5
 1	приде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 2	часъ	часъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MARK_14.41
 
 # source = Codex Marianus, Mark 14
 # text = се прѣдаатъ сѧ с҃нъ ч҃лвчскꙑ въ рѫцѣ грѣшъникомъ
 # sent_id = 50552
-# parallel_id = bible/mark-14-41/part6
+# parallel_id = bible/mark-14-41/alt2part6
 1	се	се	INTJ	I-	_	2	discourse	_	Ref=MARK_14.41
 2	прѣдаатъ	прѣдаꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.41
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MARK_14.41
@@ -21839,19 +21839,19 @@
 # source = Codex Marianus, Mark 14
 # text = въстанѣте
 # sent_id = 50553
-# parallel_id = bible/mark-14-42/part1
+# parallel_id = bible/mark-14-42/alt2part1
 1	въстанѣте	въстати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.42
 
 # source = Codex Marianus, Mark 14
 # text = идѣмъ
 # sent_id = 50554
-# parallel_id = bible/mark-14-42/part2
+# parallel_id = bible/mark-14-42/alt2part2
 1	идѣмъ	ити	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.42
 
 # source = Codex Marianus, Mark 14
 # text = се прѣдаѩи мѧ приближи сѧ
 # sent_id = 37229
-# parallel_id = bible/mark-14-42/part3
+# parallel_id = bible/mark-14-42/alt2part3
 1	се	се	INTJ	I-	_	4	discourse	_	Ref=MARK_14.42
 2	прѣдаѩи	прѣдаꙗти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	nsubj	_	Ref=MARK_14.42
 3	мѧ	азъ	PRON	Pp	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	Ref=MARK_14.42
@@ -21893,7 +21893,7 @@
 # source = Codex Marianus, Mark 14
 # text = Дастъ же прѣдаѩи его знамение имъ г҃лѧ
 # sent_id = 37231
-# parallel_id = bible/mark-14-44/part1
+# parallel_id = bible/mark-14-44/alt2part1
 1	Дастъ	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.44
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MARK_14.44
 3	прѣдаѩи	прѣдаꙗти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	Ref=MARK_14.44
@@ -21905,7 +21905,7 @@
 # source = Codex Marianus, Mark 14
 # text = егоже аште лобъжѫ имѣте и
 # sent_id = 37232
-# parallel_id = bible/mark-14-44/part2
+# parallel_id = bible/mark-14-44/alt2part2
 1	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	3	obj	_	Ref=MARK_14.44
 2	аште	аще	ADV	Df	_	1	advmod	_	Ref=MARK_14.44
 3	лобъжѫ	лобъзати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	Ref=MARK_14.44
@@ -21915,14 +21915,14 @@
 # source = Codex Marianus, Mark 14
 # text = тъ естъ
 # sent_id = 225419
-# parallel_id = bible/mark-14-44/part3
+# parallel_id = bible/mark-14-44/alt2part3
 1	тъ	тъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MARK_14.44
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_14.44
 
 # source = Codex Marianus, Mark 14
 # text = и ведѣте съхраньно
 # sent_id = 37233
-# parallel_id = bible/mark-14-44/part4
+# parallel_id = bible/mark-14-44/alt2part4
 1	и	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.44
 2	ведѣте	вести	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MARK_14.44
 3	съхраньно	съхраньно	ADV	Df	_	2	advmod	_	Ref=MARK_14.44
@@ -21930,7 +21930,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ пришедъ абие пристѫпь къ немоу г҃ла
 # sent_id = 37234
-# parallel_id = bible/mark-14-45/part1
+# parallel_id = bible/mark-14-45/alt2part1
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MARK_14.45
 2	пришедъ	прити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MARK_14.45
 3	абие	абиѥ	ADV	Df	_	4	advmod	_	Ref=MARK_14.45
@@ -21942,14 +21942,14 @@
 # source = Codex Marianus, Mark 14
 # text = равви равви
 # sent_id = 37235
-# parallel_id = bible/mark-14-45/part2
+# parallel_id = bible/mark-14-45/alt2part2
 1	равви	равви	NOUN	Nb	_	0	root	_	Ref=MARK_14.45
 2	равви	равви	NOUN	Nb	_	1	conj	_	Ref=MARK_14.45
 
 # source = Codex Marianus, Mark 14
 # text = ꙇ облобꙑза и
 # sent_id = 56945
-# parallel_id = bible/mark-14-45/part3
+# parallel_id = bible/mark-14-45/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.45
 2	облобꙑза	облобꙑзати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.45
 3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_14.45
@@ -21957,7 +21957,7 @@
 # source = Codex Marianus, Mark 14
 # text = они же възложишѧ рѫцѣ на нь и ѩсѧ и҅
 # sent_id = 37236
-# parallel_id = bible/mark-14-46
+# parallel_id = bible/mark-14-46/alt2
 1	они	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=MARK_14.46
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.46
 3	възложишѧ	възложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.46
@@ -21971,7 +21971,7 @@
 # source = Codex Marianus, Mark 14
 # text = единъ же отъ стоѩштихъ ꙇзвлъкъ ножъ оудари раба архиереова ꙇ оурѣза емоу оухо
 # sent_id = 37237
-# parallel_id = bible/mark-14-47
+# parallel_id = bible/mark-14-47/alt2
 1	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MARK_14.47
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MARK_14.47
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MARK_14.47
@@ -21989,7 +21989,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ отъвѣштавъ и҃съ рече имъ
 # sent_id = 37238
-# parallel_id = bible/mark-14-48/part1
+# parallel_id = bible/mark-14-48/alt2part1
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.48
 2	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_14.48
 3	и҃съ	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.48
@@ -21999,7 +21999,7 @@
 # source = Codex Marianus, Mark 14
 # text = ѣко на разбоиника ли изидете съ орѫжьемь и дръкольми ѩти мѧ
 # sent_id = 56946
-# parallel_id = bible/mark-14-48/part2
+# parallel_id = bible/mark-14-48/alt2part2
 1	ѣко	ꙗко	ADV	Df	_	5	advmod	_	LId=1|Ref=MARK_14.48
 2	на	на	ADP	R-	_	3	case	_	Ref=MARK_14.48
 3	разбоиника	разбоиникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=MARK_14.48
@@ -22015,7 +22015,7 @@
 # source = Codex Marianus, Mark 14
 # text = по вьсѧ дьни бѣхъ въ васъ оучѧ въ ц҃ркве и не ѩсте мене
 # sent_id = 37240
-# parallel_id = bible/mark-14-49/part1
+# parallel_id = bible/mark-14-49/alt2part1
 1	по	по	ADP	R-	_	3	case	_	Ref=MARK_14.49
 2	вьсѧ	вьсь	DET	Px	Case=Acc|Gender=Fem,Masc|Number=Plur	3	det	_	Ref=MARK_14.49
 3	дьни	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	Ref=MARK_14.49
@@ -22033,7 +22033,7 @@
 # source = Codex Marianus, Mark 14
 # text = нъ да събѫдѫтъ сѧ кънигꙑ
 # sent_id = 37241
-# parallel_id = bible/mark-14-49/part2
+# parallel_id = bible/mark-14-49/alt2part2
 1	нъ	нъ	CCONJ	C-	_	3	cc	_	Ref=MARK_14.49
 2	да	да	ADV	Df	_	3	advmod	_	Ref=MARK_14.49
 3	събѫдѫтъ	събꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.49
@@ -22043,7 +22043,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ оставьше и вьси бѣжашѧ
 # sent_id = 37242
-# parallel_id = bible/mark-14-50
+# parallel_id = bible/mark-14-50/alt2
 1	ꙇ	и	CCONJ	C-	_	5	cc	_	Ref=MARK_14.50
 2	оставьше	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MARK_14.50
 3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_14.50
@@ -22053,7 +22053,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ единъ юноша етеръ по немь иде одѣнъ въ плаштаницѫ нагъ ꙇ ѩсѧ и юношѧ
 # sent_id = 37243
-# parallel_id = bible/mark-14-51
+# parallel_id = bible/mark-14-51/alt2
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MARK_14.51
 2	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	3	nummod	_	Ref=MARK_14.51
 3	юноша	юноша	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MARK_14.51
@@ -22073,7 +22073,7 @@
 # source = Codex Marianus, Mark 14
 # text = онъ же оставь плаштаницѫ нагъ бѣжа отъ нихъ
 # sent_id = 37244
-# parallel_id = bible/mark-14-52
+# parallel_id = bible/mark-14-52/alt2
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_14.52
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MARK_14.52
 3	оставь	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.52
@@ -22086,7 +22086,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ вѣсѧ и҃са къ архиереови ꙇ сънидѫ сѧ къ немоу въси архиереи ꙇ҅ старьци и кънижъници
 # sent_id = 37245
-# parallel_id = bible/mark-14-53
+# parallel_id = bible/mark-14-53/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.53
 2	вѣсѧ	вести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MARK_14.53
 3	и҃са	исоусъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	Ref=MARK_14.53
@@ -22107,7 +22107,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ петръ ꙇ҅здалече въ слѣдъ его иде до вънѫтрь въ дворъ архиереовъ и бѣ сѣдѧ съ слоугами и грѣѩ сѧ при свѣшти
 # sent_id = 37246
-# parallel_id = bible/mark-14-54
+# parallel_id = bible/mark-14-54/alt2
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MARK_14.54
 2	петръ	петръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MARK_14.54
 3	ꙇ҅здалече	издалече	ADV	Df	_	7	advmod	_	Ref=MARK_14.54
@@ -22134,7 +22134,7 @@
 # source = Codex Marianus, Mark 14
 # text = архиереи же и весь сънемъ ꙇскаахѫ на и҃са съвѣдѣтельства да и оубьѭтъ ꙇ не обрѣтаахѫ
 # sent_id = 37247
-# parallel_id = bible/mark-14-55
+# parallel_id = bible/mark-14-55/alt2
 1	архиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MARK_14.55
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MARK_14.55
 3	и	и	CCONJ	C-	_	5	cc	_	Ref=MARK_14.55
@@ -22154,7 +22154,7 @@
 # source = Codex Marianus, Mark 14
 # text = мъноѕи бо лъже съвѣдѣтельствоваахѫ на нь ꙇ не бѣахѫ равъна съвѣдѣтельства Ꙇ едини въставъше лъжѫ съвѣдѣтельствоваахѫ на нь г҃лште ѣко
 # sent_id = 50555
-# parallel_id = bible/mark-14-56
+# parallel_id = bible/mark-14-56/alt2
 1	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	nsubj	_	Ref=MARK_14.56
 2	бо	бо	ADV	Df	_	3	discourse	_	Ref=MARK_14.56
 3	лъже	лъжесъвѣдѣтельствовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.56
@@ -22179,7 +22179,7 @@
 # source = Codex Marianus, Mark 14
 # text = мꙑ слꙑшахомꙑ и г҃лѭшть ѣко
 # sent_id = 50556
-# parallel_id = bible/mark-14-58/part1
+# parallel_id = bible/mark-14-58/alt2part1
 1	мꙑ	мꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Ref=MARK_14.58
 2	слꙑшахомꙑ	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.58
 3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_14.58
@@ -22189,7 +22189,7 @@
 # source = Codex Marianus, Mark 14
 # text = азъ разорѭ ц҃рквь сиѭ рѫкотворенѫѭ ꙇ трьми дьньми инѫ нерѫкотворенѫ съзиждѫ
 # sent_id = 37249
-# parallel_id = bible/mark-14-58/part2
+# parallel_id = bible/mark-14-58/alt2part2
 1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Ref=MARK_14.58
 2	разорѭ	разорити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.58
 3	ц҃рквь	црькꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Ref=MARK_14.58
@@ -22205,7 +22205,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ тако же не бѣ равъно съвѣдѣтельство имъ
 # sent_id = 37250
-# parallel_id = bible/mark-14-59
+# parallel_id = bible/mark-14-59/alt2
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.59
 2	тако	тако	ADV	Df	_	6	advmod	_	Ref=MARK_14.59
 3	же	же	ADV	Df	_	6	discourse	_	Ref=MARK_14.59
@@ -22218,7 +22218,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ въставъ архиереи по срѣдѣ въпроси и҃са г҃лѧ
 # sent_id = 50557
-# parallel_id = bible/mark-14-60/part1
+# parallel_id = bible/mark-14-60/alt2part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.60
 2	въставъ	въстати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.60
 3	архиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_14.60
@@ -22231,7 +22231,7 @@
 # source = Codex Marianus, Mark 14
 # text = не отъвѣштаваеши ли ничесоже
 # sent_id = 50558
-# parallel_id = bible/mark-14-60/part2
+# parallel_id = bible/mark-14-60/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_14.60
 2	отъвѣштаваеши	отъвѣщавати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.60
 3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	Ref=MARK_14.60
@@ -22240,7 +22240,7 @@
 # source = Codex Marianus, Mark 14
 # text = чъто сии на тѧ съвѣдѣтельствоуѭтъ
 # sent_id = 37252
-# parallel_id = bible/mark-14-60/part3
+# parallel_id = bible/mark-14-60/alt2part3
 1	чъто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	Ref=MARK_14.60
 2	сии	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Ref=MARK_14.60
 3	на	на	ADP	R-	_	4	case	_	Ref=MARK_14.60
@@ -22250,7 +22250,7 @@
 # source = Codex Marianus, Mark 14
 # text = онъ же млъчааше ꙇ ничьсоже не отъвѣштааше
 # sent_id = 37253
-# parallel_id = bible/mark-14-61/part1
+# parallel_id = bible/mark-14-61/alt2part1
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.61
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.61
 3	млъчааше	мльчати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.61
@@ -22262,7 +22262,7 @@
 # source = Codex Marianus, Mark 14
 # text = Пакꙑ архиереи въпроси и и г҃ла емоу
 # sent_id = 50559
-# parallel_id = bible/mark-14-61/part2
+# parallel_id = bible/mark-14-61/alt2part2
 1	Пакꙑ	пакꙑ	ADV	Df	_	3	advmod	_	Ref=MARK_14.61
 2	архиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.61
 3	въпроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.61
@@ -22274,7 +22274,7 @@
 # source = Codex Marianus, Mark 14
 # text = тꙑ ли еси х҃ъ с҃нъ б҃лгсвнааго
 # sent_id = 50560
-# parallel_id = bible/mark-14-61/part3
+# parallel_id = bible/mark-14-61/alt2part3
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=MARK_14.61
 2	ли	ли	ADV	Du	PronType=Int	4	advmod	_	Ref=MARK_14.61
 3	еси	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MARK_14.61
@@ -22285,7 +22285,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ҃съ же рече
 # sent_id = 50561
-# parallel_id = bible/mark-14-62/part1
+# parallel_id = bible/mark-14-62/alt2part1
 1	ꙇ҃съ	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.62
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.62
 3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.62
@@ -22293,14 +22293,14 @@
 # source = Codex Marianus, Mark 14
 # text = азъ есмъ
 # sent_id = 50562
-# parallel_id = bible/mark-14-62/part2
+# parallel_id = bible/mark-14-62/alt2part2
 1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	0	root	_	Ref=MARK_14.62
 2	есмъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_14.62
 
 # source = Codex Marianus, Mark 14
 # text = ꙇ оузьрите с҃на ч҃лскааго о д҃еснѫѭ сѣдѧшта силꙑ ꙇ грѧдѫшта съ облакꙑ н҃бсскꙑими
 # sent_id = 37256
-# parallel_id = bible/mark-14-62/part3
+# parallel_id = bible/mark-14-62/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.62
 2	оузьрите	оузьрѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.62
 3	с҃на	сꙑнъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	LId=1|Ref=MARK_14.62
@@ -22318,7 +22318,7 @@
 # source = Codex Marianus, Mark 14
 # text = архиереи же растръзавъ ризъи своѩ г҃ла
 # sent_id = 37257
-# parallel_id = bible/mark-14-63/part1
+# parallel_id = bible/mark-14-63/alt2part1
 1	архиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_14.63
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MARK_14.63
 3	растръзавъ	растрьѕати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.63
@@ -22329,7 +22329,7 @@
 # source = Codex Marianus, Mark 14
 # text = что еште трѣбоуемъ съвѣдѣтель
 # sent_id = 37258
-# parallel_id = bible/mark-14-63/part2
+# parallel_id = bible/mark-14-63/alt2part2
 1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Ref=MARK_14.63
 2	еште	ѥще	ADV	Df	_	3	advmod	_	Ref=MARK_14.63
 3	трѣбоуемъ	трѣбовати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.63
@@ -22338,7 +22338,7 @@
 # source = Codex Marianus, Mark 14
 # text = слꙑшасте власфимиѭ его
 # sent_id = 37259
-# parallel_id = bible/mark-14-64/part1
+# parallel_id = bible/mark-14-64/alt2part1
 1	слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.64
 2	власфимиѭ	власвимиꙗ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=MARK_14.64
 3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	Ref=MARK_14.64
@@ -22346,7 +22346,7 @@
 # source = Codex Marianus, Mark 14
 # text = что вамъ сѧ авлѣатъ
 # sent_id = 37260
-# parallel_id = bible/mark-14-64/part2
+# parallel_id = bible/mark-14-64/alt2part2
 1	что	чьто	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	Ref=MARK_14.64
 2	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	obl:arg	_	Ref=MARK_14.64
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Ref=MARK_14.64
@@ -22355,7 +22355,7 @@
 # source = Codex Marianus, Mark 14
 # text = они же вьси осѫдишѧ и повинъноу бꙑти съмръти
 # sent_id = 37261
-# parallel_id = bible/mark-14-64/part3
+# parallel_id = bible/mark-14-64/alt2part3
 1	они	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_14.64
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_14.64
 3	вьси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	1	det	_	Ref=MARK_14.64
@@ -22368,7 +22368,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ начѧсѧ едини пльвати на нь ꙇ прикрꙑвати лице его и мѫчити и ꙇ г҃лати емоу
 # sent_id = 37262
-# parallel_id = bible/mark-14-65/part1
+# parallel_id = bible/mark-14-65/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.65
 2	начѧсѧ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.65
 3	едини	ѥдинъ	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Ref=MARK_14.65
@@ -22389,7 +22389,7 @@
 # source = Codex Marianus, Mark 14
 # text = прорьци намъ х҃е кто естъ оудареи тѧ
 # sent_id = 50563
-# parallel_id = bible/mark-14-65/part2
+# parallel_id = bible/mark-14-65/alt2part2
 1	прорьци	прорещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.65
 2	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	obl:arg	_	Ref=MARK_14.65
 3	х҃е	христ(ос)ъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	Ref=MARK_14.65
@@ -22401,7 +22401,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ слоугꙑ биѭште за ланитѫ прѣѩсѧ и
 # sent_id = 50564
-# parallel_id = bible/mark-14-65/part3
+# parallel_id = bible/mark-14-65/alt2part3
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.65
 2	слоугꙑ	слоуга	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MARK_14.65
 3	биѭште	бити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.65
@@ -22413,7 +22413,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ сѫштоу петрови низоу на дворѣ приде едина отъ рабꙑнь архиереовъ ꙇ видѣвъши петра грѣѭшта сѧ вьзьрѣвъши на нь г҃ла
 # sent_id = 37264
-# parallel_id = bible/mark-14-66
+# parallel_id = bible/mark-14-66/alt2
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.66
 2	сѫштоу	бꙑти	AUX	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	cop	_	Ref=MARK_14.66
 3	петрови	петръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_14.66
@@ -22438,7 +22438,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ҅ тꙑ съ назарѣниномь и҃смъ бѣ
 # sent_id = 37265
-# parallel_id = bible/mark-14-67
+# parallel_id = bible/mark-14-67/alt2
 1	ꙇ҅	и	ADV	Df	_	2	advmod	_	Ref=MARK_14.67
 2	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=MARK_14.67
 3	съ	съ	ADP	R-	_	4	case	_	Ref=MARK_14.67
@@ -22449,7 +22449,7 @@
 # source = Codex Marianus, Mark 14
 # text = О҅нъ же отъвръже сѧ г҃лѧ
 # sent_id = 37266
-# parallel_id = bible/mark-14-68/part1
+# parallel_id = bible/mark-14-68/alt2part1
 1	О҅нъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.68
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.68
 3	отъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.68
@@ -22459,7 +22459,7 @@
 # source = Codex Marianus, Mark 14
 # text = не оумѣѭ ни съвѣмь что тꙑ г҃лши
 # sent_id = 37267
-# parallel_id = bible/mark-14-68/part2
+# parallel_id = bible/mark-14-68/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_14.68
 2	оумѣѭ	оумѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.68
 3	ни	ни	CCONJ	C-	_	4	cc	_	Ref=MARK_14.68
@@ -22471,7 +22471,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ изиде вонъ на прѣдъдворие ꙇ кокотъ вьспѣтъ
 # sent_id = 37268
-# parallel_id = bible/mark-14-68/part3
+# parallel_id = bible/mark-14-68/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.68
 2	изиде	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.68
 3	вонъ	вънъ	ADV	Df	_	2	advmod	_	Ref=MARK_14.68
@@ -22484,7 +22484,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ видѣвъши и рабꙑни пакꙑ начѧтъ г҃лати къ стоѩштиимъ ѣко
 # sent_id = 37269
-# parallel_id = bible/mark-14-69/part1
+# parallel_id = bible/mark-14-69/alt2part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_14.69
 2	видѣвъши	видѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_14.69
 3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_14.69
@@ -22499,7 +22499,7 @@
 # source = Codex Marianus, Mark 14
 # text = сь естъ отъ нихъ
 # sent_id = 56947
-# parallel_id = bible/mark-14-69/part2
+# parallel_id = bible/mark-14-69/alt2part2
 1	сь	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.69
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MARK_14.69
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MARK_14.69
@@ -22508,7 +22508,7 @@
 # source = Codex Marianus, Mark 14
 # text = онъ же пакꙑ отъметааше сѧ
 # sent_id = 37270
-# parallel_id = bible/mark-14-70/part1
+# parallel_id = bible/mark-14-70/alt2part1
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.70
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_14.70
 3	пакꙑ	пакꙑ	ADV	Df	_	4	advmod	_	Ref=MARK_14.70
@@ -22518,7 +22518,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ не по мъногоу пакꙑ стоѩщеи г҃лаахѫ петрови
 # sent_id = 37271
-# parallel_id = bible/mark-14-70/part2
+# parallel_id = bible/mark-14-70/alt2part2
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MARK_14.70
 2	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MARK_14.70
 3	по	по	ADP	R-	_	4	case	_	Ref=MARK_14.70
@@ -22531,7 +22531,7 @@
 # source = Codex Marianus, Mark 14
 # text = вꙑ истинѫ отъ нихъ еси
 # sent_id = 50565
-# parallel_id = bible/mark-14-70/part3
+# parallel_id = bible/mark-14-70/alt2part3
 1	вꙑ	въ	ADP	R-	_	2	case	_	Ref=MARK_14.70
 2	истинѫ	истина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=MARK_14.70
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MARK_14.70
@@ -22541,7 +22541,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇбо галилѣанинъ еси
 # sent_id = 50566
-# parallel_id = bible/mark-14-70/part4
+# parallel_id = bible/mark-14-70/alt2part4
 1	ꙇбо	ибо	ADV	Df	_	2	discourse	_	Ref=MARK_14.70
 2	галилѣанинъ	галилеꙗнинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MARK_14.70
 3	еси	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Ref=MARK_14.70
@@ -22549,7 +22549,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ бесѣда твоѣ подобитъ сѧ
 # sent_id = 37273
-# parallel_id = bible/mark-14-70/part5
+# parallel_id = bible/mark-14-70/alt2part5
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.70
 2	бесѣда	бесѣда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MARK_14.70
 3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MARK_14.70
@@ -22559,7 +22559,7 @@
 # source = Codex Marianus, Mark 14
 # text = онъ же начѧтъ ротити сѧ и клѧти сѧ ѣко
 # sent_id = 50567
-# parallel_id = bible/mark-14-71/part1
+# parallel_id = bible/mark-14-71/alt2part1
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_14.71
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_14.71
 3	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.71
@@ -22573,7 +22573,7 @@
 # source = Codex Marianus, Mark 14
 # text = не вѣмъ ч҃лвка сего егоже г҃лте
 # sent_id = 50568
-# parallel_id = bible/mark-14-71/part2
+# parallel_id = bible/mark-14-71/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_14.71
 2	вѣмъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.71
 3	ч҃лвка	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	Ref=MARK_14.71
@@ -22584,7 +22584,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ въторицеѭ кокотъ въспѣтъ ꙇ помѣнѫ петръ г҃лъ иже рече емоу и҃съ
 # sent_id = 37275
-# parallel_id = bible/mark-14-72/part1
+# parallel_id = bible/mark-14-72/alt2part1
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_14.72
 2	въторицеѭ	въторицеѭ	ADV	Df	_	4	advmod	_	Ref=MARK_14.72
 3	кокотъ	кокотъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_14.72
@@ -22601,7 +22601,7 @@
 # source = Codex Marianus, Mark 14
 # text = прѣжде даже кокотъ не възг҃ласитъ дъва кратꙑ отъвръжеши сѧ мене три кратꙑ
 # sent_id = 37276
-# parallel_id = bible/mark-14-72/part2
+# parallel_id = bible/mark-14-72/alt2part2
 1	прѣжде	прѣжде	ADV	Df	_	5	advmod	_	Ref=MARK_14.72
 2	даже	даже	SCONJ	G-	_	5	mark	_	Ref=MARK_14.72
 3	кокотъ	кокотъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MARK_14.72
@@ -22618,7 +22618,7 @@
 # source = Codex Marianus, Mark 14
 # text = ꙇ начѧтъ плакати сѧ
 # sent_id = 37277
-# parallel_id = bible/mark-14-72/part3
+# parallel_id = bible/mark-14-72/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_14.72
 2	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_14.72
 3	плакати	плакати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	LId=1|Ref=MARK_14.72
@@ -27724,7 +27724,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Вънемл҄ѣте милостꙑн҄ѧ вашѧ не творити прѣдъ ч҃къ[і да видими бѫдете ꙇми
 # sent_id = 293648
-# parallel_id = bible/matt-6-1/part1
+# parallel_id = bible/matt-6-1/alt2part1
 1	Вънемл҄ѣте	вънимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.1
 2	милостꙑн҄ѧ	милостꙑни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_6.1
 3	вашѧ	вашь	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.1
@@ -27740,7 +27740,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште ли же ни мъздꙑ не ꙇмате отъ о҃ца вашего ꙇжь естъ на небесехъ
 # sent_id = 293650
-# parallel_id = bible/matt-6-1/part2
+# parallel_id = bible/matt-6-1/alt2part2
 1	аште	аще	SCONJ	G-	_	7	advcl	_	Ref=MATT_6.1
 2	ли	ли	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
 3	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
@@ -27759,7 +27759,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = егда оубо твориши милостꙑн҄ѭ не въстрѫби прѣдъ собоѭ ѣко упокрити творѧтъ въ сънъмиштихъ ꙇ въ стъгнахъ да прославѧтъ сѧ отъ ч҃къ
 # sent_id = 293653
-# parallel_id = bible/matt-6-2/part1
+# parallel_id = bible/matt-6-2/alt2part1
 1	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.2
 2	оубо	оубо	ADV	Df	_	6	discourse	_	Ref=MATT_6.2
 3	твориши	творити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.2
@@ -27785,7 +27785,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ
 # sent_id = 293658
-# parallel_id = bible/matt-6-2/part2
+# parallel_id = bible/matt-6-2/alt2part2
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.2
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.2
@@ -27793,7 +27793,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = въсприімѫтъ мъздѫ своѭ
 # sent_id = 293659
-# parallel_id = bible/matt-6-2/part3
+# parallel_id = bible/matt-6-2/alt2part3
 1	въсприімѫтъ	въсприѩти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 2	мъздѫ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=MATT_6.2
 3	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	det	_	Ref=MATT_6.2
@@ -27801,7 +27801,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тебѣ же творѧштю милостꙑн҄ѭ да не чюетъ шюꙇца твоѣ чьто творитъ десница твоѣ да бѫдетъ милостꙑн҄и твоѣ въ таꙇнѣ ꙇ о҃ць твои видѧ въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293660
-# parallel_id = bible/matt-6-3
+# parallel_id = bible/matt-6-3/alt2
 1	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=MATT_6.3
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.3
 3	творѧштю	творити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MATT_6.3
@@ -27834,7 +27834,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ егда молиши сѧ не бѫди ѣко ꙇ лицемѣръ
 # sent_id = 293661
-# parallel_id = bible/matt-6-5/part1
+# parallel_id = bible/matt-6-5/alt2part1
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.5
 2	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.5
 3	молиши	молити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.5
@@ -27848,7 +27848,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ѣко л҄юбѧтъ на сънъмиштихъ ꙇ въ стъгнахъ на распѫтиꙇхъ стоѩште молити сѧ да ѣвѧтъ сѧ ч҃комъ
 # sent_id = 293662
-# parallel_id = bible/matt-6-5/part2
+# parallel_id = bible/matt-6-5/alt2part2
 1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	LId=2|Ref=MATT_6.5
 2	л҄юбѧтъ	любити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	на	на	ADP	R-	_	4	case	_	Ref=MATT_6.5
@@ -27869,7 +27869,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ ѣко въспримѫтъ мъздѫ своѭ
 # sent_id = 293668
-# parallel_id = bible/matt-6-5/part3
+# parallel_id = bible/matt-6-5/alt2part3
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.5
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.5
@@ -27881,7 +27881,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тꙑ же егда молиши сѧ въниди въ клѣть твоѭ ꙇ затворь двьри твоѩ
 # sent_id = 293670
-# parallel_id = bible/matt-6-6/part1
+# parallel_id = bible/matt-6-6/alt2part1
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_6.6
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MATT_6.6
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_6.6
@@ -27899,7 +27899,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = помоли сѧ о҃цю твоемоу въ таꙇнѣ ꙇ о҃ць твои видѧи въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293673
-# parallel_id = bible/matt-6-6/part2
+# parallel_id = bible/matt-6-6/alt2part2
 1	помоли	помолити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.6
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.6
 3	о҃цю	отьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.6
@@ -27919,7 +27919,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Молѧште же сѧ не лихо г҃лѣте ѣкоже ꙇ ѩзꙑчьници
 # sent_id = 293676
-# parallel_id = bible/matt-6-7/part1
+# parallel_id = bible/matt-6-7/alt2part1
 1	Молѧште	молити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_6.7
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MATT_6.7
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
@@ -27933,7 +27933,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = мьнѧтъ сѧ ѣко въ мноѕѣ г҃лани своемь оуслꙑшани бѫдѫтъ
 # sent_id = 293678
-# parallel_id = bible/matt-6-7/part2
+# parallel_id = bible/matt-6-7/alt2part2
 1	мьнѧтъ	мьнѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.7
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
 3	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	Ref=MATT_6.7
@@ -27947,7 +27947,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не подобите сѧ оубо ꙇмъ
 # sent_id = 293680
-# parallel_id = bible/matt-6-8/part1
+# parallel_id = bible/matt-6-8/alt2part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.8
 2	подобите	подобити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.8
@@ -27957,7 +27957,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = вѣстъ бо о҃ць вашь ꙇхъже трѣбоуете прѣжде прошениѣ вашего
 # sent_id = 293681
-# parallel_id = bible/matt-6-8/part2
+# parallel_id = bible/matt-6-8/alt2part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.8
 3	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.8
@@ -27971,7 +27971,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тако оубо молите сѧ вꙑ
 # sent_id = 293683
-# parallel_id = bible/matt-6-9/part1
+# parallel_id = bible/matt-6-9/alt2part1
 1	тако	тако	ADV	Df	_	3	advmod	_	Ref=MATT_6.9
 2	оубо	оубо	ADV	Df	_	3	discourse	_	Ref=MATT_6.9
 3	молите	молити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
@@ -27981,7 +27981,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Ѡ҃че нашь ꙇже еси на небесехъ да с҃титъ сѧ ꙇмѧ твое
 # sent_id = 293684
-# parallel_id = bible/matt-6-9/part2
+# parallel_id = bible/matt-6-9/alt2part2
 1	Ѡ҃че	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_6.9
 2	нашь	нашь	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.9
 3	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.9
@@ -27997,7 +27997,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = да придетъ ц҃рствие твое
 # sent_id = 293687
-# parallel_id = bible/matt-6-10/part1
+# parallel_id = bible/matt-6-10/alt2part1
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	придетъ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	ц҃рствие	цѣсарьствиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -28006,7 +28006,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = да бѫдетъ вол҄ѣ твоѣ ѣко на н҃си ꙇ на земл҄и
 # sent_id = 293688
-# parallel_id = bible/matt-6-10/part2
+# parallel_id = bible/matt-6-10/alt2part2
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	вол҄ѣ	волꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -28021,7 +28021,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = хлѣбъ нашь настоѩшт даждь намъ днесь
 # sent_id = 293690
-# parallel_id = bible/matt-6-11
+# parallel_id = bible/matt-6-11/alt2
 1	хлѣбъ	хлѣбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=MATT_6.11
 2	нашь	нашь	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.11
 3	настоѩшт	настоꙗти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	1	acl	_	Ref=MATT_6.11
@@ -28032,7 +28032,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ отъпоусти намъ дльгꙑ нашѧ ѣко ꙇ мꙑ отъпоуштаемъ дльжьникомъ нашимъ
 # sent_id = 293691
-# parallel_id = bible/matt-6-12
+# parallel_id = bible/matt-6-12/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_6.12
 2	отъпоусти	отъпоустити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.12
 3	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	Ref=MATT_6.12
@@ -28048,7 +28048,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ не въведи насъ въ напасть нъ ꙇзбави нꙑ отъ неприѣзни ѣко твое естъ ц҃рствие ꙇ сила ꙇ с҃лав въ вѣк вѣк[омъ аминь
 # sent_id = 293693
-# parallel_id = bible/matt-6-13
+# parallel_id = bible/matt-6-13/alt2
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_6.13
 2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=MATT_6.13
 3	въведи	въвести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.13
@@ -28076,7 +28076,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Аште бо отъпоуштаете ч҃комъ съгрѣшениѣ ꙇхъ отъпоуститъ ꙇ вамъ о҃ць вашь н҃бскъꙇ
 # sent_id = 293698
-# parallel_id = bible/matt-6-14
+# parallel_id = bible/matt-6-14/alt2
 1	Аште	аще	SCONJ	G-	_	3	mark	_	Ref=MATT_6.14
 2	бо	бо	ADV	Df	_	7	discourse	_	Ref=MATT_6.14
 3	отъпоуштаете	отъпоущати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.14
@@ -28093,7 +28093,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = отъпоуститъ вамъ съгрѣшениі вашихъ
 # sent_id = 293700
-# parallel_id = bible/matt-6-15
+# parallel_id = bible/matt-6-15/alt2
 1	отъпоуститъ	отъпоустити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.15
 2	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	Ref=MATT_6.15
 3	съгрѣшениі	съгрѣшениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	1	obj	_	Ref=MATT_6.15
@@ -28102,7 +28102,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Егда постите сѧ не бѫдѣте ѣко упокрити сѣтоуѭште просмраждаѭште бо лица своѣ да бишѧ сѧ авили ч҃комъ постѧште
 # sent_id = 293702
-# parallel_id = bible/matt-6-16/part1
+# parallel_id = bible/matt-6-16/alt2part1
 1	Егда	ѥгда	ADV	Dq	PronType=Rel	2	advcl	_	Ref=MATT_6.16
 2	постите	постити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.16
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.16
@@ -28125,7 +28125,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ ѣко въсприімѫтъ мъздѫ своѭ
 # sent_id = 293707
-# parallel_id = bible/matt-6-16/part2
+# parallel_id = bible/matt-6-16/alt2part2
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.16
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.16
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.16
@@ -28137,7 +28137,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тꙑ же постѧ сѧ помажи си главѫ своѭ ꙇ лице твое оумꙑ да не авиши сѧ ч҃комъ постѧ сѧ нъ о҃цю твоемоу ꙇжь естъ въ таꙇнѣ
 # sent_id = 293709
-# parallel_id = bible/matt-6-17
+# parallel_id = bible/matt-6-17/alt2
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_6.17
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MATT_6.17
 3	постѧ	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MATT_6.17
@@ -28168,7 +28168,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ о҃ць твои видѧи въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293714
-# parallel_id = bible/matt-6-18
+# parallel_id = bible/matt-6-18/alt2
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.18
 2	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MATT_6.18
 3	твои	твои	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.18
@@ -28182,7 +28182,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не съкрꙑваите себѣ съкровишта на земи ꙇдеже чръвь ꙇ тьл҄ѣ тьлитъ ꙇдеже татие подъкопаваѭтъ ꙇ крадѫтъ
 # sent_id = 293716
-# parallel_id = bible/matt-6-19
+# parallel_id = bible/matt-6-19/alt2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.19
 2	съкрꙑваите	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.19
 3	себѣ	себе	PRON	Pk	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	Ref=MATT_6.19
@@ -28203,7 +28203,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = съкрꙑваꙇте себѣ съкровишта на н҃бсе ꙇдеже ни чръвь ни тьл҄ѣ тьлитъ ꙇдеже ни татие подъкопаѭтъ ни крадѫтъ
 # sent_id = 293719
-# parallel_id = bible/matt-6-20
+# parallel_id = bible/matt-6-20/alt2
 1	съкрꙑваꙇте	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.20
 2	себѣ	себе	PRON	Pk	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obl	_	Ref=MATT_6.20
 3	съкровишта	съкровище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Ref=MATT_6.20
@@ -28225,7 +28225,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇдеже бо естъ съкровиште ваше тоу естъ ꙇ срдьце ваше
 # sent_id = 312630
-# parallel_id = bible/matt-6-21
+# parallel_id = bible/matt-6-21/alt2
 1	ꙇдеже	идеже	ADV	Dq	PronType=Rel	6	dislocated	_	Ref=MATT_6.21
 2	бо	бо	ADV	Df	_	6	discourse	_	Ref=MATT_6.21
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.21
@@ -28240,7 +28240,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Свѣтильникъ тѣлоу естъ око
 # sent_id = 293723
-# parallel_id = bible/matt-6-22/part1
+# parallel_id = bible/matt-6-22/alt2part1
 1	Свѣтильникъ	свѣтильникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_6.22
 2	тѣлоу	тѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	Ref=MATT_6.22
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.22
@@ -28249,7 +28249,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште оубо бѫдетъ око твое просто все тѣло твое бѫдетъ свѣтъло
 # sent_id = 293724
-# parallel_id = bible/matt-6-22/part2
+# parallel_id = bible/matt-6-22/alt2part2
 1	аште	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.22
 3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
@@ -28265,7 +28265,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште ли око твое лѫкаво бѫдетъ все тѣло твое тьмъно бѫдетъ
 # sent_id = 293726
-# parallel_id = bible/matt-6-23/part1
+# parallel_id = bible/matt-6-23/alt2part1
 1	аште	аще	SCONJ	G-	_	5	mark	_	Ref=MATT_6.23
 2	ли	ли	ADV	Df	_	10	discourse	_	Ref=MATT_6.23
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_6.23
@@ -28281,7 +28281,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште оубо свѣтъ ꙇже въ тебѣ тъма естъ тѣ тъма кольми
 # sent_id = 293728
-# parallel_id = bible/matt-6-23/part2
+# parallel_id = bible/matt-6-23/alt2part2
 1	аште	аще	SCONJ	G-	_	7	mark	_	Ref=MATT_6.23
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
 3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=1|Ref=MATT_6.23
@@ -28297,7 +28297,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Никъꙇ же рабъ не можетъ двѣма г҃ма работати
 # sent_id = 293731
-# parallel_id = bible/matt-6-24/part1
+# parallel_id = bible/matt-6-24/alt2part1
 1	Никъꙇ	никꙑиже	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Ref=MATT_6.24
 2	же	же	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	fixed	_	Ref=MATT_6.24
 3	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.24
@@ -28310,7 +28310,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ли бо единого възненавидитъ а дроугаго възлюбитъ ли единого дръжитъ сѧ а о дроуѕѣмь небрѣшти въчьнетъ
 # sent_id = 293732
-# parallel_id = bible/matt-6-24/part2
+# parallel_id = bible/matt-6-24/alt2part2
 1	ли	ли	CCONJ	C-	_	4	cc	_	Ref=MATT_6.24
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_6.24
 3	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	Ref=MATT_6.24
@@ -28331,7 +28331,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не можете б҃у работати ꙇ мамонѣ
 # sent_id = 293736
-# parallel_id = bible/matt-6-24/part3
+# parallel_id = bible/matt-6-24/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.24
 2	можете	мощи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.24
 3	б҃у	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	Ref=MATT_6.24
@@ -28342,7 +28342,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Сего ради г҃л҄ѭ вамъ
 # sent_id = 293737
-# parallel_id = bible/matt-6-25/part1
+# parallel_id = bible/matt-6-25/alt2part1
 1	Сего	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	Ref=MATT_6.25
 2	ради	ради	ADP	R-	_	1	case	_	Ref=MATT_6.25
 3	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
@@ -28351,7 +28351,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не пⸯцѣте сѧ д҃шеѭ своеѭ чьто ѣсте ꙇли что пиете ни тѣломь вашимь въ что облѣчете сѧ
 # sent_id = 293738
-# parallel_id = bible/matt-6-25/part2
+# parallel_id = bible/matt-6-25/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.25
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.25
@@ -28373,7 +28373,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не д҃ша ли больши естъ пиштѧ ꙇ тѣло одеждѧ
 # sent_id = 293742
-# parallel_id = bible/matt-6-25/part3
+# parallel_id = bible/matt-6-25/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_6.25
 2	д҃ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MATT_6.25
 3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	Ref=MATT_6.25
@@ -28387,7 +28387,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = възьрите на птицѧ н҃бскꙑѩ како не сѣѭтъ ни жьн҄ѭтъ ни събираѭтъ въ житьницѫ ꙇ о҃ць вашь н҃ебскъꙇ питѣетъ ѩ
 # sent_id = 293744
-# parallel_id = bible/matt-6-26/part1
+# parallel_id = bible/matt-6-26/alt2part1
 1	възьрите	възьрѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.26
 2	на	на	ADP	R-	_	3	case	_	Ref=MATT_6.26
 3	птицѧ	пътица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	Ref=MATT_6.26
@@ -28411,7 +28411,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не вꙑ ли паче лоучьши ꙇхъ есте
 # sent_id = 293748
-# parallel_id = bible/matt-6-26/part2
+# parallel_id = bible/matt-6-26/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	5	advmod	_	Ref=MATT_6.26
 2	вꙑ	вꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_6.26
 3	ли	ли	ADV	Du	PronType=Int	5	advmod	_	Ref=MATT_6.26
@@ -28423,7 +28423,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = кⸯто же отъ васъ пекꙑ сѧ можетъ приложити тѣлеси своемь лакъть единъ
 # sent_id = 293749
-# parallel_id = bible/matt-6-27
+# parallel_id = bible/matt-6-27/alt2
 1	кⸯто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	5	nsubj	_	Ref=MATT_6.27
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.27
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_6.27
@@ -28440,7 +28440,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ о одежди чьто сѧ печете
 # sent_id = 293751
-# parallel_id = bible/matt-6-28/part1
+# parallel_id = bible/matt-6-28/alt2part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MATT_6.28
 2	о	о	ADP	R-	_	3	case	_	Ref=MATT_6.28
 3	одежди	одежда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	Ref=MATT_6.28
@@ -28451,7 +28451,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = съмотрите цвѣтъ селънъꙇхъ како растѫтъ
 # sent_id = 293752
-# parallel_id = bible/matt-6-28/part2
+# parallel_id = bible/matt-6-28/alt2part2
 1	съмотрите	съмотрити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 2	цвѣтъ	цвѣтъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=MATT_6.28
 3	селънъꙇхъ	сельнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	Ref=MATT_6.28
@@ -28461,7 +28461,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не троуждаѭтъ сѧ ни придѫтъ
 # sent_id = 293753
-# parallel_id = bible/matt-6-28/part3
+# parallel_id = bible/matt-6-28/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.28
 2	троуждаѭтъ	троуждати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.28
@@ -28471,7 +28471,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = г҃л҄ѭ же вамъ ѣко ни соломунъ въ всеи славѣ своеи облѣче сѧ ѣко единъ отъ сихъ
 # sent_id = 293754
-# parallel_id = bible/matt-6-29
+# parallel_id = bible/matt-6-29/alt2
 1	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.29
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.29
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	Ref=MATT_6.29
@@ -28492,7 +28492,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште же сѣно дьньсь сѫштее а оутрѣ въ огн҄ь въмѣтаемо б҃ъ тако одѣетъ колми паче васъ маловѣри
 # sent_id = 293758
-# parallel_id = bible/matt-6-30
+# parallel_id = bible/matt-6-30/alt2
 1	аште	аще	SCONJ	G-	_	13	mark	_	Ref=MATT_6.30
 2	же	же	ADV	Df	_	16	discourse	_	Ref=MATT_6.30
 3	сѣно	сѣно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	Ref=MATT_6.30
@@ -28514,7 +28514,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не пⸯцѣте сѧ оубо г҃л҄ѭште
 # sent_id = 293762
-# parallel_id = bible/matt-6-31/part1
+# parallel_id = bible/matt-6-31/alt2part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.31
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.31
@@ -28524,7 +28524,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = чьто ѣмъ ли чьто пиемъ
 # sent_id = 293763
-# parallel_id = bible/matt-6-31/part2
+# parallel_id = bible/matt-6-31/alt2part2
 1	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	Ref=MATT_6.31
 2	ѣмъ	ꙗсти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	ли	ли	CCONJ	C-	_	5	cc	_	Ref=MATT_6.31
@@ -28534,7 +28534,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ли чимь одеждемъ сѧ
 # sent_id = 293764
-# parallel_id = bible/matt-6-31/part3
+# parallel_id = bible/matt-6-31/alt2part3
 1	ли	ли	CCONJ	C-	_	3	cc	_	Ref=MATT_6.31
 2	чимь	чьто	PRON	Pi	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	3	obl:arg	_	Ref=MATT_6.31
 3	одеждемъ	одѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
@@ -28543,7 +28543,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = всѣхъ бо сихъ ѩзꙑци ꙇштѫтъ
 # sent_id = 293765
-# parallel_id = bible/matt-6-32/part1
+# parallel_id = bible/matt-6-32/alt2part1
 1	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Plur	3	det	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.32
 3	сихъ	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Plur	5	obl:arg	_	Ref=MATT_6.32
@@ -28553,7 +28553,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = вѣстъ бо о҃ць вашь н҃ебскꙑ ѣко трѣбоуете сихъ вьсѣхъ
 # sent_id = 293766
-# parallel_id = bible/matt-6-32/part2
+# parallel_id = bible/matt-6-32/alt2part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.32
 3	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.32
@@ -28567,7 +28567,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇштѣте же прѣжде ц҃рствиѣ б҃жиѣ ꙇ правъдꙑ его ꙇ си всѣ приложѧтъ сѧ вамъ
 # sent_id = 293768
-# parallel_id = bible/matt-6-33
+# parallel_id = bible/matt-6-33/alt2
 1	ꙇштѣте	искати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.33
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.33
 3	прѣжде	прѣжде	ADV	Df	_	1	advmod	_	Ref=MATT_6.33
@@ -28586,7 +28586,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Не пⸯцѣте сѧ оубо на оутрѣи
 # sent_id = 293771
-# parallel_id = bible/matt-6-34/part1
+# parallel_id = bible/matt-6-34/alt2part1
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.34
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.34
@@ -28597,7 +28597,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = оутрьн҄и бо днь собоѭ печетъ сѧ
 # sent_id = 293772
-# parallel_id = bible/matt-6-34/part2
+# parallel_id = bible/matt-6-34/alt2part2
 1	оутрьн҄и	оутрьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Ref=MATT_6.34
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.34
 3	днь	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.34
@@ -28608,7 +28608,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = довьл҄етъ дьни зълоба своѣ
 # sent_id = 293773
-# parallel_id = bible/matt-6-34/part3
+# parallel_id = bible/matt-6-34/alt2part3
 1	довьл҄етъ	довьлѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 2	дьни	дьнь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.34
 3	зълоба	зълоба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MATT_6.34
@@ -28617,7 +28617,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ абье на оутрьѣ съвѣтъ створишѧ архⸯиереі съ старⸯци ꙇ кънижьникꙑ ꙇ вьсь сънъмъ съвѧзавъше ꙇ҃са ведошѧ ꙇ прѣдашѧ і пилатови
 # sent_id = 297679
-# parallel_id = bible/mark-15-1
+# parallel_id = bible/mark-15-1/alt2
 1	Ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_15.1
 2	абье	абиѥ	ADV	Df	_	6	advmod	_	Ref=MARK_15.1
 3	на	на	ADP	R-	_	4	case	_	Ref=MARK_15.1
@@ -28643,7 +28643,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ въпроси і пилатъ
 # sent_id = 297680
-# parallel_id = bible/mark-15-2/part1
+# parallel_id = bible/mark-15-2/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.2
 2	въпроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.2
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.2
@@ -28652,7 +28652,7 @@
 # source = Codex Zographensis, Mark 15
 # text = тꙑ ли еси ц҃рь ꙇюдеꙇскъ
 # sent_id = 297681
-# parallel_id = bible/mark-15-2/part2
+# parallel_id = bible/mark-15-2/alt2part2
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	Ref=MARK_15.2
 2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	Ref=MARK_15.2
 3	еси	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MARK_15.2
@@ -28662,7 +28662,7 @@
 # source = Codex Zographensis, Mark 15
 # text = онъ же отъвѣштавъ рече емоу
 # sent_id = 297682
-# parallel_id = bible/mark-15-2/part3
+# parallel_id = bible/mark-15-2/alt2part3
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_15.2
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.2
 3	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_15.2
@@ -28672,14 +28672,14 @@
 # source = Codex Zographensis, Mark 15
 # text = тꙑ г҃леши
 # sent_id = 297683
-# parallel_id = bible/mark-15-2/part4
+# parallel_id = bible/mark-15-2/alt2part4
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Ref=MARK_15.2
 2	г҃леши	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.2
 
 # source = Codex Zographensis, Mark 15
 # text = ꙇ г҃лаахѫ на н҄ь архиерѣі много
 # sent_id = 297684
-# parallel_id = bible/mark-15-3/part1
+# parallel_id = bible/mark-15-3/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.3
 2	г҃лаахѫ	глаголати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.3
 3	на	на	ADP	R-	_	4	case	_	Ref=MARK_15.3
@@ -28690,7 +28690,7 @@
 # source = Codex Zographensis, Mark 15
 # text = онъ же ничьсоже не отъвѣштавааше
 # sent_id = 297685
-# parallel_id = bible/mark-15-3/part2
+# parallel_id = bible/mark-15-3/alt2part2
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MARK_15.3
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MARK_15.3
 3	ничьсоже	ничьтоже	PRON	Px	Case=Gen|Gender=Neut|Number=Sing	5	obj	_	Ref=MARK_15.3
@@ -28700,7 +28700,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Пилатъ же пакꙑ въпрашааше і г҃лѧ
 # sent_id = 297686
-# parallel_id = bible/mark-15-4/part1
+# parallel_id = bible/mark-15-4/alt2part1
 1	Пилатъ	пилатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_15.4
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.4
 3	пакꙑ	пакꙑ	ADV	Df	_	4	advmod	_	Ref=MARK_15.4
@@ -28711,7 +28711,7 @@
 # source = Codex Zographensis, Mark 15
 # text = не отъвѣштаваеши ли ничьсоже
 # sent_id = 297687
-# parallel_id = bible/mark-15-4/part2
+# parallel_id = bible/mark-15-4/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MARK_15.4
 2	отъвѣштаваеши	отъвѣщавати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.4
 3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	Ref=MARK_15.4
@@ -28720,7 +28720,7 @@
 # source = Codex Zographensis, Mark 15
 # text = виждь колико на тѧ съвѣдѣтел҄ьствоуѭтъ
 # sent_id = 297688
-# parallel_id = bible/mark-15-4/part3
+# parallel_id = bible/mark-15-4/alt2part3
 1	виждь	видѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.4
 2	колико	колико	ADV	Du	PronType=Int	5	obj	_	Ref=MARK_15.4
 3	на	на	ADP	R-	_	4	case	_	Ref=MARK_15.4
@@ -28730,7 +28730,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ҃с же къ н҄емоу ничьсоже не отъвѣшта ѣко дивити сѧ пилатови
 # sent_id = 297689
-# parallel_id = bible/mark-15-5
+# parallel_id = bible/mark-15-5/alt2
 1	ꙇ҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MARK_15.5
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MARK_15.5
 3	къ	къ	ADP	R-	_	4	case	_	Ref=MARK_15.5
@@ -28746,7 +28746,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Бѣ же нарицаемъꙇ вараава съ своіми ковьникꙑ съвѧзанъ ꙇже въ горѣ оубьіства створишѧ
 # sent_id = 297691
-# parallel_id = bible/mark-15-7
+# parallel_id = bible/mark-15-7/alt2
 1	Бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MARK_15.7
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.7
 3	нарицаемъꙇ	нарицати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_15.7
@@ -28764,7 +28764,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ възъпивъ народъ начѧ просити ѣкоже творѣаше ꙇмъ
 # sent_id = 297692
-# parallel_id = bible/mark-15-8
+# parallel_id = bible/mark-15-8/alt2
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_15.8
 2	възъпивъ	възъпити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	Ref=MARK_15.8
 3	народъ	народъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_15.8
@@ -28777,7 +28777,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Пилатъ же отъвѣшта ꙇмъ г҃лѧ
 # sent_id = 297693
-# parallel_id = bible/mark-15-9/part1
+# parallel_id = bible/mark-15-9/alt2part1
 1	Пилатъ	пилатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_15.9
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.9
 3	отъвѣшта	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.9
@@ -28787,7 +28787,7 @@
 # source = Codex Zographensis, Mark 15
 # text = хоштете ли да отъпоуштѫ вамъ ц҃рѣ ꙇюдеꙇска
 # sent_id = 297694
-# parallel_id = bible/mark-15-9/part2
+# parallel_id = bible/mark-15-9/alt2part2
 1	хоштете	хотѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.9
 2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	Ref=MARK_15.9
 3	да	да	SCONJ	G-	_	4	mark	_	Ref=MARK_15.9
@@ -28799,7 +28799,7 @@
 # source = Codex Zographensis, Mark 15
 # text = вѣдѣаше бо ѣко зависти ради прѣдашѧ і архⸯиереі
 # sent_id = 297695
-# parallel_id = bible/mark-15-10
+# parallel_id = bible/mark-15-10/alt2
 1	вѣдѣаше	вѣдѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.10
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MARK_15.10
 3	ѣко	ꙗко	SCONJ	G-	_	6	mark	_	Ref=MARK_15.10
@@ -28812,7 +28812,7 @@
 # source = Codex Zographensis, Mark 15
 # text = архⸯиереі же поманѫшѧ народоу да паче вараавѫ отъпоуститъ ꙇмъ
 # sent_id = 297696
-# parallel_id = bible/mark-15-11
+# parallel_id = bible/mark-15-11/alt2
 1	архⸯиереі	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=MARK_15.11
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.11
 3	поманѫшѧ	поманѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.11
@@ -28826,7 +28826,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Пилатъ же отъвѣштавъ пакꙑ рече
 # sent_id = 297697
-# parallel_id = bible/mark-15-12/part1
+# parallel_id = bible/mark-15-12/alt2part1
 1	Пилатъ	пилатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MARK_15.12
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MARK_15.12
 3	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MARK_15.12
@@ -28836,7 +28836,7 @@
 # source = Codex Zographensis, Mark 15
 # text = чьто оубо хоштете створ҄ѭ
 # sent_id = 297698
-# parallel_id = bible/mark-15-12/part2
+# parallel_id = bible/mark-15-12/alt2part2
 1	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	Ref=MARK_15.12
 2	оубо	оубо	ADV	Df	_	3	advmod	_	Ref=MARK_15.12
 3	хоштете	хотѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	obj	_	Ref=MARK_15.12
@@ -28845,7 +28845,7 @@
 # source = Codex Zographensis, Mark 15
 # text = егоже г҃лете ц҃рѣ ꙇюдеꙇска
 # sent_id = 297699
-# parallel_id = bible/mark-15-12/part3
+# parallel_id = bible/mark-15-12/alt2part3
 1	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	2	obj	_	Ref=MARK_15.12
 2	г҃лете	глаголати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.12
 3	ц҃рѣ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	xcomp	_	Ref=MARK_15.12
@@ -28854,7 +28854,7 @@
 # source = Codex Zographensis, Mark 15
 # text = они же паче възъпишѧ
 # sent_id = 297700
-# parallel_id = bible/mark-15-13/part1
+# parallel_id = bible/mark-15-13/alt2part1
 1	они	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_15.13
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.13
 3	паче	паче	ADV	Df	Degree=Cmp	4	advmod	_	Ref=MARK_15.13
@@ -28863,14 +28863,14 @@
 # source = Codex Zographensis, Mark 15
 # text = пропьни и
 # sent_id = 297701
-# parallel_id = bible/mark-15-13/part2
+# parallel_id = bible/mark-15-13/alt2part2
 1	пропьни	пропѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.13
 2	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	Ref=MARK_15.13
 
 # source = Codex Zographensis, Mark 15
 # text = пилатъ же г҃ла ꙇмъ
 # sent_id = 297702
-# parallel_id = bible/mark-15-14/part1
+# parallel_id = bible/mark-15-14/alt2part1
 1	пилатъ	пилатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MARK_15.14
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.14
 3	г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.14
@@ -28879,7 +28879,7 @@
 # source = Codex Zographensis, Mark 15
 # text = чьто оубо створи зъло
 # sent_id = 297703
-# parallel_id = bible/mark-15-14/part2
+# parallel_id = bible/mark-15-14/alt2part2
 1	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	Ref=MARK_15.14
 2	оубо	оубо	ADV	Df	_	3	advmod	_	Ref=MARK_15.14
 3	створи	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.14
@@ -28888,7 +28888,7 @@
 # source = Codex Zographensis, Mark 15
 # text = они же лише възъпишѧ
 # sent_id = 297704
-# parallel_id = bible/mark-15-14/part3
+# parallel_id = bible/mark-15-14/alt2part3
 1	они	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_15.14
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.14
 3	лише	лихо	ADV	Df	Degree=Cmp	4	advmod	_	Ref=MARK_15.14
@@ -28897,14 +28897,14 @@
 # source = Codex Zographensis, Mark 15
 # text = пропьни і
 # sent_id = 297705
-# parallel_id = bible/mark-15-14/part4
+# parallel_id = bible/mark-15-14/alt2part4
 1	пропьни	пропѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.14
 2	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	Ref=MARK_15.14
 
 # source = Codex Zographensis, Mark 15
 # text = Пилатъ же хотѧ народоу похоть сътворити поусти ꙇмъ вараавѫ ꙇ прѣдастъ и҃са тепъ да і распънѫтъ
 # sent_id = 297706
-# parallel_id = bible/mark-15-15
+# parallel_id = bible/mark-15-15/alt2
 1	Пилатъ	пилатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MARK_15.15
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MARK_15.15
 3	хотѧ	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MARK_15.15
@@ -28925,7 +28925,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Воꙇни же ведошѧ і вънѫтрь на дворъ еже естъ прѣторъ ꙇ призъвашѧ вьсѫ спирѫ
 # sent_id = 297707
-# parallel_id = bible/mark-15-16
+# parallel_id = bible/mark-15-16/alt2
 1	Воꙇни	воинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Ref=MARK_15.16
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.16
 3	ведошѧ	вести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MARK_15.16
@@ -28944,7 +28944,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ облѣшѧ і въ прапрѫдѫ ꙇ възложишѧ на н҄ь съплетъше трьновъ вѣньць
 # sent_id = 297708
-# parallel_id = bible/mark-15-17
+# parallel_id = bible/mark-15-17/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.17
 2	облѣшѧ	облѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.17
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.17
@@ -28961,7 +28961,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ начѧсѧ цѣловати і
 # sent_id = 297709
-# parallel_id = bible/mark-15-18/part1
+# parallel_id = bible/mark-15-18/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.18
 2	начѧсѧ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.18
 3	цѣловати	цѣловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	Ref=MARK_15.18
@@ -28970,7 +28970,7 @@
 # source = Codex Zographensis, Mark 15
 # text = радоуі сѧ ц҃рю ꙇюдѣꙇскъ
 # sent_id = 297710
-# parallel_id = bible/mark-15-18/part2
+# parallel_id = bible/mark-15-18/alt2part2
 1	радоуі	радовати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.18
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MARK_15.18
 3	ц҃рю	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MARK_15.18
@@ -28979,7 +28979,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ бьѣахѫ трьстьѭ по главѣ ꙇ пльваахѫ на н҄ь ꙇ прѣгꙑбаѭште колѣна поклан҄ѣахѫ емоу
 # sent_id = 297711
-# parallel_id = bible/mark-15-19
+# parallel_id = bible/mark-15-19/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.19
 2	бьѣахѫ	бити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.19
 3	трьстьѭ	трьсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	Ref=MARK_15.19
@@ -28998,7 +28998,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ егда порѫгашѧ сѧ емоу съвлѣшѧ съ н҄его прапрѫдъ ꙇ облѣшѧ и вь ризꙑ своѩ
 # sent_id = 297712
-# parallel_id = bible/mark-15-20/part1
+# parallel_id = bible/mark-15-20/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_15.20
 2	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MARK_15.20
 3	порѫгашѧ	порѫгати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MARK_15.20
@@ -29018,7 +29018,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ изведошѧ і да і пропьнѫтъ
 # sent_id = 297713
-# parallel_id = bible/mark-15-20/part2
+# parallel_id = bible/mark-15-20/alt2part2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.20
 2	изведошѧ	извести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.20
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.20
@@ -29029,7 +29029,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ задѣшѧ мимоходѧштю етероу симоноу к҄урѣниноу грѧдѫштю съ села о҃цю алекⸯсанⸯдровоу ꙇ р[оу]фовоу да възъметъ кръстъ его
 # sent_id = 297714
-# parallel_id = bible/mark-15-21
+# parallel_id = bible/mark-15-21/alt2
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.21
 2	задѣшѧ	задѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.21
 3	мимоходѧштю	мимоходити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	advcl	_	Ref=MARK_15.21
@@ -29051,7 +29051,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ приведошѧ і на мѣсто ꙉелъꙉота еже естъ съказаемо краниево мѣсто
 # sent_id = 297715
-# parallel_id = bible/mark-15-22
+# parallel_id = bible/mark-15-22/alt2
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.22
 2	приведошѧ	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.22
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.22
@@ -29067,7 +29067,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ даѣхѫ емоу питі оцьтъно вино
 # sent_id = 297716
-# parallel_id = bible/mark-15-23/part1
+# parallel_id = bible/mark-15-23/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.23
 2	даѣхѫ	даꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.23
 3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_15.23
@@ -29078,7 +29078,7 @@
 # source = Codex Zographensis, Mark 15
 # text = онъ же не приѩтъ
 # sent_id = 297717
-# parallel_id = bible/mark-15-23/part2
+# parallel_id = bible/mark-15-23/alt2part2
 1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MARK_15.23
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.23
 3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MARK_15.23
@@ -29087,7 +29087,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ пропьнъше і раздѣльше ризꙑ его меташѧ жрѣбьѩ о н҄ѧ
 # sent_id = 297718
-# parallel_id = bible/mark-15-24/part1
+# parallel_id = bible/mark-15-24/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MARK_15.24
 2	пропьнъше	пропѧти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MARK_15.24
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.24
@@ -29102,7 +29102,7 @@
 # source = Codex Zographensis, Mark 15
 # text = къто чьто вьзъметъ
 # sent_id = 297719
-# parallel_id = bible/mark-15-24/part2
+# parallel_id = bible/mark-15-24/alt2part2
 1	къто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	3	nsubj	_	Ref=MARK_15.24
 2	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	Ref=MARK_15.24
 3	вьзъметъ	възѧти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.24
@@ -29110,7 +29110,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Бѣ же година трьтьѣ
 # sent_id = 297720
-# parallel_id = bible/mark-15-25/part1
+# parallel_id = bible/mark-15-25/alt2part1
 1	Бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MARK_15.25
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MARK_15.25
 3	година	година	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MARK_15.25
@@ -29119,7 +29119,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ пропѧшѧ і
 # sent_id = 297721
-# parallel_id = bible/mark-15-25/part2
+# parallel_id = bible/mark-15-25/alt2part2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.25
 2	пропѧшѧ	пропѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.25
 3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Ref=MARK_15.25
@@ -29127,7 +29127,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ бѣ насⸯпанье винꙑ его напⸯсано
 # sent_id = 297722
-# parallel_id = bible/mark-15-26
+# parallel_id = bible/mark-15-26/alt2
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_15.26
 2	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MARK_15.26
 3	насⸯпанье	напьсаниѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	Ref=MARK_15.26
@@ -29138,7 +29138,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ съ н҄имь распѧшѧ два разбоꙇника единого о деснѫѭ а дроугааго о шюѭ его
 # sent_id = 297724
-# parallel_id = bible/mark-15-27
+# parallel_id = bible/mark-15-27/alt2
 1	Ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_15.27
 2	съ	съ	ADP	R-	_	3	case	_	Ref=MARK_15.27
 3	н҄имь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	Ref=MARK_15.27
@@ -29157,7 +29157,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ събꙑстъ сѧ пⸯсаное еже г҃летъ
 # sent_id = 297725
-# parallel_id = bible/mark-15-28/part1
+# parallel_id = bible/mark-15-28/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MARK_15.28
 2	събꙑстъ	събꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.28
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MARK_15.28
@@ -29168,7 +29168,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ съ безаконникома причьтенъ бꙑс
 # sent_id = 297726
-# parallel_id = bible/mark-15-28/part2
+# parallel_id = bible/mark-15-28/alt2part2
 1	Ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MARK_15.28
 2	съ	съ	ADP	R-	_	3	case	_	Ref=MARK_15.28
 3	безаконникома	безаконьникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Dual	4	obl	_	Ref=MARK_15.28
@@ -29178,7 +29178,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇ мимоходѧштеи хоул҄ѣахѫ і покꙑваѭште главами своꙇми ꙇ г҃л҄ѭште
 # sent_id = 297727
-# parallel_id = bible/mark-15-29/part1
+# parallel_id = bible/mark-15-29/alt2part1
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MARK_15.29
 2	мимоходѧштеи	мимоходити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	nsubj	_	Ref=MARK_15.29
 3	хоул҄ѣахѫ	хоулити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.29
@@ -29192,7 +29192,7 @@
 # source = Codex Zographensis, Mark 15
 # text = оувⸯва разарѣѩі цръкъве ꙇ трьми дьньми съзидаѩ с҃ъпси сѧ самъ ꙇ съниди съ к҃рста
 # sent_id = 297728
-# parallel_id = bible/mark-15-29/part2
+# parallel_id = bible/mark-15-29/alt2part2
 1	оувⸯва	оува	INTJ	I-	_	8	discourse	_	Ref=MARK_15.29
 2	разарѣѩі	разарꙗти	VERB	V-	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	vocative	_	Ref=MARK_15.29
 3	цръкъве	црькꙑ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	obj	_	Ref=MARK_15.29
@@ -29211,7 +29211,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Такожде ꙇ арⸯхиерѣі рѫгаахѫ сѧ съ кънижьникꙑ дроугъ дроугоу г҃лаахѫ
 # sent_id = 297729
-# parallel_id = bible/mark-15-31/part1
+# parallel_id = bible/mark-15-31/alt2part1
 1	Такожде	такожде	ADV	Df	_	4	advmod	_	Ref=MARK_15.31
 2	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MARK_15.31
 3	арⸯхиерѣі	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=MARK_15.31
@@ -29226,7 +29226,7 @@
 # source = Codex Zographensis, Mark 15
 # text = ꙇнꙑ с҃пе али себе не можетъ съпасти
 # sent_id = 297730
-# parallel_id = bible/mark-15-31/part2
+# parallel_id = bible/mark-15-31/alt2part2
 1	ꙇнꙑ	инъ	PRON	Px	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Ref=MARK_15.31
 2	с҃пе	съпасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MARK_15.31
 3	али	али	CCONJ	C-	_	6	cc	_	Ref=MARK_15.31
@@ -29238,7 +29238,7 @@
 # source = Codex Zographensis, Mark 15
 # text = х҃ъ ц҃рь ꙇ҃левъ да сънидетъ нꙑн҄ѣ съ к҃рста
 # sent_id = 297731
-# parallel_id = bible/mark-15-32/part1
+# parallel_id = bible/mark-15-32/alt2part1
 1	х҃ъ	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MARK_15.32
 2	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=MARK_15.32
 3	ꙇ҃левъ	издраилѥвъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	amod	_	Ref=MARK_15.32
@@ -29251,7 +29251,7 @@
 # source = Codex Zographensis, Mark 15
 # text = да видимъ ꙇ вѣрѫ ꙇмемъ
 # sent_id = 297732
-# parallel_id = bible/mark-15-32/part2
+# parallel_id = bible/mark-15-32/alt2part2
 1	да	да	SCONJ	G-	_	2	mark	_	Ref=MARK_15.32
 2	видимъ	видѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.32
 3	ꙇ	и	CCONJ	C-	_	5	cc	_	Ref=MARK_15.32
@@ -29261,7 +29261,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ пропѧтаѣ съ н҄имь поношаашете емоу
 # sent_id = 297733
-# parallel_id = bible/mark-15-32/part3
+# parallel_id = bible/mark-15-32/alt2part3
 1	Ꙇ	и	ADV	Df	_	5	advmod	_	Ref=MARK_15.32
 2	пропѧтаѣ	пропѧти	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	Ref=MARK_15.32
 3	съ	съ	ADP	R-	_	4	case	_	Ref=MARK_15.32
@@ -29272,7 +29272,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Бꙑвъши же годинѣ шестѣі тъма бꙑс по вьсеі земл҄и до девѧтꙑѩ годинꙑ
 # sent_id = 297734
-# parallel_id = bible/mark-15-33
+# parallel_id = bible/mark-15-33/alt2
 1	Бꙑвъши	бꙑти	AUX	V-	Case=Dat|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	3	cop	_	Ref=MARK_15.33
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MARK_15.33
 3	годинѣ	година	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	advcl	_	Ref=MARK_15.33
@@ -29289,7 +29289,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ въ девѧтѫѭ же годинѫ вьзъпи и҃с гласомь вельемь г҃лѧ
 # sent_id = 297735
-# parallel_id = bible/mark-15-34/part1
+# parallel_id = bible/mark-15-34/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_15.34
 2	въ	въ	ADP	R-	_	5	case	_	Ref=MARK_15.34
 3	девѧтѫѭ	девѧтъ	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	Ref=MARK_15.34
@@ -29304,7 +29304,7 @@
 # source = Codex Zographensis, Mark 15
 # text = елоі елоі лима завахътани
 # sent_id = 297736
-# parallel_id = bible/mark-15-34/part2
+# parallel_id = bible/mark-15-34/alt2part2
 1	елоі	ели	VERB	F-	_	0	root	_	Ref=MARK_15.34
 2	елоі	ели	NOUN	F-	_	1	vocative	_	Ref=MARK_15.34
 3	лима	лема	NOUN	F-	_	1	vocative	_	Ref=MARK_15.34
@@ -29313,7 +29313,7 @@
 # source = Codex Zographensis, Mark 15
 # text = еже естъ съказаемо
 # sent_id = 297737
-# parallel_id = bible/mark-15-34/part3
+# parallel_id = bible/mark-15-34/alt2part3
 1	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj:pass	_	Ref=MARK_15.34
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MARK_15.34
 3	съказаемо	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_15.34
@@ -29321,7 +29321,7 @@
 # source = Codex Zographensis, Mark 15
 # text = б҃же мои б҃же мои въскѫѭ мѧ остави
 # sent_id = 297738
-# parallel_id = bible/mark-15-34/part4
+# parallel_id = bible/mark-15-34/alt2part4
 1	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=MARK_15.34
 2	мои	мои	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MARK_15.34
 3	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=MARK_15.34
@@ -29333,7 +29333,7 @@
 # source = Codex Zographensis, Mark 15
 # text = Ꙇ етериі отъ стоѩштиіхъ слꙑшавъше г҃лаахѫ
 # sent_id = 297739
-# parallel_id = bible/mark-15-35/part1
+# parallel_id = bible/mark-15-35/alt2part1
 1	Ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MARK_15.35
 2	етериі	етеръ	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MARK_15.35
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MARK_15.35
@@ -29344,13 +29344,13 @@
 # source = Codex Zographensis, Mark 15
 # text = виждь
 # sent_id = 297740
-# parallel_id = bible/mark-15-35/part2
+# parallel_id = bible/mark-15-35/alt2part2
 1	виждь	видѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.35
 
 # source = Codex Zographensis, Mark 15
 # text = ꙇлиѭ глашаетъ
 # sent_id = 297741
-# parallel_id = bible/mark-15-35/part3
+# parallel_id = bible/mark-15-35/alt2part3
 1	ꙇлиѭ	илиꙗ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Ref=MARK_15.35
 2	глашаетъ	глашати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_15.35
 
