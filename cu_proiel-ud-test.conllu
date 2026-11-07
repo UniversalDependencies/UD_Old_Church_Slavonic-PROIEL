@@ -27724,7 +27724,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Вънемл҄ѣте милостꙑн҄ѧ вашѧ не творити прѣдъ ч҃къ[і да видими бѫдете ꙇми
 # sent_id = 293648
-# parallel_id = bible/matt-6-1/alt2part1
+# parallel_id = bible/matt-6-1/alt1part1
 1	Вънемл҄ѣте	вънимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.1
 2	милостꙑн҄ѧ	милостꙑни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_6.1
 3	вашѧ	вашь	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.1
@@ -27740,7 +27740,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште ли же ни мъздꙑ не ꙇмате отъ о҃ца вашего ꙇжь естъ на небесехъ
 # sent_id = 293650
-# parallel_id = bible/matt-6-1/alt2part2
+# parallel_id = bible/matt-6-1/alt1part2
 1	аште	аще	SCONJ	G-	_	7	advcl	_	Ref=MATT_6.1
 2	ли	ли	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
 3	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
@@ -27759,7 +27759,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = егда оубо твориши милостꙑн҄ѭ не въстрѫби прѣдъ собоѭ ѣко упокрити творѧтъ въ сънъмиштихъ ꙇ въ стъгнахъ да прославѧтъ сѧ отъ ч҃къ
 # sent_id = 293653
-# parallel_id = bible/matt-6-2/alt2part1
+# parallel_id = bible/matt-6-2/alt1part1
 1	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.2
 2	оубо	оубо	ADV	Df	_	6	discourse	_	Ref=MATT_6.2
 3	твориши	творити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.2
@@ -27785,7 +27785,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ
 # sent_id = 293658
-# parallel_id = bible/matt-6-2/alt2part2
+# parallel_id = bible/matt-6-2/alt1part2
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.2
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.2
@@ -27793,7 +27793,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = въсприімѫтъ мъздѫ своѭ
 # sent_id = 293659
-# parallel_id = bible/matt-6-2/alt2part3
+# parallel_id = bible/matt-6-2/alt1part3
 1	въсприімѫтъ	въсприѩти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 2	мъздѫ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=MATT_6.2
 3	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	det	_	Ref=MATT_6.2
@@ -27801,7 +27801,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тебѣ же творѧштю милостꙑн҄ѭ да не чюетъ шюꙇца твоѣ чьто творитъ десница твоѣ да бѫдетъ милостꙑн҄и твоѣ въ таꙇнѣ ꙇ о҃ць твои видѧ въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293660
-# parallel_id = bible/matt-6-3/alt2
+# parallel_id = bible/matt-6-3/alt1
 1	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=MATT_6.3
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.3
 3	творѧштю	творити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MATT_6.3
@@ -27834,7 +27834,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ егда молиши сѧ не бѫди ѣко ꙇ лицемѣръ
 # sent_id = 293661
-# parallel_id = bible/matt-6-5/alt2part1
+# parallel_id = bible/matt-6-5/alt1part1
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.5
 2	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.5
 3	молиши	молити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.5
@@ -27848,7 +27848,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ѣко л҄юбѧтъ на сънъмиштихъ ꙇ въ стъгнахъ на распѫтиꙇхъ стоѩште молити сѧ да ѣвѧтъ сѧ ч҃комъ
 # sent_id = 293662
-# parallel_id = bible/matt-6-5/alt2part2
+# parallel_id = bible/matt-6-5/alt1part2
 1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	LId=2|Ref=MATT_6.5
 2	л҄юбѧтъ	любити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	на	на	ADP	R-	_	4	case	_	Ref=MATT_6.5
@@ -27869,7 +27869,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ ѣко въспримѫтъ мъздѫ своѭ
 # sent_id = 293668
-# parallel_id = bible/matt-6-5/alt2part3
+# parallel_id = bible/matt-6-5/alt1part3
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.5
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.5
@@ -27881,7 +27881,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тꙑ же егда молиши сѧ въниди въ клѣть твоѭ ꙇ затворь двьри твоѩ
 # sent_id = 293670
-# parallel_id = bible/matt-6-6/alt2part1
+# parallel_id = bible/matt-6-6/alt1part1
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_6.6
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MATT_6.6
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_6.6
@@ -27899,7 +27899,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = помоли сѧ о҃цю твоемоу въ таꙇнѣ ꙇ о҃ць твои видѧи въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293673
-# parallel_id = bible/matt-6-6/alt2part2
+# parallel_id = bible/matt-6-6/alt1part2
 1	помоли	помолити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.6
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.6
 3	о҃цю	отьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.6
@@ -27919,7 +27919,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Молѧште же сѧ не лихо г҃лѣте ѣкоже ꙇ ѩзꙑчьници
 # sent_id = 293676
-# parallel_id = bible/matt-6-7/alt2part1
+# parallel_id = bible/matt-6-7/alt1part1
 1	Молѧште	молити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_6.7
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MATT_6.7
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
@@ -27933,7 +27933,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = мьнѧтъ сѧ ѣко въ мноѕѣ г҃лани своемь оуслꙑшани бѫдѫтъ
 # sent_id = 293678
-# parallel_id = bible/matt-6-7/alt2part2
+# parallel_id = bible/matt-6-7/alt1part2
 1	мьнѧтъ	мьнѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.7
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
 3	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	Ref=MATT_6.7
@@ -27947,7 +27947,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не подобите сѧ оубо ꙇмъ
 # sent_id = 293680
-# parallel_id = bible/matt-6-8/alt2part1
+# parallel_id = bible/matt-6-8/alt1part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.8
 2	подобите	подобити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.8
@@ -27957,7 +27957,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = вѣстъ бо о҃ць вашь ꙇхъже трѣбоуете прѣжде прошениѣ вашего
 # sent_id = 293681
-# parallel_id = bible/matt-6-8/alt2part2
+# parallel_id = bible/matt-6-8/alt1part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.8
 3	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.8
@@ -27971,7 +27971,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тако оубо молите сѧ вꙑ
 # sent_id = 293683
-# parallel_id = bible/matt-6-9/alt2part1
+# parallel_id = bible/matt-6-9/alt1part1
 1	тако	тако	ADV	Df	_	3	advmod	_	Ref=MATT_6.9
 2	оубо	оубо	ADV	Df	_	3	discourse	_	Ref=MATT_6.9
 3	молите	молити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
@@ -27981,7 +27981,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Ѡ҃че нашь ꙇже еси на небесехъ да с҃титъ сѧ ꙇмѧ твое
 # sent_id = 293684
-# parallel_id = bible/matt-6-9/alt2part2
+# parallel_id = bible/matt-6-9/alt1part2
 1	Ѡ҃че	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_6.9
 2	нашь	нашь	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.9
 3	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.9
@@ -27997,7 +27997,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = да придетъ ц҃рствие твое
 # sent_id = 293687
-# parallel_id = bible/matt-6-10/alt2part1
+# parallel_id = bible/matt-6-10/alt1part1
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	придетъ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	ц҃рствие	цѣсарьствиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -28006,7 +28006,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = да бѫдетъ вол҄ѣ твоѣ ѣко на н҃си ꙇ на земл҄и
 # sent_id = 293688
-# parallel_id = bible/matt-6-10/alt2part2
+# parallel_id = bible/matt-6-10/alt1part2
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	вол҄ѣ	волꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -28021,7 +28021,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = хлѣбъ нашь настоѩшт даждь намъ днесь
 # sent_id = 293690
-# parallel_id = bible/matt-6-11/alt2
+# parallel_id = bible/matt-6-11/alt1
 1	хлѣбъ	хлѣбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=MATT_6.11
 2	нашь	нашь	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.11
 3	настоѩшт	настоꙗти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	1	acl	_	Ref=MATT_6.11
@@ -28032,7 +28032,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ отъпоусти намъ дльгꙑ нашѧ ѣко ꙇ мꙑ отъпоуштаемъ дльжьникомъ нашимъ
 # sent_id = 293691
-# parallel_id = bible/matt-6-12/alt2
+# parallel_id = bible/matt-6-12/alt1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_6.12
 2	отъпоусти	отъпоустити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.12
 3	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	Ref=MATT_6.12
@@ -28048,7 +28048,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ не въведи насъ въ напасть нъ ꙇзбави нꙑ отъ неприѣзни ѣко твое естъ ц҃рствие ꙇ сила ꙇ с҃лав въ вѣк вѣк[омъ аминь
 # sent_id = 293693
-# parallel_id = bible/matt-6-13/alt2
+# parallel_id = bible/matt-6-13/alt1
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_6.13
 2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=MATT_6.13
 3	въведи	въвести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.13
@@ -28076,7 +28076,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Аште бо отъпоуштаете ч҃комъ съгрѣшениѣ ꙇхъ отъпоуститъ ꙇ вамъ о҃ць вашь н҃бскъꙇ
 # sent_id = 293698
-# parallel_id = bible/matt-6-14/alt2
+# parallel_id = bible/matt-6-14/alt1
 1	Аште	аще	SCONJ	G-	_	3	mark	_	Ref=MATT_6.14
 2	бо	бо	ADV	Df	_	7	discourse	_	Ref=MATT_6.14
 3	отъпоуштаете	отъпоущати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.14
@@ -28093,7 +28093,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = отъпоуститъ вамъ съгрѣшениі вашихъ
 # sent_id = 293700
-# parallel_id = bible/matt-6-15/alt2
+# parallel_id = bible/matt-6-15/alt1
 1	отъпоуститъ	отъпоустити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.15
 2	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	Ref=MATT_6.15
 3	съгрѣшениі	съгрѣшениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	1	obj	_	Ref=MATT_6.15
@@ -28102,7 +28102,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Егда постите сѧ не бѫдѣте ѣко упокрити сѣтоуѭште просмраждаѭште бо лица своѣ да бишѧ сѧ авили ч҃комъ постѧште
 # sent_id = 293702
-# parallel_id = bible/matt-6-16/alt2part1
+# parallel_id = bible/matt-6-16/alt1part1
 1	Егда	ѥгда	ADV	Dq	PronType=Rel	2	advcl	_	Ref=MATT_6.16
 2	постите	постити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.16
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.16
@@ -28125,7 +28125,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аминь г҃л҄ѭ вамъ ѣко въсприімѫтъ мъздѫ своѭ
 # sent_id = 293707
-# parallel_id = bible/matt-6-16/alt2part2
+# parallel_id = bible/matt-6-16/alt1part2
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.16
 2	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.16
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.16
@@ -28137,7 +28137,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = тꙑ же постѧ сѧ помажи си главѫ своѭ ꙇ лице твое оумꙑ да не авиши сѧ ч҃комъ постѧ сѧ нъ о҃цю твоемоу ꙇжь естъ въ таꙇнѣ
 # sent_id = 293709
-# parallel_id = bible/matt-6-17/alt2
+# parallel_id = bible/matt-6-17/alt1
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_6.17
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MATT_6.17
 3	постѧ	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MATT_6.17
@@ -28168,7 +28168,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ о҃ць твои видѧи въ таꙇнѣ въздастъ тебѣ авѣ
 # sent_id = 293714
-# parallel_id = bible/matt-6-18/alt2
+# parallel_id = bible/matt-6-18/alt1
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.18
 2	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MATT_6.18
 3	твои	твои	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.18
@@ -28182,7 +28182,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не съкрꙑваите себѣ съкровишта на земи ꙇдеже чръвь ꙇ тьл҄ѣ тьлитъ ꙇдеже татие подъкопаваѭтъ ꙇ крадѫтъ
 # sent_id = 293716
-# parallel_id = bible/matt-6-19/alt2
+# parallel_id = bible/matt-6-19/alt1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.19
 2	съкрꙑваите	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.19
 3	себѣ	себе	PRON	Pk	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	Ref=MATT_6.19
@@ -28203,7 +28203,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = съкрꙑваꙇте себѣ съкровишта на н҃бсе ꙇдеже ни чръвь ни тьл҄ѣ тьлитъ ꙇдеже ни татие подъкопаѭтъ ни крадѫтъ
 # sent_id = 293719
-# parallel_id = bible/matt-6-20/alt2
+# parallel_id = bible/matt-6-20/alt1
 1	съкрꙑваꙇте	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.20
 2	себѣ	себе	PRON	Pk	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obl	_	Ref=MATT_6.20
 3	съкровишта	съкровище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Ref=MATT_6.20
@@ -28225,7 +28225,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇдеже бо естъ съкровиште ваше тоу естъ ꙇ срдьце ваше
 # sent_id = 312630
-# parallel_id = bible/matt-6-21/alt2
+# parallel_id = bible/matt-6-21/alt1
 1	ꙇдеже	идеже	ADV	Dq	PronType=Rel	6	dislocated	_	Ref=MATT_6.21
 2	бо	бо	ADV	Df	_	6	discourse	_	Ref=MATT_6.21
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.21
@@ -28240,7 +28240,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Свѣтильникъ тѣлоу естъ око
 # sent_id = 293723
-# parallel_id = bible/matt-6-22/alt2part1
+# parallel_id = bible/matt-6-22/alt1part1
 1	Свѣтильникъ	свѣтильникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_6.22
 2	тѣлоу	тѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	Ref=MATT_6.22
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.22
@@ -28249,7 +28249,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште оубо бѫдетъ око твое просто все тѣло твое бѫдетъ свѣтъло
 # sent_id = 293724
-# parallel_id = bible/matt-6-22/alt2part2
+# parallel_id = bible/matt-6-22/alt1part2
 1	аште	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.22
 3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
@@ -28265,7 +28265,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште ли око твое лѫкаво бѫдетъ все тѣло твое тьмъно бѫдетъ
 # sent_id = 293726
-# parallel_id = bible/matt-6-23/alt2part1
+# parallel_id = bible/matt-6-23/alt1part1
 1	аште	аще	SCONJ	G-	_	5	mark	_	Ref=MATT_6.23
 2	ли	ли	ADV	Df	_	10	discourse	_	Ref=MATT_6.23
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_6.23
@@ -28281,7 +28281,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште оубо свѣтъ ꙇже въ тебѣ тъма естъ тѣ тъма кольми
 # sent_id = 293728
-# parallel_id = bible/matt-6-23/alt2part2
+# parallel_id = bible/matt-6-23/alt1part2
 1	аште	аще	SCONJ	G-	_	7	mark	_	Ref=MATT_6.23
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
 3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=1|Ref=MATT_6.23
@@ -28297,7 +28297,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Никъꙇ же рабъ не можетъ двѣма г҃ма работати
 # sent_id = 293731
-# parallel_id = bible/matt-6-24/alt2part1
+# parallel_id = bible/matt-6-24/alt1part1
 1	Никъꙇ	никꙑиже	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Ref=MATT_6.24
 2	же	же	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	fixed	_	Ref=MATT_6.24
 3	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.24
@@ -28310,7 +28310,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ли бо единого възненавидитъ а дроугаго възлюбитъ ли единого дръжитъ сѧ а о дроуѕѣмь небрѣшти въчьнетъ
 # sent_id = 293732
-# parallel_id = bible/matt-6-24/alt2part2
+# parallel_id = bible/matt-6-24/alt1part2
 1	ли	ли	CCONJ	C-	_	4	cc	_	Ref=MATT_6.24
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_6.24
 3	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	Ref=MATT_6.24
@@ -28331,7 +28331,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не можете б҃у работати ꙇ мамонѣ
 # sent_id = 293736
-# parallel_id = bible/matt-6-24/alt2part3
+# parallel_id = bible/matt-6-24/alt1part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.24
 2	можете	мощи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.24
 3	б҃у	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	Ref=MATT_6.24
@@ -28342,7 +28342,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Сего ради г҃л҄ѭ вамъ
 # sent_id = 293737
-# parallel_id = bible/matt-6-25/alt2part1
+# parallel_id = bible/matt-6-25/alt1part1
 1	Сего	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	Ref=MATT_6.25
 2	ради	ради	ADP	R-	_	1	case	_	Ref=MATT_6.25
 3	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
@@ -28351,7 +28351,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не пⸯцѣте сѧ д҃шеѭ своеѭ чьто ѣсте ꙇли что пиете ни тѣломь вашимь въ что облѣчете сѧ
 # sent_id = 293738
-# parallel_id = bible/matt-6-25/alt2part2
+# parallel_id = bible/matt-6-25/alt1part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.25
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.25
@@ -28373,7 +28373,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не д҃ша ли больши естъ пиштѧ ꙇ тѣло одеждѧ
 # sent_id = 293742
-# parallel_id = bible/matt-6-25/alt2part3
+# parallel_id = bible/matt-6-25/alt1part3
 1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_6.25
 2	д҃ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MATT_6.25
 3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	Ref=MATT_6.25
@@ -28387,7 +28387,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = възьрите на птицѧ н҃бскꙑѩ како не сѣѭтъ ни жьн҄ѭтъ ни събираѭтъ въ житьницѫ ꙇ о҃ць вашь н҃ебскъꙇ питѣетъ ѩ
 # sent_id = 293744
-# parallel_id = bible/matt-6-26/alt2part1
+# parallel_id = bible/matt-6-26/alt1part1
 1	възьрите	възьрѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.26
 2	на	на	ADP	R-	_	3	case	_	Ref=MATT_6.26
 3	птицѧ	пътица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	Ref=MATT_6.26
@@ -28411,7 +28411,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не вꙑ ли паче лоучьши ꙇхъ есте
 # sent_id = 293748
-# parallel_id = bible/matt-6-26/alt2part2
+# parallel_id = bible/matt-6-26/alt1part2
 1	не	не	ADV	Df	Polarity=Neg	5	advmod	_	Ref=MATT_6.26
 2	вꙑ	вꙑ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_6.26
 3	ли	ли	ADV	Du	PronType=Int	5	advmod	_	Ref=MATT_6.26
@@ -28423,7 +28423,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = кⸯто же отъ васъ пекꙑ сѧ можетъ приложити тѣлеси своемь лакъть единъ
 # sent_id = 293749
-# parallel_id = bible/matt-6-27/alt2
+# parallel_id = bible/matt-6-27/alt1
 1	кⸯто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	5	nsubj	_	Ref=MATT_6.27
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.27
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_6.27
@@ -28440,7 +28440,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇ о одежди чьто сѧ печете
 # sent_id = 293751
-# parallel_id = bible/matt-6-28/alt2part1
+# parallel_id = bible/matt-6-28/alt1part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MATT_6.28
 2	о	о	ADP	R-	_	3	case	_	Ref=MATT_6.28
 3	одежди	одежда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	Ref=MATT_6.28
@@ -28451,7 +28451,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = съмотрите цвѣтъ селънъꙇхъ како растѫтъ
 # sent_id = 293752
-# parallel_id = bible/matt-6-28/alt2part2
+# parallel_id = bible/matt-6-28/alt1part2
 1	съмотрите	съмотрити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 2	цвѣтъ	цвѣтъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=MATT_6.28
 3	селънъꙇхъ	сельнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	Ref=MATT_6.28
@@ -28461,7 +28461,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не троуждаѭтъ сѧ ни придѫтъ
 # sent_id = 293753
-# parallel_id = bible/matt-6-28/alt2part3
+# parallel_id = bible/matt-6-28/alt1part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.28
 2	троуждаѭтъ	троуждати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.28
@@ -28471,7 +28471,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = г҃л҄ѭ же вамъ ѣко ни соломунъ въ всеи славѣ своеи облѣче сѧ ѣко единъ отъ сихъ
 # sent_id = 293754
-# parallel_id = bible/matt-6-29/alt2
+# parallel_id = bible/matt-6-29/alt1
 1	г҃л҄ѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.29
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.29
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	Ref=MATT_6.29
@@ -28492,7 +28492,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = аште же сѣно дьньсь сѫштее а оутрѣ въ огн҄ь въмѣтаемо б҃ъ тако одѣетъ колми паче васъ маловѣри
 # sent_id = 293758
-# parallel_id = bible/matt-6-30/alt2
+# parallel_id = bible/matt-6-30/alt1
 1	аште	аще	SCONJ	G-	_	13	mark	_	Ref=MATT_6.30
 2	же	же	ADV	Df	_	16	discourse	_	Ref=MATT_6.30
 3	сѣно	сѣно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	Ref=MATT_6.30
@@ -28514,7 +28514,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = не пⸯцѣте сѧ оубо г҃л҄ѭште
 # sent_id = 293762
-# parallel_id = bible/matt-6-31/alt2part1
+# parallel_id = bible/matt-6-31/alt1part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.31
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.31
@@ -28524,7 +28524,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = чьто ѣмъ ли чьто пиемъ
 # sent_id = 293763
-# parallel_id = bible/matt-6-31/alt2part2
+# parallel_id = bible/matt-6-31/alt1part2
 1	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	Ref=MATT_6.31
 2	ѣмъ	ꙗсти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	ли	ли	CCONJ	C-	_	5	cc	_	Ref=MATT_6.31
@@ -28534,7 +28534,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ли чимь одеждемъ сѧ
 # sent_id = 293764
-# parallel_id = bible/matt-6-31/alt2part3
+# parallel_id = bible/matt-6-31/alt1part3
 1	ли	ли	CCONJ	C-	_	3	cc	_	Ref=MATT_6.31
 2	чимь	чьто	PRON	Pi	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	3	obl:arg	_	Ref=MATT_6.31
 3	одеждемъ	одѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
@@ -28543,7 +28543,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = всѣхъ бо сихъ ѩзꙑци ꙇштѫтъ
 # sent_id = 293765
-# parallel_id = bible/matt-6-32/alt2part1
+# parallel_id = bible/matt-6-32/alt1part1
 1	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Plur	3	det	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.32
 3	сихъ	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Plur	5	obl:arg	_	Ref=MATT_6.32
@@ -28553,7 +28553,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = вѣстъ бо о҃ць вашь н҃ебскꙑ ѣко трѣбоуете сихъ вьсѣхъ
 # sent_id = 293766
-# parallel_id = bible/matt-6-32/alt2part2
+# parallel_id = bible/matt-6-32/alt1part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.32
 3	о҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.32
@@ -28567,7 +28567,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = ꙇштѣте же прѣжде ц҃рствиѣ б҃жиѣ ꙇ правъдꙑ его ꙇ си всѣ приложѧтъ сѧ вамъ
 # sent_id = 293768
-# parallel_id = bible/matt-6-33/alt2
+# parallel_id = bible/matt-6-33/alt1
 1	ꙇштѣте	искати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.33
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.33
 3	прѣжде	прѣжде	ADV	Df	_	1	advmod	_	Ref=MATT_6.33
@@ -28586,7 +28586,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = Не пⸯцѣте сѧ оубо на оутрѣи
 # sent_id = 293771
-# parallel_id = bible/matt-6-34/alt2part1
+# parallel_id = bible/matt-6-34/alt1part1
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.34
 2	пⸯцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.34
@@ -28597,7 +28597,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = оутрьн҄и бо днь собоѭ печетъ сѧ
 # sent_id = 293772
-# parallel_id = bible/matt-6-34/alt2part2
+# parallel_id = bible/matt-6-34/alt1part2
 1	оутрьн҄и	оутрьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Ref=MATT_6.34
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.34
 3	днь	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.34
@@ -28608,7 +28608,7 @@
 # source = Codex Zographensis, Matthew 6
 # text = довьл҄етъ дьни зълоба своѣ
 # sent_id = 293773
-# parallel_id = bible/matt-6-34/alt2part3
+# parallel_id = bible/matt-6-34/alt1part3
 1	довьл҄етъ	довьлѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 2	дьни	дьнь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.34
 3	зълоба	зълоба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MATT_6.34

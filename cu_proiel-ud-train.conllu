@@ -155705,7 +155705,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Вьнемлѣте милостꙑнѧ вашеѩ не творити прѣдъ ч҃лвкꙑ да видими бѫдете ими
 # sent_id = 38408
-# parallel_id = bible/matt-6-1/alt1part1
+# parallel_id = bible/matt-6-1/alt2part1
 1	Вьнемлѣте	вънимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.1
 2	милостꙑнѧ	милостꙑни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_6.1
 3	вашеѩ	вашь	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.1
@@ -155721,7 +155721,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аште ли же ни мъздꙑ не имате отъ о҃тца вашего иже естъ на н҃бсхъ
 # sent_id = 38409
-# parallel_id = bible/matt-6-1/alt1part2
+# parallel_id = bible/matt-6-1/alt2part2
 1	аште	аще	SCONJ	G-	_	7	advcl	_	Ref=MATT_6.1
 2	ли	ли	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
 3	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.1
@@ -155740,7 +155740,7 @@
 # source = Codex Marianus, Matthew 6
 # text = егда оубо твориши милостꙑнѭ҄ не въстрѫби прѣдъ собоѭ҄ ѣко ѵпокрити творѧтъ въ съньмиштихъ и въ стъгнахъ да прославѧтъ сѧ отъ ч҃лвкъ
 # sent_id = 38410
-# parallel_id = bible/matt-6-2/alt1part1
+# parallel_id = bible/matt-6-2/alt2part1
 1	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.2
 2	оубо	оубо	ADV	Df	_	6	discourse	_	Ref=MATT_6.2
 3	твориши	творити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Ref=MATT_6.2
@@ -155766,7 +155766,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аминь г҃лѭ вамъ
 # sent_id = 50679
-# parallel_id = bible/matt-6-2/alt1part2
+# parallel_id = bible/matt-6-2/alt2part2
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.2
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.2
@@ -155774,7 +155774,7 @@
 # source = Codex Marianus, Matthew 6
 # text = вьсприимѫтъ мъздѫ своѭ҄
 # sent_id = 50680
-# parallel_id = bible/matt-6-2/alt1part3
+# parallel_id = bible/matt-6-2/alt2part3
 1	вьсприимѫтъ	въсприѩти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.2
 2	мъздѫ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	Ref=MATT_6.2
 3	своѭ҄	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	det	_	Ref=MATT_6.2
@@ -155782,7 +155782,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Тебѣ же творѧщю милостꙑнѭ да не чюетъ шюица твоѣ чьто творитъ десꙿница твоѣ да бѫдетъ милостꙑни твоѣ въ таинѣ и о҃тцъ твои видѧи въ таинѣ въздастъ тебѣ авѣ
 # sent_id = 38412
-# parallel_id = bible/matt-6-3/alt1
+# parallel_id = bible/matt-6-3/alt2
 1	Тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=MATT_6.3
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.3
 3	творѧщю	творити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	advcl	_	Ref=MATT_6.3
@@ -155815,7 +155815,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇ҅ егда молиши сѧ не бѫди ѣко и лицемѣри
 # sent_id = 38413
-# parallel_id = bible/matt-6-5/alt1part1
+# parallel_id = bible/matt-6-5/alt2part1
 1	ꙇ҅	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.5
 2	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.5
 3	молиши	молити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.5
@@ -155829,7 +155829,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ѣко любѧтъ на сонъмиштихъ и въ стъгнахъ и на распѫтихъ стоѩште молити сѧ да ѣвѧтъ сѧ чловѣкомъ
 # sent_id = 58390
-# parallel_id = bible/matt-6-5/alt1part2
+# parallel_id = bible/matt-6-5/alt2part2
 1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	LId=2|Ref=MATT_6.5
 2	любѧтъ	любити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	на	на	ADP	R-	_	4	case	_	Ref=MATT_6.5
@@ -155851,7 +155851,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аминь г҃лѭ вамъ ѣко въсприемлѭтъ мъздѫ своѭ҄
 # sent_id = 38415
-# parallel_id = bible/matt-6-5/alt1part3
+# parallel_id = bible/matt-6-5/alt2part3
 1	аминь	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.5
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.5
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.5
@@ -155863,7 +155863,7 @@
 # source = Codex Marianus, Matthew 6
 # text = тꙑ же егда молиши сѧ въниди въ клѣть твоѭ и затвори двьри твоѩ
 # sent_id = 50681
-# parallel_id = bible/matt-6-6/alt1part1
+# parallel_id = bible/matt-6-6/alt2part1
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_6.6
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.6
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_6.6
@@ -155881,7 +155881,7 @@
 # source = Codex Marianus, Matthew 6
 # text = помоли сѧ о҃тцоу твоемоу въ таинѣ ꙇ҅ о҃тцъ твои видѧи въ таинѣ въздастъ тебѣ авѣ
 # sent_id = 50682
-# parallel_id = bible/matt-6-6/alt1part2
+# parallel_id = bible/matt-6-6/alt2part2
 1	помоли	помолити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.6
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.6
 3	о҃тцоу	отьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.6
@@ -155901,7 +155901,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Молѧще же сѧ не лихо г҃лте ѣкоже и ѩзꙑчъници
 # sent_id = 38417
-# parallel_id = bible/matt-6-7/alt1part1
+# parallel_id = bible/matt-6-7/alt2part1
 1	Молѧще	молити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_6.7
 2	же	же	ADV	Df	_	6	discourse	_	Ref=MATT_6.7
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
@@ -155915,7 +155915,7 @@
 # source = Codex Marianus, Matthew 6
 # text = мьнѧтъ бо сѧ ѣко во мъноѕѣ г҃лни своемь оуслꙑшани бѫдѫтъ
 # sent_id = 38418
-# parallel_id = bible/matt-6-7/alt1part2
+# parallel_id = bible/matt-6-7/alt2part2
 1	мьнѧтъ	мьнѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.7
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.7
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=MATT_6.7
@@ -155930,7 +155930,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не подобите сѧ оубо имъ
 # sent_id = 50683
-# parallel_id = bible/matt-6-8/alt1part1
+# parallel_id = bible/matt-6-8/alt2part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.8
 2	подобите	подобити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.8
@@ -155940,7 +155940,7 @@
 # source = Codex Marianus, Matthew 6
 # text = вѣстъ бо отецъ вашъ ихъже трѣбоуете прѣжде прошениѣ вашего
 # sent_id = 50684
-# parallel_id = bible/matt-6-8/alt1part2
+# parallel_id = bible/matt-6-8/alt2part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.8
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.8
 3	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.8
@@ -155954,7 +155954,7 @@
 # source = Codex Marianus, Matthew 6
 # text = тако оубо молите вꙑ сѧ
 # sent_id = 38420
-# parallel_id = bible/matt-6-9/alt1part1
+# parallel_id = bible/matt-6-9/alt2part1
 1	тако	тако	ADV	Df	_	3	advmod	_	Ref=MATT_6.9
 2	оубо	оубо	ADV	Df	_	3	discourse	_	Ref=MATT_6.9
 3	молите	молити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
@@ -155964,7 +155964,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Ѡ҅тьче нашъ иже си на н҃бсхъ да с҃вт сѧ имѧ твое
 # sent_id = 38421
-# parallel_id = bible/matt-6-9/alt1part2
+# parallel_id = bible/matt-6-9/alt2part2
 1	Ѡ҅тьче	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_6.9
 2	нашъ	нашь	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.9
 3	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.9
@@ -155980,7 +155980,7 @@
 # source = Codex Marianus, Matthew 6
 # text = да придетъ ц҃срествие твое
 # sent_id = 50685
-# parallel_id = bible/matt-6-10/alt1part1
+# parallel_id = bible/matt-6-10/alt2part1
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	придетъ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	ц҃срествие	цѣсарьствиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -155989,7 +155989,7 @@
 # source = Codex Marianus, Matthew 6
 # text = да бодетъ волѣ твоѣ ѣко на н҃бси и на земи
 # sent_id = 50686
-# parallel_id = bible/matt-6-10/alt1part2
+# parallel_id = bible/matt-6-10/alt2part2
 1	да	да	ADV	Df	_	2	advmod	_	Ref=MATT_6.10
 2	бодетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.10
 3	волѣ	волꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Ref=MATT_6.10
@@ -156004,7 +156004,7 @@
 # source = Codex Marianus, Matthew 6
 # text = хлѣбъ нашъ наставъшааго дьне даждъ намъ дънесь
 # sent_id = 38423
-# parallel_id = bible/matt-6-11/alt1
+# parallel_id = bible/matt-6-11/alt2
 1	хлѣбъ	хлѣбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Ref=MATT_6.11
 2	нашъ	нашь	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.11
 3	наставъшааго	настати	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	Ref=MATT_6.11
@@ -156016,7 +156016,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇ отъпоусти намъ длъгꙑ нашѧ ѣко и мꙑ отъпоуштаемъ длъжъникомъ нашимъ
 # sent_id = 38424
-# parallel_id = bible/matt-6-12/alt1
+# parallel_id = bible/matt-6-12/alt2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_6.12
 2	отъпоусти	отъпоустити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.12
 3	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	Ref=MATT_6.12
@@ -156032,7 +156032,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇ не вьведи насъ въ напасть нь избави нꙑ отъ неприѣзни ѣко твое естъ ц҃срствие ꙇ сила и слава вь вѣкꙑ аминь
 # sent_id = 38425
-# parallel_id = bible/matt-6-13/alt1
+# parallel_id = bible/matt-6-13/alt2
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_6.13
 2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=MATT_6.13
 3	вьведи	въвести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.13
@@ -156059,7 +156059,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Аще оубо отъпоущаете ч҃лвкмъ съгрѣшениѣ ихъ отъпоуститъ и вамъ о҃тцъ вашъ н҃ебескꙑ
 # sent_id = 38426
-# parallel_id = bible/matt-6-14/alt1
+# parallel_id = bible/matt-6-14/alt2
 1	Аще	аще	SCONJ	G-	_	3	mark	_	Ref=MATT_6.14
 2	оубо	оубо	ADV	Df	_	7	discourse	_	Ref=MATT_6.14
 3	отъпоущаете	отъпоущати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.14
@@ -156076,7 +156076,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аште ли не отъпоущаете ч҃лвкомъ съгрѣшени ихъ ни о҃тцъ вашъ отъпоуститъ съгрѣшении вашихъ
 # sent_id = 38427
-# parallel_id = bible/matt-6-15/alt1
+# parallel_id = bible/matt-6-15/alt2
 1	аште	аще	SCONJ	G-	_	4	mark	_	Ref=MATT_6.15
 2	ли	ли	ADV	Df	_	11	discourse	_	Ref=MATT_6.15
 3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_6.15
@@ -156094,7 +156094,7 @@
 # source = Codex Marianus, Matthew 6
 # text = егда же постите сѧ не бѫдѣте ѣко и ѵ҅покрити
 # sent_id = 50687
-# parallel_id = bible/matt-6-16/alt1part1
+# parallel_id = bible/matt-6-16/alt2part1
 1	егда	ѥгда	ADV	Dq	PronType=Rel	3	advcl	_	Ref=MATT_6.16
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.16
 3	постите	постити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=MATT_6.16
@@ -156108,7 +156108,7 @@
 # source = Codex Marianus, Matthew 6
 # text = просмраждаѭтъ бо лица своѣ да бѫ сѧ авили ч҃лвкомъ постѧще
 # sent_id = 50688
-# parallel_id = bible/matt-6-16/alt1part2
+# parallel_id = bible/matt-6-16/alt2part2
 1	просмраждаѭтъ	просмраждати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.16
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.16
 3	лица	лице	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Ref=MATT_6.16
@@ -156123,7 +156123,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аминъ г҃лѭ вамъ ѣко въсприемлѭтъ мъздѫ своѭ҄
 # sent_id = 38429
-# parallel_id = bible/matt-6-16/alt1part3
+# parallel_id = bible/matt-6-16/alt2part3
 1	аминъ	аминъ	INTJ	I-	_	2	discourse	_	Ref=MATT_6.16
 2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.16
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	Ref=MATT_6.16
@@ -156135,7 +156135,7 @@
 # source = Codex Marianus, Matthew 6
 # text = тꙑ же постѧ сѧ помажи главѫ своѭ҄ ꙇ лице твое оумꙑи да не авиши сѧ ч҃лвкмъ постѧ сѧ нъ отъцоу твоемоу иже естъ въ таинѣ
 # sent_id = 38430
-# parallel_id = bible/matt-6-17/alt1
+# parallel_id = bible/matt-6-17/alt2
 1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_6.17
 2	же	же	ADV	Df	_	5	discourse	_	Ref=MATT_6.17
 3	постѧ	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MATT_6.17
@@ -156165,7 +156165,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇ о҃тцъ твои видѧи въ таинѣ въздастъ тебѣ ѣвѣ
 # sent_id = 38431
-# parallel_id = bible/matt-6-18/alt1
+# parallel_id = bible/matt-6-18/alt2
 1	ꙇ	и	CCONJ	C-	_	7	cc	_	Ref=MATT_6.18
 2	о҃тцъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=MATT_6.18
 3	твои	твои	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	det	_	Ref=MATT_6.18
@@ -156179,7 +156179,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Не съкрꙑваите себѣ съкровишта на земи ꙇ҅деже чръвъ и тьлѣ тьлитъ ꙇ҅деже татие подъкопаваѭ҄тъ й крадѫтъ
 # sent_id = 38432
-# parallel_id = bible/matt-6-19/alt1
+# parallel_id = bible/matt-6-19/alt2
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.19
 2	съкрꙑваите	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.19
 3	себѣ	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	Ref=MATT_6.19
@@ -156200,7 +156200,7 @@
 # source = Codex Marianus, Matthew 6
 # text = съкрꙑваите же себѣ съкровишта н҃бсе ꙇдеже ни чръвь ни тьлѣ тьлитъ идеже татие не подъкопаваѭтъ ни крадѫтъ
 # sent_id = 38433
-# parallel_id = bible/matt-6-20/alt1
+# parallel_id = bible/matt-6-20/alt2
 1	съкрꙑваите	съкрꙑвати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.20
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.20
 3	себѣ	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obl	_	Ref=MATT_6.20
@@ -156222,7 +156222,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇдеже бо естъ съкровище ваше тоу и с҃рдце ваше
 # sent_id = 38434
-# parallel_id = bible/matt-6-21/alt1
+# parallel_id = bible/matt-6-21/alt2
 1	ꙇдеже	идеже	ADV	Dq	PronType=Rel	6	dislocated	_	Ref=MATT_6.21
 2	бо	бо	ADV	Df	_	6	discourse	_	Ref=MATT_6.21
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.21
@@ -156236,7 +156236,7 @@
 # source = Codex Marianus, Matthew 6
 # text = Свѣтильникъ тѣлоу естъ око
 # sent_id = 38435
-# parallel_id = bible/matt-6-22/alt1part1
+# parallel_id = bible/matt-6-22/alt2part1
 1	Свѣтильникъ	свѣтильникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_6.22
 2	тѣлоу	тѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	Ref=MATT_6.22
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_6.22
@@ -156245,7 +156245,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аще оубо бѫдетъ око твое просто вьсе тѣло твое свѣтъло бѫдетъ
 # sent_id = 38436
-# parallel_id = bible/matt-6-22/alt1part2
+# parallel_id = bible/matt-6-22/alt2part2
 1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
 2	оубо	оубо	ADV	Df	_	10	discourse	_	Ref=MATT_6.22
 3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
@@ -156261,7 +156261,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аште ли око твое лѫкаво бѫдетъ вьсе тѣло твое тьмъно бѫдетъ
 # sent_id = 38437
-# parallel_id = bible/matt-6-23/alt1part1
+# parallel_id = bible/matt-6-23/alt2part1
 1	аште	аще	SCONJ	G-	_	5	mark	_	Ref=MATT_6.23
 2	ли	ли	ADV	Df	_	10	discourse	_	Ref=MATT_6.23
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_6.23
@@ -156277,7 +156277,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аще оубо свѣтъ иже въ тебѣ тъма естъ тѣ тъма кольми
 # sent_id = 38438
-# parallel_id = bible/matt-6-23/alt1part2
+# parallel_id = bible/matt-6-23/alt2part2
 1	аще	аще	SCONJ	G-	_	7	mark	_	Ref=MATT_6.23
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
 3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=1|Ref=MATT_6.23
@@ -156293,7 +156293,7 @@
 # source = Codex Marianus, Matthew 6
 # text = никꙑ же рабъ можетъ дьвѣма господьма работати
 # sent_id = 38439
-# parallel_id = bible/matt-6-24/alt1part1
+# parallel_id = bible/matt-6-24/alt2part1
 1	никꙑ	никꙑиже	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Ref=MATT_6.24
 2	же	же	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	fixed	_	Ref=MATT_6.24
 3	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=MATT_6.24
@@ -156305,7 +156305,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ли бо единого въсненавидитъ а дроугаго вьзлюбитъ ли единого дръжитъ сѧ а о дроуѕѣемь неродити начьнетъ
 # sent_id = 50689
-# parallel_id = bible/matt-6-24/alt1part2
+# parallel_id = bible/matt-6-24/alt2part2
 1	ли	ли	CCONJ	C-	_	4	cc	_	Ref=MATT_6.24
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_6.24
 3	единого	ѥдинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	Ref=MATT_6.24
@@ -156326,7 +156326,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не можете б҃оу работати и мамонѣ
 # sent_id = 50690
-# parallel_id = bible/matt-6-24/alt1part3
+# parallel_id = bible/matt-6-24/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.24
 2	можете	мощи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.24
 3	б҃оу	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	Ref=MATT_6.24
@@ -156337,7 +156337,7 @@
 # source = Codex Marianus, Matthew 6
 # text = сего ради г҃лѭ вамъ
 # sent_id = 38441
-# parallel_id = bible/matt-6-25/alt1part1
+# parallel_id = bible/matt-6-25/alt2part1
 1	сего	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	Ref=MATT_6.25
 2	ради	ради	ADP	R-	_	1	case	_	Ref=MATT_6.25
 3	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
@@ -156346,7 +156346,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не пьцѣте сѧ д҃шеѭ вашеѭ что ѣсте ли что пиете ни тѣломъ вашимъ въ что облѣчете сѧ
 # sent_id = 38442
-# parallel_id = bible/matt-6-25/alt1part2
+# parallel_id = bible/matt-6-25/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.25
 2	пьцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.25
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.25
@@ -156368,7 +156368,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не ⷣ҇ша ли больши естъ пиштѧ и тѣло одеждѧ
 # sent_id = 38443
-# parallel_id = bible/matt-6-25/alt1part3
+# parallel_id = bible/matt-6-25/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_6.25
 2	ⷣ҇ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Ref=MATT_6.25
 3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	Ref=MATT_6.25
@@ -156382,7 +156382,7 @@
 # source = Codex Marianus, Matthew 6
 # text = възьрите на пⷮ҇ицѧ н҃бскꙑѩ ѣко не сѣѭ҄тъ ни жьнѭтъ ни събираѭтъ вь житьницѫ ꙇ о҃тцъ вашъ н҃бскꙑ питѣетъ ѩ
 # sent_id = 38444
-# parallel_id = bible/matt-6-26/alt1part1
+# parallel_id = bible/matt-6-26/alt2part1
 1	възьрите	възьрѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.26
 2	на	на	ADP	R-	_	3	case	_	Ref=MATT_6.26
 3	пⷮ҇ицѧ	пътица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	Ref=MATT_6.26
@@ -156406,7 +156406,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не вꙑ ли паче ихъ лоучъши есте
 # sent_id = 38445
-# parallel_id = bible/matt-6-26/alt1part2
+# parallel_id = bible/matt-6-26/alt2part2
 1	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=MATT_6.26
 2	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_6.26
 3	ли	ли	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_6.26
@@ -156418,7 +156418,7 @@
 # source = Codex Marianus, Matthew 6
 # text = кто же отъ васъ пекꙑ сѧ можетъ приложити тѣлесе своемь лакоть единъ
 # sent_id = 38446
-# parallel_id = bible/matt-6-27/alt1
+# parallel_id = bible/matt-6-27/alt2
 1	кто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	7	nsubj	_	Ref=MATT_6.27
 2	же	же	ADV	Df	_	7	discourse	_	Ref=MATT_6.27
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_6.27
@@ -156435,7 +156435,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇ о одежди что сѧ печете
 # sent_id = 38447
-# parallel_id = bible/matt-6-28/alt1part1
+# parallel_id = bible/matt-6-28/alt2part1
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MATT_6.28
 2	о	о	ADP	R-	_	3	case	_	Ref=MATT_6.28
 3	одежди	одежда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	Ref=MATT_6.28
@@ -156446,7 +156446,7 @@
 # source = Codex Marianus, Matthew 6
 # text = съмотрите кринъ селънꙑхъ како растѫтъ
 # sent_id = 38448
-# parallel_id = bible/matt-6-28/alt1part2
+# parallel_id = bible/matt-6-28/alt2part2
 1	съмотрите	съмотрити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 2	кринъ	кринъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=MATT_6.28
 3	селънꙑхъ	сельнъ	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	Ref=MATT_6.28
@@ -156456,7 +156456,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не троуждаѭ҄тъ сѧ ни прѧдѫтъ
 # sent_id = 38449
-# parallel_id = bible/matt-6-28/alt1part3
+# parallel_id = bible/matt-6-28/alt2part3
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.28
 2	троуждаѭ҄тъ	троуждати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.28
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.28
@@ -156466,7 +156466,7 @@
 # source = Codex Marianus, Matthew 6
 # text = г҃лѭ же вамъ ѣко ни соломонъ во вь сеи славѣ своеи облѣче сѧ ѣко единъ отъ сихъ
 # sent_id = 38450
-# parallel_id = bible/matt-6-29/alt1
+# parallel_id = bible/matt-6-29/alt2
 1	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.29
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.29
 3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obl:arg	_	Ref=MATT_6.29
@@ -156488,7 +156488,7 @@
 # source = Codex Marianus, Matthew 6
 # text = аще же сѣно селъное дьнесъ сѫштее а оутрѣ въ огнь вьметомо б҃ъ тако ѡдѣетъ кольми паче васъ маловѣри
 # sent_id = 38451
-# parallel_id = bible/matt-6-30/alt1
+# parallel_id = bible/matt-6-30/alt2
 1	аще	аще	SCONJ	G-	_	14	mark	_	Ref=MATT_6.30
 2	же	же	ADV	Df	_	17	discourse	_	Ref=MATT_6.30
 3	сѣно	сѣно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	Ref=MATT_6.30
@@ -156511,7 +156511,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не пьцѣте сѧ оубо г҃лѭще
 # sent_id = 38452
-# parallel_id = bible/matt-6-31/alt1part1
+# parallel_id = bible/matt-6-31/alt2part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.31
 2	пьцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.31
@@ -156521,7 +156521,7 @@
 # source = Codex Marianus, Matthew 6
 # text = что ѣмъ ли что пиемъ
 # sent_id = 38453
-# parallel_id = bible/matt-6-31/alt1part2
+# parallel_id = bible/matt-6-31/alt2part2
 1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	Ref=MATT_6.31
 2	ѣмъ	ꙗсти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
 3	ли	ли	CCONJ	C-	_	5	cc	_	Ref=MATT_6.31
@@ -156531,7 +156531,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ли чимъ одеждемъ сѧ
 # sent_id = 38454
-# parallel_id = bible/matt-6-31/alt1part3
+# parallel_id = bible/matt-6-31/alt2part3
 1	ли	ли	CCONJ	C-	_	3	cc	_	Ref=MATT_6.31
 2	чимъ	чьто	PRON	Pi	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	3	obl:arg	_	Ref=MATT_6.31
 3	одеждемъ	одѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.31
@@ -156540,7 +156540,7 @@
 # source = Codex Marianus, Matthew 6
 # text = вьсѣхъ бо сихъ ѩ҃зци ищѫтъ
 # sent_id = 38455
-# parallel_id = bible/matt-6-32/alt1part1
+# parallel_id = bible/matt-6-32/alt2part1
 1	вьсѣхъ	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Plur	3	det	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.32
 3	сихъ	сь	PRON	Pd	Case=Gen|Gender=Neut|Number=Plur	5	obl:arg	_	Ref=MATT_6.32
@@ -156550,7 +156550,7 @@
 # source = Codex Marianus, Matthew 6
 # text = вѣстъ бо отецъ вашъ н҃бскꙑ ѣко трѣбоуете сихъ вьсѣхъ
 # sent_id = 38456
-# parallel_id = bible/matt-6-32/alt1part2
+# parallel_id = bible/matt-6-32/alt2part2
 1	вѣстъ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.32
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_6.32
 3	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT_6.32
@@ -156564,7 +156564,7 @@
 # source = Codex Marianus, Matthew 6
 # text = ꙇштѣте же паче ц҃срствиѣ б҃жиѣ ꙇ҅ правъдꙑ его ꙇ҅ си вьсѣ приложѧтъ сѧ вамъ
 # sent_id = 38457
-# parallel_id = bible/matt-6-33/alt1
+# parallel_id = bible/matt-6-33/alt2
 1	ꙇштѣте	искати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.33
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_6.33
 3	паче	паче	ADV	Df	Degree=Cmp	1	advmod	_	Ref=MATT_6.33
@@ -156583,7 +156583,7 @@
 # source = Codex Marianus, Matthew 6
 # text = не пьцѣте сѧ оубо на оутрѣи
 # sent_id = 50691
-# parallel_id = bible/matt-6-34/alt1part1
+# parallel_id = bible/matt-6-34/alt2part1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_6.34
 2	пьцѣте	пещи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_6.34
@@ -156594,7 +156594,7 @@
 # source = Codex Marianus, Matthew 6
 # text = оутрни бо день собоѭ печетъ сѧ
 # sent_id = 50692
-# parallel_id = bible/matt-6-34/alt1part2
+# parallel_id = bible/matt-6-34/alt2part2
 1	оутрни	оутрьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Ref=MATT_6.34
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.34
 3	день	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.34
@@ -156605,7 +156605,7 @@
 # source = Codex Marianus, Matthew 6
 # text = довьлетъ дьни зълоба своѣ
 # sent_id = 38459
-# parallel_id = bible/matt-6-34/alt1part3
+# parallel_id = bible/matt-6-34/alt2part3
 1	довьлетъ	довьлѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.34
 2	дьни	дьнь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	Ref=MATT_6.34
 3	зълоба	зълоба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=MATT_6.34
@@ -156614,7 +156614,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Не осѫждаите да не осѫждени бѫдете
 # sent_id = 38460
-# parallel_id = bible/matt-7-1/alt1
+# parallel_id = bible/matt-7-1/alt2
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.1
 2	осѫждаите	осѫждати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.1
 3	да	да	SCONJ	G-	_	5	mark	_	Ref=MATT_7.1
@@ -156625,7 +156625,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇмъже бо сѫдомъ сѫдите сѫдѧтъ вамъ ꙇ въ нѭже мѣрѫ мѣрите вьзмѣритъ сѧ вамъ
 # sent_id = 38461
-# parallel_id = bible/matt-7-2/alt1
+# parallel_id = bible/matt-7-2/alt2
 1	ꙇмъже	иже	PRON	Pr	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Rel	3	acl	_	Ref=MATT_7.2
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_7.2
 3	сѫдомъ	сѫдъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	advcl	_	Ref=MATT_7.2
@@ -156644,7 +156644,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Что же видиши сѫчецъ въ оцѣ братра твоего а бръвъна еже естъ въ оцѣ твоемь не чюеши ли како речеши братроу твоемоу
 # sent_id = 38462
-# parallel_id = bible/matt-7-3/alt1part1
+# parallel_id = bible/matt-7-3/alt2part1
 1	Что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Ref=MATT_7.3
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MATT_7.3
 3	видиши	видѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.3
@@ -156671,7 +156671,7 @@
 # source = Codex Marianus, Matthew 7
 # text = остави и изъмѫ сѫчецъ из очесе твоего
 # sent_id = 60004
-# parallel_id = bible/matt-7-3/alt1part2
+# parallel_id = bible/matt-7-3/alt2part2
 1	остави	оставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.3
 2	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.3
 3	изъмѫ	изѧти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.3
@@ -156683,7 +156683,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ се бръвъно въ оцѣ твоемь
 # sent_id = 60005
-# parallel_id = bible/matt-7-3/alt1part3
+# parallel_id = bible/matt-7-3/alt2part3
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.3
 2	се	сь	INTJ	I-	_	3	discourse	_	Ref=MATT_7.3
 3	бръвъно	брьвьно	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Ref=MATT_7.3
@@ -156694,7 +156694,7 @@
 # source = Codex Marianus, Matthew 7
 # text = лицемѣре ꙇ҅зьми пръвѣе бръвъно из очесе твоего ꙇ҅ тогда оузьриши изѧти сѫчецъ из очесе братра твоего
 # sent_id = 38463
-# parallel_id = bible/matt-7-5/alt1
+# parallel_id = bible/matt-7-5/alt2
 1	лицемѣре	лицемѣръ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=MATT_7.5
 2	ꙇ҅зьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.5
 3	пръвѣе	прьвѣѥ	ADV	Df	_	2	advmod	_	Ref=MATT_7.5
@@ -156715,7 +156715,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Не дадите с҃таго псомъ ни помѣтаите бисьръ вашихъ прѣдъ свиньѣми да не поперѫтъ ихъ ногами своими ꙇ҅ вращьше сѧ растръгнѫтъ вꙑ
 # sent_id = 38464
-# parallel_id = bible/matt-7-6/alt1
+# parallel_id = bible/matt-7-6/alt2
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.6
 2	дадите	дати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.6
 3	с҃таго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	Ref=MATT_7.6
@@ -156741,7 +156741,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Просите и дастъ сѧ вамъ
 # sent_id = 38465
-# parallel_id = bible/matt-7-7/alt1part1
+# parallel_id = bible/matt-7-7/alt2part1
 1	Просите	просити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -156751,7 +156751,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ҅щѣте и обрѧщете
 # sent_id = 38466
-# parallel_id = bible/matt-7-7/alt1part2
+# parallel_id = bible/matt-7-7/alt2part2
 1	ꙇ҅щѣте	искати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	обрѧщете	обрѣсти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -156759,7 +156759,7 @@
 # source = Codex Marianus, Matthew 7
 # text = тлъцѣте и отвръзетъ сѧ вамъ
 # sent_id = 38467
-# parallel_id = bible/matt-7-7/alt1part3
+# parallel_id = bible/matt-7-7/alt2part3
 1	тлъцѣте	тлѣщи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	отвръзетъ	отврѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -156769,7 +156769,7 @@
 # source = Codex Marianus, Matthew 7
 # text = вьсѣкъ бо просѧи приемлетъ ꙇ ищѧи обрѣтаатъ ꙇ тлъкѫщюмоу отвръзаатъ сѧ
 # sent_id = 38468
-# parallel_id = bible/matt-7-8/alt1
+# parallel_id = bible/matt-7-8/alt2
 1	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.8
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_7.8
 3	просѧи	просити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	nsubj	_	Ref=MATT_7.8
@@ -156785,7 +156785,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ли кто естъ отъ васъ ч҃лвкъ егоже аще проситъ с҃нъ свои хлѣба еда камень подастъ емоу
 # sent_id = 38469
-# parallel_id = bible/matt-7-9/alt1
+# parallel_id = bible/matt-7-9/alt2
 1	ли	ли	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_7.9
 2	кто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	6	nsubj	_	Ref=MATT_7.9
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_7.9
@@ -156806,7 +156806,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ли аще рꙑбꙑ проситъ еда змьѭ҅ подастъ емоу
 # sent_id = 38470
-# parallel_id = bible/matt-7-10/alt1
+# parallel_id = bible/matt-7-10/alt2
 1	ли	ли	CCONJ	C-	_	7	cc	_	Ref=MATT_7.10
 2	аще	аще	SCONJ	G-	_	4	mark	_	Ref=MATT_7.10
 3	рꙑбꙑ	рꙑба	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	dep	_	Ref=MATT_7.10
@@ -156819,7 +156819,7 @@
 # source = Codex Marianus, Matthew 7
 # text = аще оубо вꙑ лѫкавьни сѫште оумѣете дааниѣ блага даѣти чѧдомъ вашимъ кольми паче о҃тцъ вашъ иже естъ на небесехъ дастъ благаа҄ просѧщиимъ его
 # sent_id = 38471
-# parallel_id = bible/matt-7-11/alt1
+# parallel_id = bible/matt-7-11/alt2
 1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_7.11
 2	оубо	оубо	ADV	Df	_	20	discourse	_	Ref=MATT_7.11
 3	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_7.11
@@ -156847,7 +156847,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Вьсѣ оубо елико аще хощете да творѧтъ вамъ ч҃лвци тако и вꙑ творите имъ
 # sent_id = 38472
-# parallel_id = bible/matt-7-12/alt1part1
+# parallel_id = bible/matt-7-12/alt2part1
 1	Вьсѣ	вьсь	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Ref=MATT_7.12
 2	оубо	оубо	ADV	Df	_	13	discourse	_	Ref=MATT_7.12
 3	елико	ѥлико	PRON	Pr	PronType=Rel	5	obj	_	Ref=MATT_7.12
@@ -156866,7 +156866,7 @@
 # source = Codex Marianus, Matthew 7
 # text = се бо естъ законъ и пророци
 # sent_id = 38473
-# parallel_id = bible/matt-7-12/alt1part2
+# parallel_id = bible/matt-7-12/alt2part2
 1	се	сь	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Ref=MATT_7.12
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_7.12
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_7.12
@@ -156877,7 +156877,7 @@
 # source = Codex Marianus, Matthew 7
 # text = вьнидѣте ѫзъкꙑми вратꙑ
 # sent_id = 38474
-# parallel_id = bible/matt-7-13/alt1part1
+# parallel_id = bible/matt-7-13/alt2part1
 1	вьнидѣте	вънити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.13
 2	ѫзъкꙑми	ѫзъкъ	ADJ	A-	Case=Ins|Degree=Pos|Number=Plur	3	amod	_	Ref=MATT_7.13
 3	вратꙑ	врата	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	1	obl	_	Ref=MATT_7.13
@@ -156885,7 +156885,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ѣко пространа врата и широкъ пѫть въводѧи въ пагоубѫ
 # sent_id = 38475
-# parallel_id = bible/matt-7-13/alt1part2
+# parallel_id = bible/matt-7-13/alt2part2
 1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	LId=2|Ref=MATT_7.13
 2	пространа	пространъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.13
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Ref=MATT_7.13
@@ -156899,7 +156899,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ мъноѕи сѫтъ въходѧщи имъ
 # sent_id = 38476
-# parallel_id = bible/matt-7-13/alt1part3
+# parallel_id = bible/matt-7-13/alt2part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.13
 2	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.13
 3	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Ref=MATT_7.13
@@ -156909,7 +156909,7 @@
 # source = Codex Marianus, Matthew 7
 # text = коль ѫзъка врата и тѣснъ пѫть въводѧи въ животъ
 # sent_id = 38477
-# parallel_id = bible/matt-7-14/alt1part1
+# parallel_id = bible/matt-7-14/alt2part1
 1	коль	коль	ADV	Du	PronType=Int	2	advmod	_	Ref=MATT_7.14
 2	ѫзъка	ѫзъкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.14
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Ref=MATT_7.14
@@ -156923,7 +156923,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ мало ихъ естъ иже и обрѣтаѭтъ
 # sent_id = 38478
-# parallel_id = bible/matt-7-14/alt1part2
+# parallel_id = bible/matt-7-14/alt2part2
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MATT_7.14
 2	мало	мало	ADV	Df	Degree=Pos	4	nsubj	_	Ref=MATT_7.14
 3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	Ref=MATT_7.14
@@ -156935,7 +156935,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Вънемлѣте отъ лъжихъ пророкъ ꙇже приходѧтъ къ вамъ въ одеждахъ овьчахъ
 # sent_id = 38479
-# parallel_id = bible/matt-7-15/alt1part1
+# parallel_id = bible/matt-7-15/alt2part1
 1	Вънемлѣте	вънимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.15
 2	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_7.15
 3	лъжихъ	лъжь	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	Ref=MATT_7.15
@@ -156951,7 +156951,7 @@
 # source = Codex Marianus, Matthew 7
 # text = вьнѫтрь же сѫтъ влъци хꙑштьници
 # sent_id = 60008
-# parallel_id = bible/matt-7-15/alt1part2
+# parallel_id = bible/matt-7-15/alt2part2
 1	вьнѫтрь	вънѫтрь	ADV	Df	_	4	advmod	_	Ref=MATT_7.15
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MATT_7.15
 3	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_7.15
@@ -156961,7 +156961,7 @@
 # source = Codex Marianus, Matthew 7
 # text = отъ плодъ ихъ познаите ѩ
 # sent_id = 38480
-# parallel_id = bible/matt-7-16/alt1part1
+# parallel_id = bible/matt-7-16/alt2part1
 1	отъ	отъ	ADP	R-	_	2	case	_	Ref=MATT_7.16
 2	плодъ	плодъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	Ref=MATT_7.16
 3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	Ref=MATT_7.16
@@ -156971,7 +156971,7 @@
 # source = Codex Marianus, Matthew 7
 # text = еда обемлѭтъ отъ тръниѣ грознꙑ ли отъ рѣпиѣ смокъви
 # sent_id = 38481
-# parallel_id = bible/matt-7-16/alt1part2
+# parallel_id = bible/matt-7-16/alt2part2
 1	еда	еда	ADV	Du	PronType=Int	2	advmod	_	Ref=MATT_7.16
 2	обемлѭтъ	обимати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.16
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_7.16
@@ -156985,7 +156985,7 @@
 # source = Codex Marianus, Matthew 7
 # text = тако вьсѣко дрѣво добро плодꙑ добрꙑ творитъ а зъло дрѣво плодꙑ зълꙑ творитъ
 # sent_id = 38482
-# parallel_id = bible/matt-7-17/alt1
+# parallel_id = bible/matt-7-17/alt2
 1	тако	тако	ADV	Df	_	7	advmod	_	Ref=MATT_7.17
 2	вьсѣко	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	amod	_	Ref=MATT_7.17
 3	дрѣво	дрѣво	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	Ref=MATT_7.17
@@ -157003,7 +157003,7 @@
 # source = Codex Marianus, Matthew 7
 # text = не можетъ дрѣво добро плодъ золъ творити ни дрѣво зъло плодъ добръ творити
 # sent_id = 38483
-# parallel_id = bible/matt-7-18/alt1
+# parallel_id = bible/matt-7-18/alt2
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.18
 2	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.18
 3	дрѣво	дрѣво	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Ref=MATT_7.18
@@ -157021,7 +157021,7 @@
 # source = Codex Marianus, Matthew 7
 # text = вьсѣко дрѣво еже не творитъ плода добра посѣкаѭтъ и въ огнь вьмѣтаѭтъ
 # sent_id = 38484
-# parallel_id = bible/matt-7-19/alt1
+# parallel_id = bible/matt-7-19/alt2
 1	вьсѣко	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	Ref=MATT_7.19
 2	дрѣво	дрѣво	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=MATT_7.19
 3	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MATT_7.19
@@ -157038,7 +157038,7 @@
 # source = Codex Marianus, Matthew 7
 # text = тѣмь же оубо отъ плодъ ихъ познаете ѩ
 # sent_id = 38485
-# parallel_id = bible/matt-7-20/alt1
+# parallel_id = bible/matt-7-20/alt2
 1	тѣмь	тъ	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	Ref=MATT_7.20
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_7.20
 3	оубо	оубо	ADV	Df	_	7	discourse	_	Ref=MATT_7.20
@@ -157051,7 +157051,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Не вьсѣкъ г҃лѧи мьнѣ г҃и г҃и вьнидетъ въ ц҃срствие н҃ебское нъ творѧи волѭ о҃тца моего иже естъ на небесьхъ
 # sent_id = 38486
-# parallel_id = bible/matt-7-21/alt1
+# parallel_id = bible/matt-7-21/alt2
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.21
 2	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.21
 3	г҃лѧи	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nsubj	_	Ref=MATT_7.21
@@ -157075,7 +157075,7 @@
 # source = Codex Marianus, Matthew 7
 # text = мъноѕи бо рекѫтъ мьнѣ вь тъ день
 # sent_id = 50693
-# parallel_id = bible/matt-7-22/alt1part1
+# parallel_id = bible/matt-7-22/alt2part1
 1	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	nsubj	_	Ref=MATT_7.22
 2	бо	бо	ADV	Df	_	3	discourse	_	Ref=MATT_7.22
 3	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.22
@@ -157087,7 +157087,7 @@
 # source = Codex Marianus, Matthew 7
 # text = г҃и г҃и не въ твое ли имѧ п҃рчствовахомъ и твоимь именемь бѣсꙑ изгонихомъ и твоимь именемь силꙑ мъногꙑ сътворихомъ
 # sent_id = 50694
-# parallel_id = bible/matt-7-22/alt1part2
+# parallel_id = bible/matt-7-22/alt2part2
 1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_7.22
 2	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_7.22
 3	не	не	ADV	Df	Polarity=Neg	7	advmod	_	Ref=MATT_7.22
@@ -157111,7 +157111,7 @@
 # source = Codex Marianus, Matthew 7
 # text = и тогда исповѣмь имъ ѣко
 # sent_id = 38488
-# parallel_id = bible/matt-7-23/alt1part1
+# parallel_id = bible/matt-7-23/alt2part1
 1	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.23
 2	тогда	тъгда	ADV	Df	_	3	advmod	_	Ref=MATT_7.23
 3	исповѣмь	исповѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
@@ -157121,7 +157121,7 @@
 # source = Codex Marianus, Matthew 7
 # text = николиже знахъ васъ
 # sent_id = 58260
-# parallel_id = bible/matt-7-23/alt1part2
+# parallel_id = bible/matt-7-23/alt2part2
 1	николиже	николиже	ADV	Df	_	2	advmod	_	Ref=MATT_7.23
 2	знахъ	знати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
 3	васъ	вꙑ	PRON	Pp	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	obj	_	Ref=MATT_7.23
@@ -157129,7 +157129,7 @@
 # source = Codex Marianus, Matthew 7
 # text = отидѣте отъ мене дѣлаѭ҄щеи безаконие
 # sent_id = 38489
-# parallel_id = bible/matt-7-23/alt1part3
+# parallel_id = bible/matt-7-23/alt2part3
 1	отидѣте	отити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
 2	отъ	отъ	ADP	R-	_	3	case	_	Ref=MATT_7.23
 3	мене	азъ	PRON	Pp	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obl	_	Ref=MATT_7.23
@@ -157139,7 +157139,7 @@
 # source = Codex Marianus, Matthew 7
 # text = Вьсѣкъ оубо иже слꙑшитъ словеса моѣ си и творитъ ѣ оуподоблѭ и мѫжѭ мѫдроу иже созъда храминѫ своѭ҄ на камене
 # sent_id = 38490
-# parallel_id = bible/matt-7-24/alt1
+# parallel_id = bible/matt-7-24/alt2
 1	Вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	11	dislocated	_	Ref=MATT_7.24
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_7.24
 3	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=MATT_7.24
@@ -157164,7 +157164,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ҅ съниде дождъ и придѫ рѣкꙑ и вьзвѣашѧ вѣтри ꙇ҅ нападѫ на храминѫ тѫ
 # sent_id = 50695
-# parallel_id = bible/matt-7-25/alt1part1
+# parallel_id = bible/matt-7-25/alt2part1
 1	ꙇ҅	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.25
 2	съниде	сънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.25
 3	дождъ	дъждь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MATT_7.25
@@ -157183,7 +157183,7 @@
 # source = Codex Marianus, Matthew 7
 # text = и не паде сѧ
 # sent_id = 50696
-# parallel_id = bible/matt-7-25/alt1part2
+# parallel_id = bible/matt-7-25/alt2part2
 1	и	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.25
 2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=MATT_7.25
 3	паде	пасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_7.25
@@ -157192,7 +157192,7 @@
 # source = Codex Marianus, Matthew 7
 # text = основана бо бѣ на камене
 # sent_id = 60011
-# parallel_id = bible/matt-7-25/alt1part3
+# parallel_id = bible/matt-7-25/alt2part3
 1	основана	основати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=MATT_7.25
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_7.25
 3	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_7.25
@@ -157202,7 +157202,7 @@
 # source = Codex Marianus, Matthew 7
 # text = и вьсѣкъ слꙑшѧи словеса моѣ си и не творѧи ихъ оуподобитъ сѧ мѫжѫ боуѭ҄ ꙇже созъда своѭ храминѫ на пѣсъцѣ
 # sent_id = 38492
-# parallel_id = bible/matt-7-26/alt1
+# parallel_id = bible/matt-7-26/alt2
 1	и	и	CCONJ	C-	_	11	cc	_	Ref=MATT_7.26
 2	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.26
 3	слꙑшѧи	слꙑшати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	nsubj	_	Ref=MATT_7.26
@@ -157227,7 +157227,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ съниде дождъ и придѫ рѣкꙑ и вьзвѣашѧ вѣтри и опьрѣшѧ сѧ храминѣ тои
 # sent_id = 50697
-# parallel_id = bible/matt-7-27/alt1part1
+# parallel_id = bible/matt-7-27/alt2part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.27
 2	съниде	сънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.27
 3	дождъ	дъждь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MATT_7.27
@@ -157246,7 +157246,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ паде сѧ ꙇ бѣ разроушение еѩ велие ѕѣло
 # sent_id = 50698
-# parallel_id = bible/matt-7-27/alt1part2
+# parallel_id = bible/matt-7-27/alt2part2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.27
 2	паде	пасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_7.27
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_7.27
@@ -157260,7 +157260,7 @@
 # source = Codex Marianus, Matthew 7
 # text = ꙇ҅ бꙑⷭ҇ егда съконьча и҃съ вьсѣ словеса си дивлѣхѫ сѧ народи о оучении его
 # sent_id = 38494
-# parallel_id = bible/matt-7-28/alt1
+# parallel_id = bible/matt-7-28/alt2
 1	ꙇ҅	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.28
 2	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.28
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_7.28
@@ -157279,7 +157279,7 @@
 # source = Codex Marianus, Matthew 7
 # text = бѣ бо оучѧ ѣко власть ймꙑ ꙇ не ѣко кънижъници ихъ и фарисѣи
 # sent_id = 38495
-# parallel_id = bible/matt-7-29/alt1
+# parallel_id = bible/matt-7-29/alt2
 1	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_7.29
 2	бо	бо	ADV	Df	_	3	discourse	_	Ref=MATT_7.29
 3	оучѧ	оучити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	0	root	_	Ref=MATT_7.29
@@ -232045,7 +232045,7 @@
 # source = Codex Zographensis, Matthew 26
 # text = Ꙇ бꙑстъ егда съконьча и҃с всѣ словеса си рече оученикомъ своꙇмъ
 # sent_id = 295279
-# parallel_id = bible/matt-26-1/alt1
+# parallel_id = bible/matt-26-1/alt2
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_26.1
 2	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_26.1
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_26.1
@@ -237606,7 +237606,7 @@
 # source = Codex Zographensis, Luke 8
 # text = Бꙑс же егда възврати сѧ и҃с приѩтъ і народъ
 # sent_id = 299120
-# parallel_id = bible/luke-8-40/alt1
+# parallel_id = bible/luke-8-40/alt2
 1	Бꙑс	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_8.40
 2	же	же	ADV	Df	_	1	discourse	_	Ref=LUKE_8.40
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=LUKE_8.40

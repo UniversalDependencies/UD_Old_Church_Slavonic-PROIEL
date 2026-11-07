@@ -16406,7 +16406,7 @@
 # source = Codex Marianus, Matthew 26
 # text = Ꙇ бꙑстъ егда съконьча и҃съ вьсѣ словеса си рече оученикомъ своимъ
 # sent_id = 39578
-# parallel_id = bible/matt-26-1/alt2
+# parallel_id = bible/matt-26-1/alt1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_26.1
 2	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_26.1
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_26.1
@@ -20423,7 +20423,7 @@
 # source = Codex Marianus, Luke 8
 # text = бꙑстъ же егда възврати сѧ и҃съ приѩтꙑ и народъ
 # sent_id = 40443
-# parallel_id = bible/luke-8-40/alt2part1
+# parallel_id = bible/luke-8-40/alt1part1
 1	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_8.40
 2	же	же	ADV	Df	_	1	discourse	_	Ref=LUKE_8.40
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=LUKE_8.40
@@ -20437,7 +20437,7 @@
 # source = Codex Marianus, Luke 8
 # text = бѣахѫ бо вьси чаѭште его
 # sent_id = 40444
-# parallel_id = bible/luke-8-40/alt2part2
+# parallel_id = bible/luke-8-40/alt1part2
 1	бѣахѫ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Ref=LUKE_8.40
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=LUKE_8.40
 3	вьси	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=LUKE_8.40
@@ -26541,7 +26541,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Не осѫждаите да не осѫждени бѫдете
 # sent_id = 293774
-# parallel_id = bible/matt-7-1/alt2
+# parallel_id = bible/matt-7-1/alt1
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.1
 2	осѫждаите	осѫждати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.1
 3	да	да	SCONJ	G-	_	5	mark	_	Ref=MATT_7.1
@@ -26552,7 +26552,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇмьже бо сѫдомь сѫдите сѫдѧтъ вамъ ꙇ вь н҄ѭже мѣрѫ мѣрите възмѣрѧтъ вамъ
 # sent_id = 293776
-# parallel_id = bible/matt-7-2/alt2
+# parallel_id = bible/matt-7-2/alt1
 1	ꙇмьже	иже	PRON	Pr	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	3	acl	_	Ref=MATT_7.2
 2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_7.2
 3	сѫдомь	сѫдъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	advcl	_	Ref=MATT_7.2
@@ -26570,7 +26570,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = чьто же видиши сѫчьць ꙇжь естъ въ оцѣ братра твоего а брьв҄на еже естъ въ оцѣ твоемь не чюеши ли како речеши братоу своемоу
 # sent_id = 293780
-# parallel_id = bible/matt-7-3/alt2
+# parallel_id = bible/matt-7-3/alt1
 1	чьто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Ref=MATT_7.3
 2	же	же	ADV	Df	_	3	discourse	_	Ref=MATT_7.3
 3	видиши	видѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.3
@@ -26622,7 +26622,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = лицемѣре ꙇзъми пръвѣе бръвъно ꙇз очесе твоего ꙇ тъгда оузьриши ꙇзѧти ꙇ сѫчьць ꙇз очесе брата твоего
 # sent_id = 293786
-# parallel_id = bible/matt-7-5/alt2
+# parallel_id = bible/matt-7-5/alt1
 1	лицемѣре	лицемѣръ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=MATT_7.5
 2	ꙇзъми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.5
 3	пръвѣе	прьвѣѥ	ADV	Df	_	2	advmod	_	Ref=MATT_7.5
@@ -26644,7 +26644,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Не дадите с҃таго псомъ ни помѣтаꙇте бисеръ вашихъ прѣдъ свин҄иѣми да не поперѫтъ ꙇхъ ногами своꙇми ꙇ враштьшѧ сѧ растръгнѫтъ вꙑ
 # sent_id = 293789
-# parallel_id = bible/matt-7-6/alt2
+# parallel_id = bible/matt-7-6/alt1
 1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.6
 2	дадите	дати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.6
 3	с҃таго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	Ref=MATT_7.6
@@ -26670,7 +26670,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Просите ꙇ дастъ сѧ вамъ
 # sent_id = 293793
-# parallel_id = bible/matt-7-7/alt2part1
+# parallel_id = bible/matt-7-7/alt1part1
 1	Просите	просити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -26680,7 +26680,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇштѣте ꙇ обрѧштете
 # sent_id = 293795
-# parallel_id = bible/matt-7-7/alt2part2
+# parallel_id = bible/matt-7-7/alt1part2
 1	ꙇштѣте	искати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	обрѧштете	обрѣсти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -26688,7 +26688,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = тлъцѣте ꙇ отвръзетъ сѧ вамъ
 # sent_id = 293797
-# parallel_id = bible/matt-7-7/alt2part3
+# parallel_id = bible/matt-7-7/alt1part3
 1	тлъцѣте	тлѣщи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.7
 2	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.7
 3	отвръзетъ	отврѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_7.7
@@ -26698,7 +26698,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = вьсѣкъ бо просѧи приемл҄етъ ꙇ иштѧи обрѣтаетъ ꙇ тлъкѫштоумоу отвръзетъ сѧ
 # sent_id = 293798
-# parallel_id = bible/matt-7-8/alt2
+# parallel_id = bible/matt-7-8/alt1
 1	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.8
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_7.8
 3	просѧи	просити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	nsubj	_	Ref=MATT_7.8
@@ -26714,7 +26714,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ли къто естъ отъ васъ ч҃къ еже аште въспроситъ с҃нъ твои хлѣба еда камень подастъ емоу
 # sent_id = 293801
-# parallel_id = bible/matt-7-9/alt2
+# parallel_id = bible/matt-7-9/alt1
 1	ли	ли	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_7.9
 2	къто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	6	nsubj	_	Ref=MATT_7.9
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_7.9
@@ -26735,7 +26735,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ли аште рꙑбꙑ подаси ли емоу змиѭ
 # sent_id = 293804
-# parallel_id = bible/matt-7-10/alt2
+# parallel_id = bible/matt-7-10/alt1
 1	ли	ли	CCONJ	C-	_	4	cc	_	Ref=MATT_7.10
 2	аште	аще	SCONJ	G-	_	4	advcl	_	Ref=MATT_7.10
 3	рꙑбꙑ	рꙑба	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	Ref=MATT_7.10
@@ -26747,7 +26747,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = аште оубо вꙑ лѫкавьни сѫште оумѣете дааниѣ блага даѣти чѧдомъ вашимъ колⸯми паче о҃ць вашь ꙇжь естъ на н҃бхъ дастъ благаѣ просѧштиімъ оу н҄его
 # sent_id = 293806
-# parallel_id = bible/matt-7-11/alt2
+# parallel_id = bible/matt-7-11/alt1
 1	аште	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_7.11
 2	оубо	оубо	ADV	Df	_	20	discourse	_	Ref=MATT_7.11
 3	вꙑ	вꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_7.11
@@ -26776,7 +26776,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Вьсѣ оубо елико хоштете да творѧтъ вамъ ч҃ци тако ꙇ вꙑ творите ꙇмъ
 # sent_id = 293810
-# parallel_id = bible/matt-7-12/alt2part1
+# parallel_id = bible/matt-7-12/alt1part1
 1	Вьсѣ	вьсь	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	Ref=MATT_7.12
 2	оубо	оубо	ADV	Df	_	12	discourse	_	Ref=MATT_7.12
 3	елико	ѥлико	PRON	Pr	PronType=Rel	4	obj	_	Ref=MATT_7.12
@@ -26794,7 +26794,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = се бо естъ законъ ꙇ пророци
 # sent_id = 293812
-# parallel_id = bible/matt-7-12/alt2part2
+# parallel_id = bible/matt-7-12/alt1part2
 1	се	сь	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Ref=MATT_7.12
 2	бо	бо	ADV	Df	_	4	discourse	_	Ref=MATT_7.12
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_7.12
@@ -26805,7 +26805,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = вьнидѣте ѫзъкꙑми вратꙑ
 # sent_id = 293813
-# parallel_id = bible/matt-7-13/alt2part1
+# parallel_id = bible/matt-7-13/alt1part1
 1	вьнидѣте	вънити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.13
 2	ѫзъкꙑми	ѫзъкъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur	3	amod	_	Ref=MATT_7.13
 3	вратꙑ	врата	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	1	obl	_	Ref=MATT_7.13
@@ -26813,7 +26813,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ѣко пространа врата ꙇ широкъ пѫть въводѧи въ пагоубѫ
 # sent_id = 293814
-# parallel_id = bible/matt-7-13/alt2part2
+# parallel_id = bible/matt-7-13/alt1part2
 1	ѣко	ꙗко	ADV	Df	_	2	discourse	_	LId=2|Ref=MATT_7.13
 2	пространа	пространъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.13
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Ref=MATT_7.13
@@ -26827,7 +26827,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ мнози сѫтъ въходѧшти ꙇмь
 # sent_id = 293817
-# parallel_id = bible/matt-7-13/alt2part3
+# parallel_id = bible/matt-7-13/alt1part3
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.13
 2	мнози	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.13
 3	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Ref=MATT_7.13
@@ -26837,7 +26837,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = коль ѫзъка врата ꙇ тѣснъ пѫть въводѧі въ животъ
 # sent_id = 293818
-# parallel_id = bible/matt-7-14/alt2part1
+# parallel_id = bible/matt-7-14/alt1part1
 1	коль	коль	ADV	Du	PronType=Int	2	advmod	_	Ref=MATT_7.14
 2	ѫзъка	ѫзъкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	0	root	_	Ref=MATT_7.14
 3	врата	врата	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	Ref=MATT_7.14
@@ -26851,7 +26851,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ мало ꙇхъ естъ ꙇже ꙇ обрѣтаѭ
 # sent_id = 293820
-# parallel_id = bible/matt-7-14/alt2part2
+# parallel_id = bible/matt-7-14/alt1part2
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MATT_7.14
 2	мало	мало	ADV	Df	Degree=Pos	4	nsubj	_	Ref=MATT_7.14
 3	ꙇхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	Ref=MATT_7.14
@@ -26863,7 +26863,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Вънемл҄ѣте отъ лъжиіхъ пророкъ ꙇже приходѧтъ къ вамъ въ одеждахъ овьчахъ
 # sent_id = 293821
-# parallel_id = bible/matt-7-15/alt2part1
+# parallel_id = bible/matt-7-15/alt1part1
 1	Вънемл҄ѣте	вънимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.15
 2	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_7.15
 3	лъжиіхъ	лъжь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	Ref=MATT_7.15
@@ -26879,7 +26879,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = вънѫтрьѭдоу же сѫтъ вльци хꙑштьници
 # sent_id = 293823
-# parallel_id = bible/matt-7-15/alt2part2
+# parallel_id = bible/matt-7-15/alt1part2
 1	вънѫтрьѭдоу	вънѫтрьѭдоу	ADV	Df	_	4	advmod	_	Ref=MATT_7.15
 2	же	же	ADV	Df	_	4	discourse	_	Ref=MATT_7.15
 3	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_7.15
@@ -26889,7 +26889,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = отъ плодъ ꙇхъ познаете ѩ
 # sent_id = 293825
-# parallel_id = bible/matt-7-16/alt2part1
+# parallel_id = bible/matt-7-16/alt1part1
 1	отъ	отъ	ADP	R-	_	2	case	_	Ref=MATT_7.16
 2	плодъ	плодъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	Ref=MATT_7.16
 3	ꙇхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	Ref=MATT_7.16
@@ -26899,7 +26899,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Еда обьемл҄ѭтъ отъ тръниѣ гроздꙑ ли отъ рѣпьѣ смокъви
 # sent_id = 293826
-# parallel_id = bible/matt-7-16/alt2part2
+# parallel_id = bible/matt-7-16/alt1part2
 1	Еда	еда	ADV	Du	PronType=Int	2	advmod	_	Ref=MATT_7.16
 2	обьемл҄ѭтъ	обимати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.16
 3	отъ	отъ	ADP	R-	_	4	case	_	Ref=MATT_7.16
@@ -26913,7 +26913,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = тако всѣко дрѣво добро плодꙑ добрꙑ творитъ а зъло дрѣво плодꙑ зълꙑ творитъ
 # sent_id = 293828
-# parallel_id = bible/matt-7-17/alt2
+# parallel_id = bible/matt-7-17/alt1
 1	тако	тако	ADV	Df	_	7	advmod	_	Ref=MATT_7.17
 2	всѣко	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	amod	_	Ref=MATT_7.17
 3	дрѣво	дрѣво	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	Ref=MATT_7.17
@@ -26931,7 +26931,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = не можетъ дрѣво добро плода зъла творити ни дрѣво зъло добра плода творити
 # sent_id = 293831
-# parallel_id = bible/matt-7-18/alt2
+# parallel_id = bible/matt-7-18/alt1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.18
 2	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.18
 3	дрѣво	дрѣво	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	Ref=MATT_7.18
@@ -26949,7 +26949,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = всѣко дрѣво еже не сътворитъ плода добра посѣкаѭтъ ꙇ въ огн҄ь въметаѭтъ
 # sent_id = 293833
-# parallel_id = bible/matt-7-19/alt2
+# parallel_id = bible/matt-7-19/alt1
 1	всѣко	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	Ref=MATT_7.19
 2	дрѣво	дрѣво	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	Ref=MATT_7.19
 3	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	Ref=MATT_7.19
@@ -26966,7 +26966,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Тѣмь же оубо отъ плодъ ꙇхъ познаете ѩ
 # sent_id = 293836
-# parallel_id = bible/matt-7-20/alt2
+# parallel_id = bible/matt-7-20/alt1
 1	Тѣмь	тъ	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	Ref=MATT_7.20
 2	же	же	ADV	Df	_	1	discourse	_	Ref=MATT_7.20
 3	оубо	оубо	ADV	Df	_	7	discourse	_	Ref=MATT_7.20
@@ -26979,7 +26979,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = не всѣкъ г҃лѧи мнѣ г҃и г҃и вьнидетъ въ ц҃рство н҃бское нъ творѧи вол҄ѭ о҃ца моего ꙇжь естъ на н҃бсхъ
 # sent_id = 293837
-# parallel_id = bible/matt-7-21/alt2
+# parallel_id = bible/matt-7-21/alt1
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_7.21
 2	всѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.21
 3	г҃лѧи	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nsubj	_	Ref=MATT_7.21
@@ -27003,7 +27003,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Мноѕи рекѫтъ мнѣ въ тъ дⸯнь
 # sent_id = 293841
-# parallel_id = bible/matt-7-22/alt2part1
+# parallel_id = bible/matt-7-22/alt1part1
 1	Мноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	2	nsubj	_	Ref=MATT_7.22
 2	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.22
 3	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obl:arg	_	Ref=MATT_7.22
@@ -27014,7 +27014,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = г҃и г҃и не въ твое ли ꙇмѧ пророчьствовахомъ ꙇ твоꙇмь ꙇменемь бѣсꙑ ꙇзгънахомъ ꙇ твоꙇмь ꙇменемь силꙑ многꙑ сътворихомъ
 # sent_id = 312631
-# parallel_id = bible/matt-7-22/alt2part2
+# parallel_id = bible/matt-7-22/alt1part2
 1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_7.22
 2	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT_7.22
 3	не	не	ADV	Df	Polarity=Neg	7	advmod	_	Ref=MATT_7.22
@@ -27038,7 +27038,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ тогда ꙇсповѣмь ꙇмъ ѣко
 # sent_id = 293845
-# parallel_id = bible/matt-7-23/alt2part1
+# parallel_id = bible/matt-7-23/alt1part1
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.23
 2	тогда	тъгда	ADV	Df	_	3	advmod	_	Ref=MATT_7.23
 3	ꙇсповѣмь	исповѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
@@ -27048,7 +27048,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = николиже знахъ васъ
 # sent_id = 312632
-# parallel_id = bible/matt-7-23/alt2part2
+# parallel_id = bible/matt-7-23/alt1part2
 1	николиже	николиже	ADV	Df	_	2	advmod	_	Ref=MATT_7.23
 2	знахъ	знати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
 3	васъ	вꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	obj	_	Ref=MATT_7.23
@@ -27056,7 +27056,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = отидѣте отъ мене дѣлаѭштиі безаконие
 # sent_id = 293847
-# parallel_id = bible/matt-7-23/alt2part3
+# parallel_id = bible/matt-7-23/alt1part3
 1	отидѣте	отити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.23
 2	отъ	отъ	ADP	R-	_	3	case	_	Ref=MATT_7.23
 3	мене	азъ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl	_	Ref=MATT_7.23
@@ -27066,7 +27066,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Всѣкъ оубо ꙇже слꙑшитъ словеса моѣ си ꙇ сътворитъ ѣ оуподобл҄ѭ и мѫжю мѫдроу ꙇжь съзъда храминѫ своѭ на камене
 # sent_id = 293848
-# parallel_id = bible/matt-7-24/alt2
+# parallel_id = bible/matt-7-24/alt1
 1	Всѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	11	dislocated	_	Ref=MATT_7.24
 2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_7.24
 3	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=MATT_7.24
@@ -27091,7 +27091,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ сънидѫ дъжди ꙇ придѫ рѣкꙑ ꙇ вьзвѣашѧ вѣтри ꙇ нападѫ на храминѫ тѫ
 # sent_id = 293852
-# parallel_id = bible/matt-7-25/alt2part1
+# parallel_id = bible/matt-7-25/alt1part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.25
 2	сънидѫ	сънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.25
 3	дъжди	дъждь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Ref=MATT_7.25
@@ -27110,7 +27110,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ не паде сѧ
 # sent_id = 293855
-# parallel_id = bible/matt-7-25/alt2part2
+# parallel_id = bible/matt-7-25/alt1part2
 1	ꙇ	и	CCONJ	C-	_	3	cc	_	Ref=MATT_7.25
 2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	Ref=MATT_7.25
 3	паде	пасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_7.25
@@ -27119,7 +27119,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = основана бо бѣ на камени
 # sent_id = 293856
-# parallel_id = bible/matt-7-25/alt2part3
+# parallel_id = bible/matt-7-25/alt1part3
 1	основана	основати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=MATT_7.25
 2	бо	бо	ADV	Df	_	1	discourse	_	Ref=MATT_7.25
 3	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	Ref=MATT_7.25
@@ -27129,7 +27129,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ всѣкъ слꙑшѧи словеса моѣ си ꙇ не творѧ ꙇхъ оуподобитъ сѧ мѫжю боую ꙇжь съзъда храминѫ своѭ на пѣсъцѣ
 # sent_id = 293857
-# parallel_id = bible/matt-7-26/alt2
+# parallel_id = bible/matt-7-26/alt1
 1	ꙇ	и	CCONJ	C-	_	11	cc	_	Ref=MATT_7.26
 2	всѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advmod	_	Ref=MATT_7.26
 3	слꙑшѧи	слꙑшати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	nsubj	_	Ref=MATT_7.26
@@ -27154,7 +27154,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ съниде дъждь ꙇ придѫ рѣкꙑ ꙇ възвѣѣшѧ вѣтри ꙇ опьрѣшѧ сѧ храминѣ тои
 # sent_id = 293861
-# parallel_id = bible/matt-7-27/alt2part1
+# parallel_id = bible/matt-7-27/alt1part1
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.27
 2	съниде	сънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.27
 3	дъждь	дъждь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MATT_7.27
@@ -27173,7 +27173,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = ꙇ паде сѧ ꙇ бѣ раздроушение еѩ велие ѕѣло
 # sent_id = 293864
-# parallel_id = bible/matt-7-27/alt2part2
+# parallel_id = bible/matt-7-27/alt1part2
 1	ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.27
 2	паде	пасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_7.27
 3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=MATT_7.27
@@ -27187,7 +27187,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = Ꙇ бꙑстъ егда съконча и҃с всѣ словеса си дивл҄ѣахѫ сѧ народи о оучениі его
 # sent_id = 293866
-# parallel_id = bible/matt-7-28/alt2
+# parallel_id = bible/matt-7-28/alt1
 1	Ꙇ	и	CCONJ	C-	_	2	cc	_	Ref=MATT_7.28
 2	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_7.28
 3	егда	ѥгда	ADV	Dq	PronType=Rel	4	advcl	_	Ref=MATT_7.28
@@ -27206,7 +27206,7 @@
 # source = Codex Zographensis, Matthew 7
 # text = бѣ бо оучѧ ѣко власть ꙇмꙑ ꙇ не ѣко кънижьници ꙇхъ ꙇ фарисеи
 # sent_id = 293869
-# parallel_id = bible/matt-7-29/alt2
+# parallel_id = bible/matt-7-29/alt1
 1	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_7.29
 2	бо	бо	ADV	Df	_	3	discourse	_	Ref=MATT_7.29
 3	оучѧ	оучити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	0	root	_	Ref=MATT_7.29
