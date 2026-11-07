@@ -1,147 +1,147 @@
 # source = Kiev Missal, On the day of St. Clement
 # text = ВЪ И҃ В҃ ДЬНЬ КЛꙆМЕНТА
 # sent_id = 238167
-1	ВЪ	въ	ADP	R-	_	4	case	_	ref=
-2	И҃	дъва.десѧти	NUM	Ma	_	4	nummod	_	ref=
-3	В҃	триѥ	NUM	Ma	_	2	conj	_	ref=
-4	ДЬНЬ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=
-5	КЛꙆМЕНТА	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=
+1	ВЪ	въ	ADP	R-	_	4	case	_	_
+2	И҃	дъва.десѧти	NUM	Ma	_	4	nummod	_	_
+3	В҃	триѥ	NUM	Ma	_	2	conj	_	_
+4	ДЬНЬ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+5	КЛꙆМЕНТА	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = Бъ҃ ꙇже нъи лѣта огрѧдѫцѣ блаженаго климента мѫченіка твоего ꙇ папежа чьстьѭ веселішꙇ подазь мілостівъі да егоже чьсть чьстімъ сілоѭ ѹбо мѫчениѣ его наслѣдѹемъ г҃мь
 # sent_id = 238168
-1	Бъ҃	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
-2	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	ref=
-3	нъи	мꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	ref=
-4	лѣта	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	ref=
-5	огрѧдѫцѣ	огрѧсти	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	4	acl	_	ref=
-6	блаженаго	блаженъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=
-7	климента	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
-8	мѫченіка	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=
-9	твоего	твои	DET	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	det	_	ref=
-10	ꙇ	и	CCONJ	C-	_	11	cc	_	ref=
-11	папежа	папежь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
-12	чьстьѭ	чьсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	ref=
-13	веселішꙇ	веселити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	ref=
-14	подазь	подати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-15	мілостівъі	милостивъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	ref=
-16	да	да	SCONJ	G-	_	24	mark	_	ref=
-17	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	18	acl	_	ref=
-18	чьсть	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	ref=
-19	чьстімъ	чьстити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	22	dislocated	_	ref=
-20	сілоѭ	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	ref=
-21	ѹбо	оубо	ADV	Df	_	24	discourse	_	ref=
-22	мѫчениѣ	мѫчениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	ref=
-23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	ref=
-24	наслѣдѹемъ	наслѣдовати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	ref=
-25	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	24	obl	_	ref=
+1	Бъ҃	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+2	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
+3	нъи	мꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+4	лѣта	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+5	огрѧдѫцѣ	огрѧсти	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	4	acl	_	_
+6	блаженаго	блаженъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	климента	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+8	мѫченіка	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	_
+9	твоего	твои	DET	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	det	_	_
+10	ꙇ	и	CCONJ	C-	_	11	cc	_	_
+11	папежа	папежь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	_
+12	чьстьѭ	чьсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	_
+13	веселішꙇ	веселити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
+14	подазь	подати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	мілостівъі	милостивъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+16	да	да	SCONJ	G-	_	24	mark	_	_
+17	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	18	acl	_	_
+18	чьсть	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+19	чьстімъ	чьстити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	22	dislocated	_	_
+20	сілоѭ	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
+21	ѹбо	оубо	ADV	Df	_	24	discourse	_	_
+22	мѫчениѣ	мѫчениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	_
+24	наслѣдѹемъ	наслѣдовати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+25	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	24	obl	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = НАДЪ ОПЛАТМЬ
 # sent_id = 238169
-1	НАДЪ	надъ	ADP	R-	_	2	case	_	ref=
-2	ОПЛАТМЬ	оплатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	ref=
+1	НАДЪ	надъ	ADP	R-	_	2	case	_	_
+2	ОПЛАТМЬ	оплатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = Рованиѧ г҃і прінесенъиѧ свѧті
 # sent_id = 238170
-1	Рованиѧ	рованиѩ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=
-2	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=
-3	прінесенъиѧ	принести	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	ref=
-4	свѧті	свѧтити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+1	Рованиѧ	рованиѩ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+2	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
+3	прінесенъиѧ	принести	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	_
+4	свѧті	свѧтити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = ꙇ ходатаѧцю блаженѹмѹ климентѹ мѫченикѹ твоемѹ симь нъи отъ грѣхъ скврьностиꙇ нашꙇхъ очісті г҃мь
 # sent_id = 238171
-1	ꙇ	и	CCONJ	C-	_	13	cc	_	ref=
-2	ходатаѧцю	ходатаити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	13	advcl	_	ref=
-3	блаженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=
-4	климентѹ	климентъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	nsubj	_	ref=
-5	мѫченикѹ	мѫченикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	ref=
-6	твоемѹ	твои	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	5	det	_	ref=
-7	симь	сь	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	ref=
-8	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	13	obj	_	ref=
-9	отъ	отъ	ADP	R-	_	11	case	_	ref=
-10	грѣхъ	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
-11	скврьностиꙇ	скврьность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	obl	_	ref=
-12	нашꙇхъ	нашь	DET	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	10	det	_	ref=
-13	очісті	очистити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-14	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	13	obl	_	ref=
+1	ꙇ	и	CCONJ	C-	_	13	cc	_	_
+2	ходатаѧцю	ходатаити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	13	advcl	_	_
+3	блаженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	климентѹ	климентъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	мѫченикѹ	мѫченикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	твоемѹ	твои	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	5	det	_	_
+7	симь	сь	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+8	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+9	отъ	отъ	ADP	R-	_	11	case	_	_
+10	грѣхъ	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+11	скврьностиꙇ	скврьность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	obl	_	_
+12	нашꙇхъ	нашь	DET	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	10	det	_	_
+13	очісті	очистити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	13	obl	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = ПРѢФАЦИѢ
 # sent_id = 238172
-1	ПРѢФАЦИѢ	прѣфациꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+1	ПРѢФАЦИѢ	прѣфациꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = ДО
 # sent_id = 238173
-1	ДО	достоинъ	ADJ	A-	_	0	root	_	ref=
+1	ДО	достоинъ	ADJ	A-	_	0	root	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = вѣчьнъі б҃же Ч]ьстьнаго климента законьніка ꙇ мѫченіка чьсті чьстѧце ꙇже ѹтѧже бъиті блаженѹмѹ апостолѹ твоемѹ петрѹ въ інокості подрѹгъ въ исповѣді ѹченікъ въ чьсті намѣстьнікъ въ мѫчениі наслѣдьнкъ х҃мь г҃мь нашмь
 # sent_id = 238174
-1	вѣчьнъі	вѣчьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=
-2	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	ref=
-3	Ч]ьстьнаго	чьстьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=
-4	климента	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
-5	законьніка	законьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
-6	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
-7	мѫченіка	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
-8	чьсті	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	ref=
-9	чьстѧце	чьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	0	root	_	ref=
-10	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	ref=
-11	ѹтѧже	оутѧгнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=
-12	бъиті	бꙑти	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	cop	_	ref=
-13	блаженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	ref=
-14	апостолѹ	апостолъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	19	obl:arg	_	ref=
-15	твоемѹ	твои	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	14	det	_	ref=
-16	петрѹ	петръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
-17	въ	въ	ADP	R-	_	18	case	_	ref=
-18	інокості	инокость	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	ref=
-19	подрѹгъ	подроугъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	ref=
-20	въ	въ	ADP	R-	_	21	case	_	ref=
-21	исповѣді	исповѣдь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	ref=
-22	ѹченікъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
-23	въ	въ	ADP	R-	_	24	case	_	ref=
-24	чьсті	чьсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	nmod	_	ref=
-25	намѣстьнікъ	намѣстьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
-26	въ	въ	ADP	R-	_	27	case	_	ref=
-27	мѫчениі	мѫчениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	28	nmod	_	ref=
-28	наслѣдьнкъ	наслѣдьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
-29	х҃мь	христ(ос)ъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	11	obl	_	ref=
-30	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	29	appos	_	ref=
-31	нашмь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	30	det	_	ref=
+1	вѣчьнъі	вѣчьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	_
+3	Ч]ьстьнаго	чьстьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	климента	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+5	законьніка	законьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	_
+6	ꙇ	и	CCONJ	C-	_	7	cc	_	_
+7	мѫченіка	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	_
+8	чьсті	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+9	чьстѧце	чьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	0	root	_	_
+10	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
+11	ѹтѧже	оутѧгнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
+12	бъиті	бꙑти	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	cop	_	_
+13	блаженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	апостолѹ	апостолъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	19	obl:arg	_	_
+15	твоемѹ	твои	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	14	det	_	_
+16	петрѹ	петръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	_
+17	въ	въ	ADP	R-	_	18	case	_	_
+18	інокості	инокость	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	_
+19	подрѹгъ	подроугъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	_
+20	въ	въ	ADP	R-	_	21	case	_	_
+21	исповѣді	исповѣдь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+22	ѹченікъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+23	въ	въ	ADP	R-	_	24	case	_	_
+24	чьсті	чьсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	nmod	_	_
+25	намѣстьнікъ	намѣстьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+26	въ	въ	ADP	R-	_	27	case	_	_
+27	мѫчениі	мѫчениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	28	nmod	_	_
+28	наслѣдьнкъ	наслѣдьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+29	х҃мь	христ(ос)ъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+30	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	29	appos	_	_
+31	нашмь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	30	det	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = ПО ВЪСѪДѢ
 # sent_id = 238175
-1	ПО	по	ADP	R-	_	2	case	_	ref=
-2	ВЪСѪДѢ	въсѫдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=
+1	ПО	по	ADP	R-	_	2	case	_	_
+2	ВЪСѪДѢ	въсѫдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, On the day of St. Clement
 # text = Тѣлесе свѧтаго ꙇ прѣдрагъиѧ кръве напльненꙇ вълитиѣ просꙇмъ г҃і б҃же нашь да еже милостіваѣ обѣцѣниѣ носꙇмъ рѣснотівьнаѣ издрѣшениѣ обьмемъ г҃мь
 # sent_id = 238176
-1	Тѣлесе	тѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	obl:arg	_	ref=
-2	свѧтаго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	ref=
-3	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
-4	прѣдрагъиѧ	прѣдрагъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	amod	_	ref=
-5	кръве	кръвь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=
-6	напльненꙇ	напльнити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	advcl	_	ref=
-7	вълитиѣ	вълитиѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	conj	_	ref=
-8	просꙇмъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-9	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	ref=
-10	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	appos	_	ref=
-11	нашь	нашь	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	det	_	ref=
-12	да	да	SCONJ	G-	_	19	mark	_	ref=
-13	еже	ѥже	SCONJ	G-	_	16	mark	_	ref=
-14	милостіваѣ	милостивъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	ref=
-15	обѣцѣниѣ	обѣщаниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	16	obj	_	ref=
-16	носꙇмъ	носити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	ref=
-17	рѣснотівьнаѣ	рѣснотивьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	18	amod	_	ref=
-18	издрѣшениѣ	издрѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	19	obj	_	ref=
-19	обьмемъ	обѧти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	ref=
-20	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	19	obl	_	ref=
+1	Тѣлесе	тѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	obl:arg	_	_
+2	свѧтаго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	_
+3	ꙇ	и	CCONJ	C-	_	7	cc	_	_
+4	прѣдрагъиѧ	прѣдрагъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	amod	_	_
+5	кръве	кръвь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+6	напльненꙇ	напльнити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	advcl	_	_
+7	вълитиѣ	вълитиѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	conj	_	_
+8	просꙇмъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+10	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	appos	_	_
+11	нашь	нашь	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	det	_	_
+12	да	да	SCONJ	G-	_	19	mark	_	_
+13	еже	ѥже	SCONJ	G-	_	16	mark	_	_
+14	милостіваѣ	милостивъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	_
+15	обѣцѣниѣ	обѣщаниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+16	носꙇмъ	носити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	_
+17	рѣснотівьнаѣ	рѣснотивьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	18	amod	_	_
+18	издрѣшениѣ	издрѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	19	obj	_	_
+19	обьмемъ	обѧти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+20	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
 
 # source = Psalterium Sinaiticum, Psalms 34
 # text = л д҃

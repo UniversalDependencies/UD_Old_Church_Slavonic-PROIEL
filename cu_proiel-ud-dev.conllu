@@ -1,168 +1,168 @@
 # source = Kiev Missal, Mass for every day of the year
 # text = МЬШѢ НА ВЬСѦ ДЬНꙆ ВСЕГО ЛѢТА ОБꙆДѪЦѢ
 # sent_id = 238187
-1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
-2	НА	на	ADP	R-	_	4	case	_	ref=
-3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
-4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	ref=
-5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
-6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	ref=
-7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=|LId=1
+1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	НА	на	ADP	R-	_	4	case	_	_
+3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	_
+4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
+5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	_
+7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	LId=1
 
 # source = Kiev Missal, Mass for every day of the year
 # text = Бъ ꙇже тварь своѭ вельмі помілова ꙇ по гнѣвѣ своемь изволі въплътиті сѧ съпасениѣ раді чловѣчьска ꙇ въсхотѣвъ намъ ѹтврьді срьдьцѣ нашѣ ꙇ милостиѭ твоеѭ просвѣті нъи г҃мь
 # sent_id = 238188
-1	Бъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	ref=
-2	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=
-3	тварь	тварь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=
-4	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	ref=
-5	вельмі	вельми	ADV	Df	_	6	advmod	_	ref=
-6	помілова	помиловати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	ref=
-7	ꙇ	и	CCONJ	C-	_	11	cc	_	ref=
-8	по	по	ADP	R-	_	9	case	_	ref=
-9	гнѣвѣ	гнѣвъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	ref=
-10	своемь	свои	DET	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	det	_	ref=
-11	изволі	изволити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=
-12	въплътиті	въплътити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
-13	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	ref=
-14	съпасениѣ	съпасениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	xcomp	_	ref=
-15	раді	ради	ADP	R-	_	14	case	_	ref=
-16	чловѣчьска	чловѣчьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	nmod	_	ref=
-17	ꙇ	и	CCONJ	C-	_	18	cc	_	ref=
-18	въсхотѣвъ	въсхотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	14	conj	_	ref=
-19	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	20	obl	_	ref=
-20	ѹтврьді	оутврьдити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-21	срьдьцѣ	срьдьце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	ref=
-22	нашѣ	нашь	DET	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes	21	det	_	ref=
-23	ꙇ	и	CCONJ	C-	_	26	cc	_	ref=
-24	милостиѭ	милость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	26	obl	_	ref=
-25	твоеѭ	твои	DET	Ps	Case=Ins|Gender=Fem|Number=Sing|Person=2|Poss=Yes	24	det	_	ref=
-26	просвѣті	просвѣтити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	ref=
-27	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	26	obj	_	ref=
-28	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	26	obl	_	ref=
+1	Бъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+2	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
+3	тварь	тварь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+4	своѭ	свои	DET	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	_
+5	вельмі	вельми	ADV	Df	_	6	advmod	_	_
+6	помілова	помиловати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+7	ꙇ	и	CCONJ	C-	_	11	cc	_	_
+8	по	по	ADP	R-	_	9	case	_	_
+9	гнѣвѣ	гнѣвъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+10	своемь	свои	DET	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	det	_	_
+11	изволі	изволити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+12	въплътиті	въплътити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
+14	съпасениѣ	съпасениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	xcomp	_	_
+15	раді	ради	ADP	R-	_	14	case	_	_
+16	чловѣчьска	чловѣчьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	nmod	_	_
+17	ꙇ	и	CCONJ	C-	_	18	cc	_	_
+18	въсхотѣвъ	въсхотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	14	conj	_	_
+19	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	20	obl	_	_
+20	ѹтврьді	оутврьдити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+21	срьдьцѣ	срьдьце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	_
+22	нашѣ	нашь	DET	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes	21	det	_	_
+23	ꙇ	и	CCONJ	C-	_	26	cc	_	_
+24	милостиѭ	милость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	26	obl	_	_
+25	твоеѭ	твои	DET	Ps	Case=Ins|Gender=Fem|Number=Sing|Person=2|Poss=Yes	24	det	_	_
+26	просвѣті	просвѣтити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	_
+27	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	26	obj	_	_
+28	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	26	obl	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = НАДЪ ОПЛАТЪМЬ
 # sent_id = 238189
-1	НАДЪ	надъ	ADP	R-	_	2	case	_	ref=
-2	ОПЛАТЪМЬ	оплатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	ref=
+1	НАДЪ	надъ	ADP	R-	_	2	case	_	_
+2	ОПЛАТЪМЬ	оплатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = Блізъ насъ бѫді г҃і
 # sent_id = 238190
-1	Блізъ	близъ	ADP	R-	_	2	case	_	ref=
-2	насъ	мꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	0	root	_	ref=
-3	бѫді	бꙑти	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=
-4	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=
+1	Блізъ	близъ	ADP	R-	_	2	case	_	_
+2	насъ	мꙑ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	0	root	_	_
+3	бѫді	бꙑти	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = просімъ тѧ
 # sent_id = 238191
-1	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	ref=
+1	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = ꙇ молітвѫ нашѫ ѹслъиші да ѹпъвание въ]ньмемъ дѣлъ своіхъ ꙇ въ любъвь даръ сь тебѣ пріносімъ г҃мь
 # sent_id = 238192
-1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=
-2	молітвѫ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=
-3	нашѫ	нашь	DET	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes	2	det	_	ref=
-4	ѹслъиші	оуслꙑшати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-5	да	да	SCONJ	G-	_	7	mark	_	ref=
-6	ѹпъвание	оупъваниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	ref=
-7	въ]ньмемъ	вънѧти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=
-8	дѣлъ	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	ref=
-9	своіхъ	свои	DET	Pt	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	8	det	_	ref=
-10	ꙇ	и	CCONJ	C-	_	16	cc	_	ref=
-11	въ	въ	ADP	R-	_	12	case	_	ref=
-12	любъвь	любꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	ref=
-13	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	ref=
-14	сь	съ	ADP	R-	_	15	case	_	ref=
-15	тебѣ	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	ref=
-16	пріносімъ	приносити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	ref=
-17	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	ref=
+1	ꙇ	и	CCONJ	C-	_	4	cc	_	_
+2	молітвѫ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+3	нашѫ	нашь	DET	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes	2	det	_	_
+4	ѹслъиші	оуслꙑшати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	да	да	SCONJ	G-	_	7	mark	_	_
+6	ѹпъвание	оупъваниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+7	въ]ньмемъ	вънѧти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+8	дѣлъ	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+9	своіхъ	свои	DET	Pt	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	8	det	_	_
+10	ꙇ	и	CCONJ	C-	_	16	cc	_	_
+11	въ	въ	ADP	R-	_	12	case	_	_
+12	любъвь	любꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+13	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+14	сь	съ	ADP	R-	_	15	case	_	_
+15	тебѣ	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	_
+16	пріносімъ	приносити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+17	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = ПРѢФАЦИѢ
 # sent_id = 238193
-1	ПРѢФАЦИѢ	прѣфациꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+1	ПРѢФАЦИѢ	прѣфациꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = вѣчьнъі б҃же Небесьскъиѧ твоѧ сꙇлъи просімъ ꙇ молімъ да съ въишьнімі твоімі достоінъи сътворіші нъи
 # sent_id = 238194
-1	вѣчьнъі	вѣчьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=
-2	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	ref=
-3	Небесьскъиѧ	небесьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	ref=
-4	твоѧ	твои	DET	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	5	det	_	ref=
-5	сꙇлъи	сила	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	ref=
-6	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-7	ꙇ	и	CCONJ	C-	_	8	cc	_	ref=
-8	молімъ	молити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=
-9	да	да	SCONJ	G-	_	14	mark	_	ref=
-10	съ	съ	ADP	R-	_	11	case	_	ref=
-11	въишьнімі	вꙑшьнь	ADJ	A-	Case=Ins|Degree=Pos|Number=Plur	14	advmod	_	ref=
-12	твоімі	твои	DET	Ps	Case=Ins|Number=Plur|Person=2|Poss=Yes	11	det	_	ref=
-13	достоінъи	достоинъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	14	xcomp	_	ref=
-14	сътворіші	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	ref=
-15	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	14	obj	_	ref=
+1	вѣчьнъі	вѣчьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	_
+3	Небесьскъиѧ	небесьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
+4	твоѧ	твои	DET	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	5	det	_	_
+5	сꙇлъи	сила	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
+6	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ꙇ	и	CCONJ	C-	_	8	cc	_	_
+8	молімъ	молити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+9	да	да	SCONJ	G-	_	14	mark	_	_
+10	съ	съ	ADP	R-	_	11	case	_	_
+11	въишьнімі	вꙑшьнь	ADJ	A-	Case=Ins|Degree=Pos|Number=Plur	14	advmod	_	_
+12	твоімі	твои	DET	Ps	Case=Ins|Number=Plur|Person=2|Poss=Yes	11	det	_	_
+13	достоінъи	достоинъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	14	xcomp	_	_
+14	сътворіші	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+15	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = ꙇ вѣчьнаѣ твоѣ ꙇхъже жѧдаемъ подась намъ мꙇлостівьно х҃мь г҃мь нашімь ꙇмь
 # sent_id = 238195
-1	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=
-2	вѣчьнаѣ	вѣчьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	obj	_	ref=
-3	твоѣ	твои	DET	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes	2	det	_	ref=
-4	ꙇхъже	иже	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	5	obl:arg	_	ref=
-5	жѧдаемъ	жѧдати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
-6	подась	подати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-7	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl:arg	_	ref=
-8	мꙇлостівьно	милостивьно	ADV	Df	Degree=Pos	6	advmod	_	ref=
-9	х҃мь	христ(ос)ъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	ref=
-10	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	9	appos	_	ref=
-11	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	det	_	ref=
-12	ꙇмь	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	9	flat:name	_	ref=
+1	ꙇ	и	CCONJ	C-	_	6	cc	_	_
+2	вѣчьнаѣ	вѣчьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	obj	_	_
+3	твоѣ	твои	DET	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes	2	det	_	_
+4	ꙇхъже	иже	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	5	obl:arg	_	_
+5	жѧдаемъ	жѧдати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+6	подась	подати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl:arg	_	_
+8	мꙇлостівьно	милостивьно	ADV	Df	Degree=Pos	6	advmod	_	_
+9	х҃мь	христ(ос)ъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+10	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	9	appos	_	_
+11	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	det	_	_
+12	ꙇмь	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	9	flat:name	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = ПО ВЪСѪДѢ
 # sent_id = 238196
-1	ПО	по	ADP	R-	_	2	case	_	ref=
-2	ВЪСѪДѢ	въсѫдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=
+1	ПО	по	ADP	R-	_	2	case	_	_
+2	ВЪСѪДѢ	въсѫдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = Просімъ тѧ г҃і
 # sent_id = 238197
-1	Просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	ref=
-3	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+1	Просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = дазь намъ да свѧтъі твоі въсѫдъ пріемлѭце достоіні бѫдемъ очішчениѣ твоего
 # sent_id = 238198
-1	дазь	дати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-2	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	1	obl:arg	_	ref=
-3	да	да	SCONJ	G-	_	8	mark	_	ref=
-4	свѧтъі	свѧтъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	6	amod	_	ref=
-5	твоі	твои	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	6	det	_	ref=
-6	въсѫдъ	въсѫдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=
-7	пріемлѭце	приимати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	ref=
-8	достоіні	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	ccomp	_	ref=
-9	бѫдемъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	ref=
-10	очішчениѣ	очищениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl:arg	_	ref=
-11	твоего	твои	DET	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes	10	det	_	ref=
+1	дазь	дати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	намъ	мꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	1	obl:arg	_	_
+3	да	да	SCONJ	G-	_	8	mark	_	_
+4	свѧтъі	свѧтъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	6	amod	_	_
+5	твоі	твои	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	6	det	_	_
+6	въсѫдъ	въсѫдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+7	пріемлѭце	приимати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	_
+8	достоіні	достоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	ccomp	_	_
+9	бѫдемъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	_
+10	очішчениѣ	очищениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl:arg	_	_
+11	твоего	твои	DET	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes	10	det	_	_
 
 # source = Kiev Missal, Mass for every day of the year
 # text = ꙇ вѣра твоѣ въ насъ да въздрастетъ г҃мь нашімь и҃см
 # sent_id = 238199
-1	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
-2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
-3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	ref=
-4	въ	въ	ADP	R-	_	5	case	_	ref=
-5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=
-6	да	да	ADV	Df	_	7	advmod	_	ref=
-7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
-9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	ref=
-10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	ref=
+1	ꙇ	и	CCONJ	C-	_	7	cc	_	_
+2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	_
+4	въ	въ	ADP	R-	_	5	case	_	_
+5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+6	да	да	ADV	Df	_	7	advmod	_	_
+7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	_
+10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	_
 
 # source = Psalterium Sinaiticum, Psalms 76
 # text = о҃ ѕ҃
