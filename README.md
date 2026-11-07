@@ -53,7 +53,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 Data available since: UD v1.2
 License: CC BY-NC-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: bible
 Genre: bible
 Lemmas: converted from manual
 UPOS: converted from manual
