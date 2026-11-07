@@ -113,7 +113,7 @@ foreach my $part (qw(train dev test))
         if($line =~ m/^\#\s*parallel_id\s*=\s*(.+)$/)
         {
             my $parallel_id = $1;
-            if($parallel_id =~ s:^bible/([a-z0-9]+-[0-9]+-[0-9]+).*$:)
+            if($parallel_id =~ m:^bible/([a-z0-9]+-[0-9]+-[0-9]+).*$:)
             {
                 my $verse = $1;
                 my $alt = '';
