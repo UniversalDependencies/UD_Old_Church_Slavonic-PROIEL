@@ -15,7 +15,7 @@ my $path = '/net/work/people/zeman/unidep/UD_Old_Church_Slavonic-PROIEL';
 my %corpus;
 my $current_source;
 my $current_parallel_id;
-my %hash;
+my %chapters;
 foreach my $part (qw(train dev test))
 {
     my $partpath = "$path/cu_proiel-ud-$part.conllu";
@@ -34,28 +34,28 @@ foreach my $part (qw(train dev test))
         {
             $current_parallel_id = $1;
             $current_parallel_id =~ s:^bible/([a-z0-9]+-[0-9]+)-.*$:$1:;
-            unless(exists($hash{$current_parallel_id}{$current_source}))
+            unless(exists($chapters{$current_parallel_id}{$current_source}))
             {
                 my $n_sources = 0;
-                if(exists($hash{$current_parallel_id}))
+                if(exists($chapters{$current_parallel_id}))
                 {
-                    my @sources = keys(%{$hash{$current_parallel_id}});
+                    my @sources = keys(%{$chapters{$current_parallel_id}});
                     $n_sources = scalar(@sources);
                     if($n_sources == 1)
                     {
-                        $hash{$current_parallel_id}{$sources[0]}{'alt'} = 1;
+                        $chapters{$current_parallel_id}{$sources[0]}{'alt'} = 1;
                     }
                 }
                 $n_sources++;
-                $hash{$current_parallel_id}{$current_source} = {'part' => $part, 'line' => $iline};
+                $chapters{$current_parallel_id}{$current_source} = {'part' => $part, 'line' => $iline};
                 if($n_sources > 1)
                 {
-                    $hash{$current_parallel_id}{$current_source}{'alt'} = $n_sources;
+                    $chapters{$current_parallel_id}{$current_source}{'alt'} = $n_sources;
                 }
             }
             else # this parallel_id + source already exists, thus this is second (or higher) part
             {
-                $hash{$current_parallel_id}{$current_source}{'parts'}++;
+                $chapters{$current_parallel_id}{$current_source}{'parts'}++;
             }
         }
         if(m/^\s*$/)
@@ -67,14 +67,14 @@ foreach my $part (qw(train dev test))
     close($in);
 }
 # Print Bible chapters that are available from multiple sources.
-my @chapters = sort(grep {scalar(keys(%{$hash{$_}})) > 1} (keys(%hash)));
+my @chapters = sort(grep {scalar(keys(%{$chapters{$_}})) > 1} (keys(%chapters)));
 foreach my $chapter (@chapters)
 {
-    my @sources = sort(keys(%{$hash{$chapter}}));
+    my @sources = sort(keys(%{$chapters{$chapter}}));
     foreach my $source (@sources)
     {
-        print("$chapter\t$source\t$hash{$chapter}{$source}{part}\t$hash{$chapter}{$source}{line}\talt$hash{$chapter}{$source}{alt}");
-        my $parts = exists($hash{$chapter}{$source}{parts}) ? $hash{$chapter}{$source}{parts} : 1;
+        print("$chapter\t$source\t$chapters{$chapter}{$source}{part}\t$chapters{$chapter}{$source}{line}\talt$chapters{$chapter}{$source}{alt}");
+        my $parts = exists($chapters{$chapter}{$source}{parts}) ? $chapters{$chapter}{$source}{parts} : 1;
         print("\t$parts parts\n");
     }
 }
