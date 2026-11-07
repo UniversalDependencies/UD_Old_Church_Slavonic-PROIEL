@@ -50,7 +50,7 @@ foreach my $part (qw(train dev test))
                 $hash{$current_parallel_id}{$current_source} = {'part' => $part, 'line' => $iline};
                 if($n_sources > 1)
                 {
-                    $hash{$current_parallel_id}{$sources[0]}{'alt'} = $n_sources;
+                    $hash{$current_parallel_id}{$current_source}{'alt'} = $n_sources;
                 }
             }
         }
