@@ -14,8 +14,10 @@ binmode(STDERR, ':utf8');
 my $path = '/net/work/people/zeman/unidep/UD_Old_Church_Slavonic-PROIEL';
 my %corpus;
 my $current_source;
-my $current_parallel_id;
+my $current_chapter;
+my $current_verse;
 my %chapters;
+my %verses;
 foreach my $part (qw(train dev test))
 {
     my $partpath = "$path/cu_proiel-ud-$part.conllu";
@@ -32,41 +34,69 @@ foreach my $part (qw(train dev test))
         }
         if(m/^\#\s*parallel_id\s*=\s*(.+)$/)
         {
-            $current_parallel_id = $1;
-            $current_parallel_id =~ s:^bible/([a-z0-9]+-[0-9]+)-.*$:$1:;
-            unless(exists($chapters{$current_parallel_id}{$current_source}))
+            $current_chapter = $1;
+            $current_chapter =~ s:^bible/([a-z0-9]+-[0-9]+)-([0-9]+).*$:$1:;
+            $current_verse = $2;
+            # Save the chapter with source.
+            unless(exists($chapters{$current_chapter}{$current_source}))
             {
                 my $n_sources = 0;
-                if(exists($chapters{$current_parallel_id}))
+                if(exists($chapters{$current_chapter}))
                 {
-                    my @sources = keys(%{$chapters{$current_parallel_id}});
+                    my @sources = keys(%{$chapters{$current_chapter}});
                     $n_sources = scalar(@sources);
                     if($n_sources == 1)
                     {
-                        $chapters{$current_parallel_id}{$sources[0]}{'alt'} = 1;
+                        $chapters{$current_chapter}{$sources[0]}{'alt'} = 1;
                     }
                 }
                 $n_sources++;
-                $chapters{$current_parallel_id}{$current_source} = {'part' => $part, 'line' => $iline};
+                $chapters{$current_chapter}{$current_source} = {'part' => $part, 'line' => $iline};
                 if($n_sources > 1)
                 {
-                    $chapters{$current_parallel_id}{$current_source}{'alt'} = $n_sources;
+                    $chapters{$current_chapter}{$current_source}{'alt'} = $n_sources;
                 }
             }
             else # this parallel_id + source already exists, thus this is second (or higher) part
             {
-                $chapters{$current_parallel_id}{$current_source}{'parts'}++;
+                $chapters{$current_chapter}{$current_source}{'parts'}++;
+            }
+            # Save the verse with source.
+            unless(exists($verses{"$current_chapter-$current_verse"}{$current_source}))
+            {
+                my $n_sources = 0;
+                if(exists($verses{"$current_chapter-$current_verse"}))
+                {
+                    my @sources = keys(%{$verses{"$current_chapter-$current_verse"}});
+                    $n_sources = scalar(@sources);
+                    if($n_sources == 1)
+                    {
+                        $verses{"$current_chapter-$current_verse"}{$sources[0]}{'alt'} = 1;
+                    }
+                }
+                $n_sources++;
+                $verses{"$current_chapter-$current_verse"}{$current_source} = {'part' => $part, 'line' => $iline};
+                if($n_sources > 1)
+                {
+                    $verses{"$current_chapter-$current_verse"}{$current_source}{'alt'} = $n_sources;
+                }
+            }
+            else # this parallel_id + source already exists, thus this is second (or higher) part
+            {
+                $verses{"$current_chapter-$current_verse"}{$current_source}{'parts'}++;
             }
         }
         if(m/^\s*$/)
         {
             $current_source = undef;
-            $current_parallel_id = undef;
+            $current_chapter = undef;
+            $current_verse = undef;
         }
     }
     close($in);
 }
 # Print Bible chapters that are available from multiple sources.
+%chapters = %verses; ###!!! quick hack to get fine-grained report on verses
 my @chapters = sort(grep {scalar(keys(%{$chapters{$_}})) > 1} (keys(%chapters)));
 foreach my $chapter (@chapters)
 {
