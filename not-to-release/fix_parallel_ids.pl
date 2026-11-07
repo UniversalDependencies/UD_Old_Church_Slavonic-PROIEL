@@ -53,6 +53,10 @@ foreach my $part (qw(train dev test))
                     $hash{$current_parallel_id}{$current_source}{'alt'} = $n_sources;
                 }
             }
+            else # this parallel_id + source already exists, thus this is second (or higher) part
+            {
+                $hash{$current_parallel_id}{$current_source}{'parts'}++;
+            }
         }
         if(m/^\s*$/)
         {
@@ -69,6 +73,8 @@ foreach my $chapter (@chapters)
     my @sources = sort(keys(%{$hash{$chapter}}));
     foreach my $source (@sources)
     {
-        print("$chapter\t$source\t$hash{$chapter}{$source}{part}\t$hash{$chapter}{$source}{line}\talt$hash{$chapter}{$source}{alt}\n");
+        print("$chapter\t$source\t$hash{$chapter}{$source}{part}\t$hash{$chapter}{$source}{line}\talt$hash{$chapter}{$source}{alt}");
+        my $parts = exists($hash{$chapter}{$source}{parts}) ? $hash{$chapter}{$source}{parts} : 1;
+        print("\t$parts parts\n");
     }
 }
