@@ -28,6 +28,8 @@ foreach my $part (qw(train dev test))
         $iline++;
         chomp;
         push(@{$corpus{$part}}, $_);
+        # We assume that each sentence has source; and if it also has parallel_id,
+        # the parallel_id occurs later than the source.
         if(m/^\#\s*source\s*=\s*(.+)$/)
         {
             $current_source = $1;
@@ -59,7 +61,7 @@ foreach my $part (qw(train dev test))
             }
             else # this parallel_id + source already exists, thus this is second (or higher) part
             {
-                $chapters{$current_chapter}{$current_source}{'parts'}++;
+                $chapters{$current_chapter}{$current_source}{'sentences'}++;
             }
             # Save the verse with source.
             unless(exists($verses{"$current_chapter-$current_verse"}{$current_source}))
@@ -83,7 +85,7 @@ foreach my $part (qw(train dev test))
             }
             else # this parallel_id + source already exists, thus this is second (or higher) part
             {
-                $verses{"$current_chapter-$current_verse"}{$current_source}{'parts'}++;
+                $verses{"$current_chapter-$current_verse"}{$current_source}{'sentences'}++;
             }
         }
         if(m/^\s*$/)
@@ -95,16 +97,65 @@ foreach my $part (qw(train dev test))
     }
     close($in);
 }
-# Print Bible chapters that are available from multiple sources.
-%chapters = %verses; ###!!! quick hack to get fine-grained report on verses
-my @chapters = sort(grep {scalar(keys(%{$chapters{$_}})) > 1} (keys(%chapters)));
-foreach my $chapter (@chapters)
+# Modify parallel_ids so that the same verse from different sources get different
+# alt; if there are multiple sentences with the same source, they get the part id.
+my %lastpart;
+foreach my $part (qw(train dev test))
 {
-    my @sources = sort(keys(%{$chapters{$chapter}}));
-    foreach my $source (@sources)
+    foreach my $line (@{$corpus{$part}})
     {
-        print("$chapter\t$source\t$chapters{$chapter}{$source}{part}\t$chapters{$chapter}{$source}{line}\talt$chapters{$chapter}{$source}{alt}");
-        my $parts = exists($chapters{$chapter}{$source}{parts}) ? $chapters{$chapter}{$source}{parts} : 1;
-        print("\t$parts parts\n");
+        # We assume that each sentence has source; and if it also has parallel_id,
+        # the parallel_id occurs later than the source.
+        if($line =~ m/^\#\s*source\s*=\s*(.+)$/)
+        {
+            $current_source = $1;
+        }
+        if($line =~ m/^\#\s*parallel_id\s*=\s*(.+)$/)
+        {
+            my $parallel_id = $1;
+            if($parallel_id =~ s:^bible/([a-z0-9]+-[0-9]+-[0-9]+).*$:)
+            {
+                my $verse = $1;
+                my $alt = '';
+                if(exists($verses{$verse}{$current_source}{alt}))
+                {
+                    $alt = "alt$verses{$verse}{$current_source}{alt}";
+                }
+                my $sentpart = '';
+                if(exists($verses{$verse}{$current_source}{sentences}) && $verses{$verse}{$current_source}{sentences} > 1)
+                {
+                    $lastpart{$verse}{$current_source}++;
+                    $sentpart = "part$lastpart{$verse}{$current_source}";
+                }
+                my $new_parallel_id = "bible/$verse";
+                if($alt || $sentpart)
+                {
+                    $new_parallel_id .= "/$alt$sentpart";
+                }
+                if($new_parallel_id ne $parallel_id)
+                {
+                    print("CHANGE $parallel_id\t==>\t$new_parallel_id\n");
+                }
+            }
+        }
+        if($line =~ m/^\s*$/)
+        {
+            $current_source = undef;
+        }
+    }
+}
+# Print Bible chapters that are available from multiple sources.
+if(0)
+{
+    my @chapters = sort(grep {scalar(keys(%{$chapters{$_}})) > 1} (keys(%chapters)));
+    foreach my $chapter (@chapters)
+    {
+        my @sources = sort(keys(%{$chapters{$chapter}}));
+        foreach my $source (@sources)
+        {
+            print("$chapter\t$source\t$chapters{$chapter}{$source}{part}\t$chapters{$chapter}{$source}{line}\talt$chapters{$chapter}{$source}{alt}");
+            my $sentences = exists($chapters{$chapter}{$source}{sentences}) ? $chapters{$chapter}{$source}{sentences} : 1;
+            print("\t$sentences sentences\n");
+        }
     }
 }
