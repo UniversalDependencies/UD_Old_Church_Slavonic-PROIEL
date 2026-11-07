@@ -36,7 +36,22 @@ foreach my $part (qw(train dev test))
             $current_parallel_id =~ s:^bible/([a-z0-9]+-[0-9]+)-.*$:$1:;
             unless(exists($hash{$current_parallel_id}{$current_source}))
             {
+                my $n_sources = 0;
+                if(exists($hash{$current_parallel_id}))
+                {
+                    my @sources = keys(%{$hash{$current_parallel_id}});
+                    $n_sources = scalar(@sources);
+                    if($n_sources == 1)
+                    {
+                        $hash{$current_parallel_id}{$sources[0]}{'alt'} = 1;
+                    }
+                }
+                $n_sources++;
                 $hash{$current_parallel_id}{$current_source} = {'part' => $part, 'line' => $iline};
+                if($n_sources > 1)
+                {
+                    $hash{$current_parallel_id}{$sources[0]}{'alt'} = $n_sources;
+                }
             }
         }
         if(m/^\s*$/)
@@ -54,6 +69,6 @@ foreach my $chapter (@chapters)
     my @sources = sort(keys(%{$hash{$chapter}}));
     foreach my $source (@sources)
     {
-        print("$chapter\t$source\t$hash{$chapter}{$source}{part}\t$hash{$chapter}{$source}{line}\n");
+        print("$chapter\t$source\t$hash{$chapter}{$source}{part}\t$hash{$chapter}{$source}{line}\talt$hash{$chapter}{$source}{alt}\n");
     }
 }
