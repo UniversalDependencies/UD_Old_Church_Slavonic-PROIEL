@@ -58,6 +58,8 @@ foreach my $part (qw(train dev test))
 my %lastpart;
 foreach my $part (qw(train dev test))
 {
+    my $partpath = "$path/cu_proiel-ud-$part.conllu";
+    open(my $out, ">$partpath") or die("Cannot write '$partpath': $!");
     foreach my $line (@{$corpus{$part}})
     {
         # We assume that each sentence has source; and if it also has parallel_id,
@@ -91,6 +93,7 @@ foreach my $part (qw(train dev test))
                 if($new_parallel_id ne $parallel_id)
                 {
                     print("CHANGE $parallel_id\t==>\t$new_parallel_id\t($current_source)\n");
+                    $line = "\# parallel_id = $new_parallel_id";
                 }
             }
         }
@@ -98,7 +101,9 @@ foreach my $part (qw(train dev test))
         {
             $current_source = undef;
         }
+        print $out ("$line\n");
     }
+    close($out);
 }
 # Print Bible chapters that are available from multiple sources.
 if(0)
