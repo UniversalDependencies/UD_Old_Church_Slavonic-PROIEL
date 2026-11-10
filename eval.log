@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Old_Church_Slavonic-PROIEL:
-commit a75342b7c9ca29215dbd9d18320950670b17386f
+commit 9e444627d70980f238a151e3204f927ccf19f590
+Merge: c1a3719 f4420b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:21:14 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'cu_proiel'
 Language code (from CoNLL-U file name) = 'cu'
@@ -25,19 +25,8 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-dev.conllu
-[Line 4 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 8 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 9 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 10 Sent 238187]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
 [Line 6 Sent 238187]: [L3 WARNING pron-det-without-prontype] The word 'ВЬСѦ' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 8 Sent 238187]: [L3 WARNING pron-det-without-prontype] The word 'ВСЕГО' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 15 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 16 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 17 Sent 238188]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further messages regarding WARNING/FORMAT
 [Line 18 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'своѭ' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 24 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'своемь' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 36 Sent 238188]: [L3 WARNING pron-det-without-prontype] The word 'нашѣ' is tagged 'DET' but it lacks the 'PronType' feature
@@ -64,24 +53,24 @@ Genres: found 1 out of 18 known.
 [Line 15122 Sent 253982]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'стѣнъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 15429 Sent 253997]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'гон҄ению҄') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 16292 Sent 254041]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 8] ('о҅свꙙштень҆ѥ҆', 'пририштѫштии҅хъ') under the predicate 'миловати'.
-[Line 25621 Sent 42465]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
-[Line 27682 Sent 297669]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('і', 'ꙇна') under the predicate 'видѣвъши'.
-Warnings: 1215
+[Line 18383 Sent 37280]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-2' should be 1+1 but it is 1.
+[Line 18393 Sent 37281]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-2' should be 1+1 but it is 1.
+[Line 18403 Sent 37282]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-2' should be 1+1 but it is 1.
+[Line 18421 Sent 50570]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-3' should be 1+1 but it is 1.
+[Line 18442 Sent 37285]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-4' should be 1+1 but it is 1.
+[Line 18451 Sent 37286]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-4' should be 1+1 but it is 1.
+[Line 18533 Sent 37292]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-9' should be 1+1 but it is 1.
+[Line 18583 Sent 37296]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-12' should be 1+1 but it is 1.
+[Line 18605 Sent 50572]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-13' should be 1+1 but it is 1.
+[Line 18621 Sent 50574]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-15-14' should be 1+1 but it is 1.
+...suppressing further messages regarding WARNING/METADATA
+[Line 26346 Sent 42465]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:е҅динъ:det --> 5:нихъ:nmod)
+[Line 28565 Sent 297669]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('і', 'ꙇна') under the predicate 'видѣвъши'.
+Warnings: 1195
 SYNTAX errors: 8
 *** FAILED *** with 8 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-test.conllu
-[Line 4 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 8 Sent 238167]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 13 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 14 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 15 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 16 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 17 Sent 238168]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further messages regarding WARNING/FORMAT
 [Line 21 Sent 238168]: [L3 WARNING pron-det-without-prontype] The word 'твоего' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 61 Sent 238171]: [L3 WARNING pron-det-without-prontype] The word 'твоемѹ' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 62 Sent 238171]: [L3 WARNING pron-det-without-prontype] The word 'симь' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -109,25 +98,25 @@ Exit code: 1
 [Line 12511 Sent 254135]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'ꙁорь҆') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 14758 Sent 254248]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'нападениѥ҆') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 15733 Sent 254292]: [L3 SYNTAX leaf-det] 'det' not expected to have children (10:толицѣ:det --> 15:видѣти:ccomp)
-[Line 23382 Sent 40510]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'словесехъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 27866 Sent 297679]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'архⸯиереі') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 1435
+[Line 21027 Sent 37173]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-13' should be 1 but it is 2.
+[Line 21038 Sent 50530]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-13' should be 2+1 but it is 2.
+[Line 21046 Sent 50531]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-13' should be 2+1 but it is 2.
+[Line 21062 Sent 37175]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-13' should be 2+1 but it is 2.
+[Line 21070 Sent 37176]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-14' should be 1 but it is 2.
+[Line 21083 Sent 50532]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-14' should be 2+1 but it is 2.
+[Line 21090 Sent 50533]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-14' should be 2+1 but it is 2.
+[Line 21104 Sent 50534]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-15' should be 1 but it is 2.
+[Line 21117 Sent 50535]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-15' should be 2+1 but it is 2.
+[Line 21125 Sent 37179]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/mark-14-16' should be 1 but it is 2.
+...suppressing further messages regarding WARNING/METADATA
+[Line 23808 Sent 40510]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'словесехъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 28629 Sent 297679]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'архⸯиереі') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 1543
 SYNTAX errors: 7
 *** FAILED *** with 7 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang cu --max-err=10 UD_Old_Church_Slavonic-PROIEL/cu_proiel-ud-train.conllu
-[Line 4 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 5 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 6 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 7 Sent 238177]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
 [Line 5 Sent 238177]: [L3 WARNING pron-det-without-prontype] The word 'ТЪЗЕ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 13 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 14 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 15 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 16 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-[Line 17 Sent 238178]: [L2 WARNING misc-attr-typo] Possible typo (case or spaces) in MISC attribute 'ref='.
-...suppressing further messages regarding WARNING/FORMAT
 [Line 21 Sent 238178]: [L3 WARNING pron-det-without-prontype] The word 'твоеѧ' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 30 Sent 238179]: [L3 WARNING pron-det-without-prontype] The word 'тоѧзе' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 48 Sent 238181]: [L3 WARNING pron-det-without-prontype] The word 'твоꙇхъ' is tagged 'DET' but it lacks the 'PronType' feature
@@ -160,7 +149,18 @@ Exit code: 1
 [Line 40724 Sent 309894]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 9] ('прѣдѣлъі', 'миръ') under the predicate 'Полагаѩі'.
 [Line 40747 Sent 309897]: [L3 SYNTAX leaf-det] 'det' not expected to have children (5:его:det --> 6:Даѭштааго:acl)
 ...suppressing further messages regarding ERROR/SYNTAX
-Warnings: 11597
+[Line 155151 Sent 50667]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-26' should be 1+1 but it is 1.
+[Line 155174 Sent 50669]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-27' should be 1+1 but it is 1.
+[Line 155225 Sent 38382]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-29' should be 1+1 but it is 1.
+[Line 155266 Sent 38384]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-30' should be 1+1 but it is 1.
+[Line 155296 Sent 59987]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-31' should be 1+1 but it is 1.
+[Line 155349 Sent 50671]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-33' should be 1+1 but it is 1.
+[Line 155359 Sent 50672]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-33' should be 1+1 but it is 1.
+[Line 155435 Sent 38394]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-37' should be 1+1 but it is 1.
+[Line 155455 Sent 50674]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-38' should be 1+1 but it is 1.
+[Line 155480 Sent 38397]: [L2 WARNING parallel-id-alt] The alt suffix of parallel sentence 'bible/matt-5-39' should be 1+1 but it is 1.
+...suppressing further messages regarding WARNING/METADATA
+Warnings: 11770
 SYNTAX errors: 64
 *** FAILED *** with 64 errors
 Exit code: 1
